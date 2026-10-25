@@ -25,3 +25,9 @@ Download each original-route ZIP from the manager cards before leaving if availa
 ## Limits
 
 Rep links filter the interface; they are not login credentials or access controls. Business previews are public campaign material. Assignment files, link snapshots and visit exports do not synchronize. To prevent duplicate visits, use one current master assignment file and replace stale links promptly. Cross-device dispatch, shared notes and authenticated accounts would require a deployed shared backend.
+
+## Share to a worker phone
+
+Enter the worker’s phone number on their manager card. US numbers may use10digits; other countries need the country code. **Send route by text** or **Send with WhatsApp** prepares a message addressed to that worker. Review it and press Send in the selected app. The route link opens their ordered businesses, websites, proposals and pitch scripts. Phone numbers stay in the manager browser and assignment export; they are not included in personal route URLs.
+
+Each stop shows Website, Proposal and Pitch script together before verification and immediately above the visit record. These links always match the current business. Verify the storefront before presenting to the owner.
