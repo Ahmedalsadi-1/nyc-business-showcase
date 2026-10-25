@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "handmade-dumpling",
+  "products": [
+    {
+      "id": "handmade-dumpling-1",
+      "name": "Dumpling plate study",
+      "category": "Dumplings",
+      "price": 12,
+      "material": "Sample menu item · filling to confirm",
+      "description": "A sample dumpling entry. Fillings, preparation, portions and allergens must be confirmed by the restaurant.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "handmade-dumpling-2",
+      "name": "Shared plate study",
+      "category": "To share",
+      "price": 16,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable example for a shared plate from the actual menu.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "handmade-dumpling-3",
+      "name": "Side dish study",
+      "category": "Sides",
+      "price": 6,
+      "material": "Sample menu item · ingredients to confirm",
+      "description": "A sample side entry with room for the real dish and its description.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "handmade-dumpling-4",
+      "name": "Tea study",
+      "category": "Drinks",
+      "price": 4,
+      "material": "Sample menu item · size to confirm",
+      "description": "A sample drink card to replace with a real menu selection.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

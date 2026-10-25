@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "golden-palace-jewelry",
+  "products": [
+    {
+      "id": "golden-palace-jewelry-1",
+      "name": "Sculpted ring",
+      "category": "Rings",
+      "price": 180,
+      "material": "Sample design · material unconfirmed",
+      "description": "A ring study for demonstrating photographs, measurements and a jeweler’s description. This is not a confirmed product or metal specification.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "jewel"
+    },
+    {
+      "id": "golden-palace-jewelry-2",
+      "name": "Fine-link necklace",
+      "category": "Necklaces",
+      "price": 240,
+      "material": "Sample design · length unconfirmed",
+      "description": "An editable necklace entry with room for chain length, clasp details and verified metal information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "jewel"
+    },
+    {
+      "id": "golden-palace-jewelry-3",
+      "name": "Everyday hoops",
+      "category": "Earrings",
+      "price": 125,
+      "material": "Sample design · size unconfirmed",
+      "description": "A sample pair of earrings to demonstrate a close-view product page and availability information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "jewel"
+    },
+    {
+      "id": "golden-palace-jewelry-4",
+      "name": "Link bracelet",
+      "category": "Bracelets",
+      "price": 195,
+      "material": "Sample design · fit unconfirmed",
+      "description": "A bracelet entry that can be replaced with a real piece, its dimensions and confirmed price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "jewel"
+    }
+  ]
+}

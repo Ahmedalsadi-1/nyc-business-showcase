@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "ambrosia-garden",
+  "products": [
+    {
+      "id": "ambrosia-garden-1",
+      "name": "Garden salad study",
+      "category": "To start",
+      "price": 14,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A sample salad entry. The restaurant confirms the dish, ingredients and allergens.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "ambrosia-garden-2",
+      "name": "Table spread study",
+      "category": "To share",
+      "price": 16,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable shared-plate entry for the actual menu and serving details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "ambrosia-garden-3",
+      "name": "Main plate study",
+      "category": "Plates",
+      "price": 26,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A sample main-course card with room for the restaurant’s own preparation notes.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "ambrosia-garden-4",
+      "name": "Sweet finish study",
+      "category": "Dessert",
+      "price": 9,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A dessert example, ready for actual product imagery and ingredient information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

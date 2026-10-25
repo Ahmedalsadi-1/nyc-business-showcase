@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "judiths-bakery",
+  "products": [
+    {
+      "id": "judiths-bakery-1",
+      "name": "Breakfast plate study",
+      "category": "Breakfast",
+      "price": 12,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An example plate for demonstrating a menu description. The restaurant confirms actual dishes and ingredients.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "judiths-bakery-2",
+      "name": "Lunch plate study",
+      "category": "Plates",
+      "price": 16,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable menu entry with space for sides, preparation and allergen information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "judiths-bakery-3",
+      "name": "Bread counter study",
+      "category": "Bakes",
+      "price": 4,
+      "material": "Sample menu item · selection to confirm",
+      "description": "A sample counter entry to replace with a real product and its description.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "judiths-bakery-4",
+      "name": "House drink study",
+      "category": "Drinks",
+      "price": 5,
+      "material": "Sample menu item · size to confirm",
+      "description": "A drink example with room for ingredients, serving size and price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

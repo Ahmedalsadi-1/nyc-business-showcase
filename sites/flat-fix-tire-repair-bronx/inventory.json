@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "flat-fix-tire-repair-bronx",
+  "products": [
+    {
+      "id": "flat-fix-tire-repair-bronx-1",
+      "name": "City tire entry",
+      "category": "Passenger",
+      "price": 85,
+      "material": "Sample tire · size unconfirmed",
+      "description": "A sample product entry. Confirm actual brand, size, ratings, condition and suitability with the shop.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "flat-fix-tire-repair-bronx-2",
+      "name": "Touring tire entry",
+      "category": "Touring",
+      "price": 110,
+      "material": "Sample tire · size unconfirmed",
+      "description": "An editable example for tire specifications and stock information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "flat-fix-tire-repair-bronx-3",
+      "name": "Utility tire entry",
+      "category": "Utility",
+      "price": 135,
+      "material": "Sample tire · size unconfirmed",
+      "description": "A demonstration listing for an actual tire photograph and verified fitment details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "flat-fix-tire-repair-bronx-4",
+      "name": "Seasonal tire entry",
+      "category": "Seasonal",
+      "price": 120,
+      "material": "Sample tire · size unconfirmed",
+      "description": "A sample collection item. No compatibility or safety recommendation is made here.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

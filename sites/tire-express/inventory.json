@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "tire-express",
+  "products": [
+    {
+      "id": "tire-express-1",
+      "name": "City tire study",
+      "category": "Passenger",
+      "price": 95,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A sample product entry. Brand, tire size, speed rating, load rating and compatibility must be confirmed by the shop.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "tire-express-2",
+      "name": "Touring tire study",
+      "category": "Touring",
+      "price": 120,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A demonstration entry for a tire’s verified specifications and price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "tire-express-3",
+      "name": "Utility tire study",
+      "category": "Utility",
+      "price": 145,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A sample tire card with room for vehicle fitment and condition information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "tire-express-4",
+      "name": "Seasonal tire study",
+      "category": "Seasonal",
+      "price": 135,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "An editable example. This catalogue does not recommend a tire for any vehicle.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

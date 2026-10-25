@@ -1,0 +1,8080 @@
+{
+  "exporter": "nyc-public-showcase-v1",
+  "preparedAt": "2026-10-25T21:30:06.491Z",
+  "businessCount": 125,
+  "fileCount": 2015,
+  "totalBytes": 54201779,
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "file": "index.html",
+      "bytes": 513
+    },
+    {
+      "file": "INVENTORY-GUIDE.md",
+      "bytes": 3543
+    },
+    {
+      "file": "maps-screenshots/170th-auto-mechanic.jpg.webp",
+      "bytes": 43928
+    },
+    {
+      "file": "maps-screenshots/2154-flower-for-all-occasions.jpg.webp",
+      "bytes": 56362
+    },
+    {
+      "file": "maps-screenshots/3rd-ave-auto-corporation.jpg.webp",
+      "bytes": 51924
+    },
+    {
+      "file": "maps-screenshots/672-e-138th-food-corporation.jpg.webp",
+      "bytes": 62496
+    },
+    {
+      "file": "maps-screenshots/agua-de-la-vida-spa.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/alex-s-shoe-repair.jpg.webp",
+      "bytes": 54482
+    },
+    {
+      "file": "maps-screenshots/ambrosia-garden.jpg.webp",
+      "bytes": 48522
+    },
+    {
+      "file": "maps-screenshots/andrade-shoe-repair.jpg.webp",
+      "bytes": 52516
+    },
+    {
+      "file": "maps-screenshots/angel-s-auto-mechanic-shop.jpg.webp",
+      "bytes": 49534
+    },
+    {
+      "file": "maps-screenshots/animal-clinic.jpg.webp",
+      "bytes": 44884
+    },
+    {
+      "file": "maps-screenshots/arena-wine-liquor-depot.jpg.webp",
+      "bytes": 41604
+    },
+    {
+      "file": "maps-screenshots/arty-s-shoe-repair.jpg.webp",
+      "bytes": 40520
+    },
+    {
+      "file": "maps-screenshots/atlantic-brushless-car-wash.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/atlantic-car-service.jpg.webp",
+      "bytes": 54096
+    },
+    {
+      "file": "maps-screenshots/back2life-barbershop.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/beauty-garden-salon-nyc.jpg.webp",
+      "bytes": 40544
+    },
+    {
+      "file": "maps-screenshots/before-coffee.jpg.webp",
+      "bytes": 32512
+    },
+    {
+      "file": "maps-screenshots/best-18-auto-repair.jpg.webp",
+      "bytes": 47714
+    },
+    {
+      "file": "maps-screenshots/bismillah-auto-repair.jpg.webp",
+      "bytes": 39862
+    },
+    {
+      "file": "maps-screenshots/blade-in-brooklyn.jpg.webp",
+      "bytes": 42544
+    },
+    {
+      "file": "maps-screenshots/blvck-auto-spa.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/bonny-nails-salon.jpg.webp",
+      "bytes": 38090
+    },
+    {
+      "file": "maps-screenshots/broadway-nails.jpg.webp",
+      "bytes": 35326
+    },
+    {
+      "file": "maps-screenshots/bronx-best-tire-shop.jpg.webp",
+      "bytes": 44858
+    },
+    {
+      "file": "maps-screenshots/brooklyn-splash.jpg.webp",
+      "bytes": 51980
+    },
+    {
+      "file": "maps-screenshots/bushwick-your-style-nail-salon.jpg.webp",
+      "bytes": 46906
+    },
+    {
+      "file": "maps-screenshots/cali-s-auto-repair-diagnostics.jpg.webp",
+      "bytes": 33552
+    },
+    {
+      "file": "maps-screenshots/chucks-mobile-car-wash.jpg.webp",
+      "bytes": 55344
+    },
+    {
+      "file": "maps-screenshots/cibao-travel.jpg.webp",
+      "bytes": 44424
+    },
+    {
+      "file": "maps-screenshots/damascus-bread-pastry-shop.jpg.webp",
+      "bytes": 49164
+    },
+    {
+      "file": "maps-screenshots/darling-nails-spa.jpg.webp",
+      "bytes": 42058
+    },
+    {
+      "file": "maps-screenshots/david-s-auto-repair.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/dominican-auto-repair-corporation.jpg.webp",
+      "bytes": 41776
+    },
+    {
+      "file": "maps-screenshots/dream-auto-repairs.jpg.webp",
+      "bytes": 44386
+    },
+    {
+      "file": "maps-screenshots/east-landscaping.jpg.webp",
+      "bytes": 60350
+    },
+    {
+      "file": "maps-screenshots/empire-barbershop-ny.jpg.webp",
+      "bytes": 39896
+    },
+    {
+      "file": "maps-screenshots/errol-auto-repair.jpg.webp",
+      "bytes": 44732
+    },
+    {
+      "file": "maps-screenshots/evergreen-cleaners.jpg.webp",
+      "bytes": 46418
+    },
+    {
+      "file": "maps-screenshots/evolution-barber-shop.jpg.webp",
+      "bytes": 41734
+    },
+    {
+      "file": "maps-screenshots/fade-factory.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/faith-and-grace-tire-center.jpg.webp",
+      "bytes": 43686
+    },
+    {
+      "file": "maps-screenshots/family-auto-repair-shop.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/flat-fix-tire-repair-bronx.jpg.webp",
+      "bytes": 43122
+    },
+    {
+      "file": "maps-screenshots/flr-cleaner-corporation.jpg.webp",
+      "bytes": 48012
+    },
+    {
+      "file": "maps-screenshots/fordham-cachapas-deli.jpg.webp",
+      "bytes": 40926
+    },
+    {
+      "file": "maps-screenshots/full-leather-shoe-repair.jpg.webp",
+      "bytes": 51582
+    },
+    {
+      "file": "maps-screenshots/g-a-auto-diagnostic-wheel-alignments-center-inc.jpg.webp",
+      "bytes": 43906
+    },
+    {
+      "file": "maps-screenshots/garcia-barbershop-unisex.jpg.webp",
+      "bytes": 51322
+    },
+    {
+      "file": "maps-screenshots/gentmode-barbershop.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/geo-barber-shop-beauty-salon.jpg.webp",
+      "bytes": 62900
+    },
+    {
+      "file": "maps-screenshots/golden-palace-jewelry.jpg.webp",
+      "bytes": 47142
+    },
+    {
+      "file": "maps-screenshots/grace-cleaners.jpg.webp",
+      "bytes": 46688
+    },
+    {
+      "file": "maps-screenshots/h-brklyn-brber.jpg.webp",
+      "bytes": 45956
+    },
+    {
+      "file": "maps-screenshots/haircraft-by-paul-and-ben.jpg.webp",
+      "bytes": 46264
+    },
+    {
+      "file": "maps-screenshots/hana-wine-liquor.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/handmade-dumpling.jpg.webp",
+      "bytes": 46738
+    },
+    {
+      "file": "maps-screenshots/inkfusion-tattoo-studio.jpg.webp",
+      "bytes": 45644
+    },
+    {
+      "file": "maps-screenshots/international-luxury-car-service.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/j-j-tailor-souvenir.jpg.webp",
+      "bytes": 37962
+    },
+    {
+      "file": "maps-screenshots/jehami-beauty-salon.jpg.webp",
+      "bytes": 52858
+    },
+    {
+      "file": "maps-screenshots/jireh-tire-shop.jpg.webp",
+      "bytes": 48626
+    },
+    {
+      "file": "maps-screenshots/john-marios-tailors.jpg.webp",
+      "bytes": 34080
+    },
+    {
+      "file": "maps-screenshots/jorge-auto-repair.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/judiths-bakery.jpg.webp",
+      "bytes": 50120
+    },
+    {
+      "file": "maps-screenshots/k-d-tire-shop.jpg.webp",
+      "bytes": 48180
+    },
+    {
+      "file": "maps-screenshots/kc-auto-repair-inc.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/kiki-s.jpg.webp",
+      "bytes": 46628
+    },
+    {
+      "file": "maps-screenshots/king-kutz-barber-shop.jpg.webp",
+      "bytes": 43974
+    },
+    {
+      "file": "maps-screenshots/korn-s-bakery.jpg.webp",
+      "bytes": 40764
+    },
+    {
+      "file": "maps-screenshots/la-muse-nail-inc.jpg.webp",
+      "bytes": 46820
+    },
+    {
+      "file": "maps-screenshots/level-up-events.jpg.webp",
+      "bytes": 45456
+    },
+    {
+      "file": "maps-screenshots/ligia-s-alterations.jpg.webp",
+      "bytes": 51604
+    },
+    {
+      "file": "maps-screenshots/lola-s-hair-beauty-boutique.jpg.webp",
+      "bytes": 55216
+    },
+    {
+      "file": "maps-screenshots/londel-s.jpg.webp",
+      "bytes": 44936
+    },
+    {
+      "file": "maps-screenshots/lopez-auto-repair.jpg.webp",
+      "bytes": 44476
+    },
+    {
+      "file": "maps-screenshots/lucky-trade-automotive.jpg.webp",
+      "bytes": 48940
+    },
+    {
+      "file": "maps-screenshots/luxury-cut.jpg.webp",
+      "bytes": 33878
+    },
+    {
+      "file": "maps-screenshots/m-m-car-wash-lube.jpg.webp",
+      "bytes": 53520
+    },
+    {
+      "file": "maps-screenshots/maria-s-travel.jpg.webp",
+      "bytes": 50194
+    },
+    {
+      "file": "maps-screenshots/mario-s-auto-repair.jpg.webp",
+      "bytes": 53108
+    },
+    {
+      "file": "maps-screenshots/monarch-cleaners.jpg.webp",
+      "bytes": 51026
+    },
+    {
+      "file": "maps-screenshots/mr-sparkle-corp-hand-carwash.jpg.webp",
+      "bytes": 48626
+    },
+    {
+      "file": "maps-screenshots/my-neighborhood-barber-shop.jpg.webp",
+      "bytes": 56698
+    },
+    {
+      "file": "maps-screenshots/nahel-beauty-salon.jpg.webp",
+      "bytes": 47488
+    },
+    {
+      "file": "maps-screenshots/nelson-cleaners.jpg.webp",
+      "bytes": 49588
+    },
+    {
+      "file": "maps-screenshots/new-brooklyn-car-services-inc.jpg.webp",
+      "bytes": 29286
+    },
+    {
+      "file": "maps-screenshots/new-stylez-barber-shop.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/new-york-auto-repair-of-brooklyn.jpg.webp",
+      "bytes": 50608
+    },
+    {
+      "file": "maps-screenshots/nyc-tattoo-parlor.jpg.webp",
+      "bytes": 48312
+    },
+    {
+      "file": "maps-screenshots/paws-and-plates.jpg.webp",
+      "bytes": 46712
+    },
+    {
+      "file": "maps-screenshots/perfect-10-shoe-repair.jpg.webp",
+      "bytes": 51544
+    },
+    {
+      "file": "maps-screenshots/pet-club.jpg.webp",
+      "bytes": 53244
+    },
+    {
+      "file": "maps-screenshots/pet-island.jpg.webp",
+      "bytes": 58504
+    },
+    {
+      "file": "maps-screenshots/professional-alterations-and-custom-garment-center.jpg.webp",
+      "bytes": 51870
+    },
+    {
+      "file": "maps-screenshots/pujols-barber-shop.jpg.webp",
+      "bytes": 54540
+    },
+    {
+      "file": "maps-screenshots/rancho-restaurant.jpg.webp",
+      "bytes": 48532
+    },
+    {
+      "file": "maps-screenshots/rca-auto.jpg.webp",
+      "bytes": 44704
+    },
+    {
+      "file": "maps-screenshots/river-grocery-more.jpg.webp",
+      "bytes": 52710
+    },
+    {
+      "file": "maps-screenshots/sams-cuts-syles-barber-shop.jpg.webp",
+      "bytes": 53310
+    },
+    {
+      "file": "maps-screenshots/sanchez-barber-shop.jpg.webp",
+      "bytes": 47142
+    },
+    {
+      "file": "maps-screenshots/sastreria-garcia.jpg.webp",
+      "bytes": 47088
+    },
+    {
+      "file": "maps-screenshots/shlomo-friedman-repair-shop.jpg.webp",
+      "bytes": 46584
+    },
+    {
+      "file": "maps-screenshots/simtech-auto-repair-diagnostic.jpg.webp",
+      "bytes": 42646
+    },
+    {
+      "file": "maps-screenshots/sparklyn-car-wash.jpg.webp",
+      "bytes": 40930
+    },
+    {
+      "file": "maps-screenshots/st-lawrence-auto-services.jpg.webp",
+      "bytes": 47378
+    },
+    {
+      "file": "maps-screenshots/steinway-tattoo.jpg.webp",
+      "bytes": 53044
+    },
+    {
+      "file": "maps-screenshots/steve-watch-shoe-repair.jpg.webp",
+      "bytes": 44600
+    },
+    {
+      "file": "maps-screenshots/sweet-cindy-creations.jpg.webp",
+      "bytes": 49548
+    },
+    {
+      "file": "maps-screenshots/tania-s-beauty-place-salon.jpg.webp",
+      "bytes": 46634
+    },
+    {
+      "file": "maps-screenshots/tattoo-piercing.jpg.webp",
+      "bytes": 41444
+    },
+    {
+      "file": "maps-screenshots/the-alteration-shop-by-rahman.jpg.webp",
+      "bytes": 48246
+    },
+    {
+      "file": "maps-screenshots/the-blvd.jpg.webp",
+      "bytes": 42048
+    },
+    {
+      "file": "maps-screenshots/tire-express.jpg.webp",
+      "bytes": 39850
+    },
+    {
+      "file": "maps-screenshots/tony-s-auto-repair.jpg.webp",
+      "bytes": 6518
+    },
+    {
+      "file": "maps-screenshots/top-choice-electrician.jpg.webp",
+      "bytes": 53878
+    },
+    {
+      "file": "maps-screenshots/top-notch-auto-repair.jpg.webp",
+      "bytes": 40330
+    },
+    {
+      "file": "maps-screenshots/tropical-pets-inc.jpg.webp",
+      "bytes": 50056
+    },
+    {
+      "file": "maps-screenshots/tt-savage-nail-salon.jpg.webp",
+      "bytes": 33596
+    },
+    {
+      "file": "maps-screenshots/ustoxona-auto-repair.jpg.webp",
+      "bytes": 50354
+    },
+    {
+      "file": "maps-screenshots/valle-verde.jpg.webp",
+      "bytes": 45146
+    },
+    {
+      "file": "maps-screenshots/vanta-luxury-nail-lounge.jpg.webp",
+      "bytes": 38780
+    },
+    {
+      "file": "maps-screenshots/vc-cleaners-madison-ave.jpg.webp",
+      "bytes": 42248
+    },
+    {
+      "file": "maps-screenshots/w-nails-bar.jpg.webp",
+      "bytes": 39448
+    },
+    {
+      "file": "maps-screenshots/xin-wen-zhou-spa-24-hr.jpg.webp",
+      "bytes": 42686
+    },
+    {
+      "file": "maps-screenshots/zion-auto-repair-and-tires.jpg.webp",
+      "bytes": 50620
+    },
+    {
+      "file": "PITCH-DAY.md",
+      "bytes": 4794
+    },
+    {
+      "file": "pitch-kits/170th-auto-mechanic.md",
+      "bytes": 7689
+    },
+    {
+      "file": "pitch-kits/2154-flower-for-all-occasions.md",
+      "bytes": 7879
+    },
+    {
+      "file": "pitch-kits/3rd-ave-auto-corporation.md",
+      "bytes": 7801
+    },
+    {
+      "file": "pitch-kits/672-e-138th-food-corporation.md",
+      "bytes": 7849
+    },
+    {
+      "file": "pitch-kits/agua-de-la-vida-spa.md",
+      "bytes": 7683
+    },
+    {
+      "file": "pitch-kits/alex-s-shoe-repair.md",
+      "bytes": 7724
+    },
+    {
+      "file": "pitch-kits/ambrosia-garden.md",
+      "bytes": 7588
+    },
+    {
+      "file": "pitch-kits/andrade-shoe-repair.md",
+      "bytes": 7721
+    },
+    {
+      "file": "pitch-kits/angel-s-auto-mechanic-shop.md",
+      "bytes": 7864
+    },
+    {
+      "file": "pitch-kits/animal-clinic.md",
+      "bytes": 7560
+    },
+    {
+      "file": "pitch-kits/arena-wine-liquor-depot.md",
+      "bytes": 7803
+    },
+    {
+      "file": "pitch-kits/arty-s-shoe-repair.md",
+      "bytes": 7720
+    },
+    {
+      "file": "pitch-kits/atlantic-brushless-car-wash.md",
+      "bytes": 7848
+    },
+    {
+      "file": "pitch-kits/atlantic-car-service.md",
+      "bytes": 7830
+    },
+    {
+      "file": "pitch-kits/back2life-barbershop.md",
+      "bytes": 7716
+    },
+    {
+      "file": "pitch-kits/beauty-garden-salon-nyc.md",
+      "bytes": 7811
+    },
+    {
+      "file": "pitch-kits/before-coffee.md",
+      "bytes": 7577
+    },
+    {
+      "file": "pitch-kits/best-18-auto-repair.md",
+      "bytes": 7706
+    },
+    {
+      "file": "pitch-kits/bismillah-auto-repair.md",
+      "bytes": 7770
+    },
+    {
+      "file": "pitch-kits/blade-in-brooklyn.md",
+      "bytes": 7646
+    },
+    {
+      "file": "pitch-kits/blvck-auto-spa.md",
+      "bytes": 7421
+    },
+    {
+      "file": "pitch-kits/bonny-nails-salon.md",
+      "bytes": 7496
+    },
+    {
+      "file": "pitch-kits/broadway-nails.md",
+      "bytes": 7599
+    },
+    {
+      "file": "pitch-kits/bronx-best-tire-shop.md",
+      "bytes": 7670
+    },
+    {
+      "file": "pitch-kits/brooklyn-splash.md",
+      "bytes": 7546
+    },
+    {
+      "file": "pitch-kits/bushwick-your-style-nail-salon.md",
+      "bytes": 7850
+    },
+    {
+      "file": "pitch-kits/cali-s-auto-repair-diagnostics.md",
+      "bytes": 7959
+    },
+    {
+      "file": "pitch-kits/chucks-mobile-car-wash.md",
+      "bytes": 7760
+    },
+    {
+      "file": "pitch-kits/cibao-travel.md",
+      "bytes": 7554
+    },
+    {
+      "file": "pitch-kits/damascus-bread-pastry-shop.md",
+      "bytes": 7868
+    },
+    {
+      "file": "pitch-kits/darling-nails-spa.md",
+      "bytes": 7683
+    },
+    {
+      "file": "pitch-kits/david-s-auto-repair.md",
+      "bytes": 7750
+    },
+    {
+      "file": "pitch-kits/dominican-auto-repair-corporation.md",
+      "bytes": 8006
+    },
+    {
+      "file": "pitch-kits/dream-auto-repairs.md",
+      "bytes": 7696
+    },
+    {
+      "file": "pitch-kits/east-landscaping.md",
+      "bytes": 7443
+    },
+    {
+      "file": "pitch-kits/empire-barbershop-ny.md",
+      "bytes": 8514
+    },
+    {
+      "file": "pitch-kits/errol-auto-repair.md",
+      "bytes": 7674
+    },
+    {
+      "file": "pitch-kits/evergreen-cleaners.md",
+      "bytes": 7699
+    },
+    {
+      "file": "pitch-kits/evolution-barber-shop.md",
+      "bytes": 7723
+    },
+    {
+      "file": "pitch-kits/fade-factory.md",
+      "bytes": 7578
+    },
+    {
+      "file": "pitch-kits/faith-and-grace-tire-center.md",
+      "bytes": 7818
+    },
+    {
+      "file": "pitch-kits/family-auto-repair-shop.md",
+      "bytes": 7789
+    },
+    {
+      "file": "pitch-kits/flat-fix-tire-repair-bronx.md",
+      "bytes": 7827
+    },
+    {
+      "file": "pitch-kits/flr-cleaner-corporation.md",
+      "bytes": 7760
+    },
+    {
+      "file": "pitch-kits/fordham-cachapas-deli.md",
+      "bytes": 7679
+    },
+    {
+      "file": "pitch-kits/full-leather-shoe-repair.md",
+      "bytes": 7809
+    },
+    {
+      "file": "pitch-kits/g-a-auto-diagnostic-wheel-alignments-center-inc.md",
+      "bytes": 8334
+    },
+    {
+      "file": "pitch-kits/garcia-barbershop-unisex.md",
+      "bytes": 7786
+    },
+    {
+      "file": "pitch-kits/gentmode-barbershop.md",
+      "bytes": 7738
+    },
+    {
+      "file": "pitch-kits/geo-barber-shop-beauty-salon.md",
+      "bytes": 7862
+    },
+    {
+      "file": "pitch-kits/golden-palace-jewelry.md",
+      "bytes": 7709
+    },
+    {
+      "file": "pitch-kits/grace-cleaners.md",
+      "bytes": 7582
+    },
+    {
+      "file": "pitch-kits/h-brklyn-brber.md",
+      "bytes": 7766
+    },
+    {
+      "file": "pitch-kits/haircraft-by-paul-and-ben.md",
+      "bytes": 7813
+    },
+    {
+      "file": "pitch-kits/hana-wine-liquor.md",
+      "bytes": 7652
+    },
+    {
+      "file": "pitch-kits/handmade-dumpling.md",
+      "bytes": 7683
+    },
+    {
+      "file": "pitch-kits/inkfusion-tattoo-studio.md",
+      "bytes": 7787
+    },
+    {
+      "file": "pitch-kits/international-luxury-car-service.md",
+      "bytes": 8033
+    },
+    {
+      "file": "pitch-kits/j-j-tailor-souvenir.md",
+      "bytes": 7674
+    },
+    {
+      "file": "pitch-kits/jehami-beauty-salon.md",
+      "bytes": 7676
+    },
+    {
+      "file": "pitch-kits/jireh-tire-shop.md",
+      "bytes": 7574
+    },
+    {
+      "file": "pitch-kits/john-marios-tailors.md",
+      "bytes": 7696
+    },
+    {
+      "file": "pitch-kits/jorge-auto-repair.md",
+      "bytes": 7669
+    },
+    {
+      "file": "pitch-kits/judiths-bakery.md",
+      "bytes": 7652
+    },
+    {
+      "file": "pitch-kits/k-d-tire-shop.md",
+      "bytes": 7549
+    },
+    {
+      "file": "pitch-kits/kc-auto-repair-inc.md",
+      "bytes": 7703
+    },
+    {
+      "file": "pitch-kits/kiki-s.md",
+      "bytes": 7490
+    },
+    {
+      "file": "pitch-kits/king-kutz-barber-shop.md",
+      "bytes": 7666
+    },
+    {
+      "file": "pitch-kits/korn-s-bakery.md",
+      "bytes": 7572
+    },
+    {
+      "file": "pitch-kits/la-muse-nail-inc.md",
+      "bytes": 7623
+    },
+    {
+      "file": "pitch-kits/level-up-events.md",
+      "bytes": 7610
+    },
+    {
+      "file": "pitch-kits/ligia-s-alterations.md",
+      "bytes": 7677
+    },
+    {
+      "file": "pitch-kits/lola-s-hair-beauty-boutique.md",
+      "bytes": 7879
+    },
+    {
+      "file": "pitch-kits/londel-s.md",
+      "bytes": 7564
+    },
+    {
+      "file": "pitch-kits/lopez-auto-repair.md",
+      "bytes": 7673
+    },
+    {
+      "file": "pitch-kits/lucky-trade-automotive.md",
+      "bytes": 7774
+    },
+    {
+      "file": "pitch-kits/luxury-cut.md",
+      "bytes": 7513
+    },
+    {
+      "file": "pitch-kits/m-m-car-wash-lube.md",
+      "bytes": 7658
+    },
+    {
+      "file": "pitch-kits/maria-s-travel.md",
+      "bytes": 7637
+    },
+    {
+      "file": "pitch-kits/mario-s-auto-repair.md",
+      "bytes": 7742
+    },
+    {
+      "file": "pitch-kits/monarch-cleaners.md",
+      "bytes": 7636
+    },
+    {
+      "file": "pitch-kits/mr-sparkle-corp-hand-carwash.md",
+      "bytes": 7832
+    },
+    {
+      "file": "pitch-kits/my-neighborhood-barber-shop.md",
+      "bytes": 7814
+    },
+    {
+      "file": "pitch-kits/nahel-beauty-salon.md",
+      "bytes": 7656
+    },
+    {
+      "file": "pitch-kits/nelson-cleaners.md",
+      "bytes": 7613
+    },
+    {
+      "file": "pitch-kits/new-brooklyn-car-services-inc.md",
+      "bytes": 7937
+    },
+    {
+      "file": "pitch-kits/new-stylez-barber-shop.md",
+      "bytes": 7771
+    },
+    {
+      "file": "pitch-kits/new-york-auto-repair-of-brooklyn.md",
+      "bytes": 7965
+    },
+    {
+      "file": "pitch-kits/nyc-tattoo-parlor.md",
+      "bytes": 7624
+    },
+    {
+      "file": "pitch-kits/paws-and-plates.md",
+      "bytes": 7401
+    },
+    {
+      "file": "pitch-kits/perfect-10-shoe-repair.md",
+      "bytes": 7783
+    },
+    {
+      "file": "pitch-kits/pet-club.md",
+      "bytes": 7435
+    },
+    {
+      "file": "pitch-kits/pet-island.md",
+      "bytes": 7368
+    },
+    {
+      "file": "pitch-kits/professional-alterations-and-custom-garment-center.md",
+      "bytes": 8460
+    },
+    {
+      "file": "pitch-kits/pujols-barber-shop.md",
+      "bytes": 7665
+    },
+    {
+      "file": "pitch-kits/rancho-restaurant.md",
+      "bytes": 7686
+    },
+    {
+      "file": "pitch-kits/rca-auto.md",
+      "bytes": 7481
+    },
+    {
+      "file": "pitch-kits/river-grocery-more.md",
+      "bytes": 7675
+    },
+    {
+      "file": "pitch-kits/sams-cuts-syles-barber-shop.md",
+      "bytes": 7872
+    },
+    {
+      "file": "pitch-kits/sanchez-barber-shop.md",
+      "bytes": 7675
+    },
+    {
+      "file": "pitch-kits/sastreria-garcia.md",
+      "bytes": 7623
+    },
+    {
+      "file": "pitch-kits/shlomo-friedman-repair-shop.md",
+      "bytes": 7880
+    },
+    {
+      "file": "pitch-kits/simtech-auto-repair-diagnostic.md",
+      "bytes": 7811
+    },
+    {
+      "file": "pitch-kits/sparklyn-car-wash.md",
+      "bytes": 7648
+    },
+    {
+      "file": "pitch-kits/st-lawrence-auto-services.md",
+      "bytes": 7810
+    },
+    {
+      "file": "pitch-kits/steinway-tattoo.md",
+      "bytes": 7614
+    },
+    {
+      "file": "pitch-kits/steve-watch-shoe-repair.md",
+      "bytes": 7808
+    },
+    {
+      "file": "pitch-kits/sweet-cindy-creations.md",
+      "bytes": 7738
+    },
+    {
+      "file": "pitch-kits/tania-s-beauty-place-salon.md",
+      "bytes": 7890
+    },
+    {
+      "file": "pitch-kits/tattoo-piercing.md",
+      "bytes": 7706
+    },
+    {
+      "file": "pitch-kits/the-alteration-shop-by-rahman.md",
+      "bytes": 7989
+    },
+    {
+      "file": "pitch-kits/the-blvd.md",
+      "bytes": 7443
+    },
+    {
+      "file": "pitch-kits/tire-express.md",
+      "bytes": 7517
+    },
+    {
+      "file": "pitch-kits/tony-s-auto-repair.md",
+      "bytes": 7713
+    },
+    {
+      "file": "pitch-kits/top-choice-electrician.md",
+      "bytes": 7735
+    },
+    {
+      "file": "pitch-kits/top-notch-auto-repair.md",
+      "bytes": 7740
+    },
+    {
+      "file": "pitch-kits/tropical-pets-inc.md",
+      "bytes": 7654
+    },
+    {
+      "file": "pitch-kits/tt-savage-nail-salon.md",
+      "bytes": 7697
+    },
+    {
+      "file": "pitch-kits/ustoxona-auto-repair.md",
+      "bytes": 7752
+    },
+    {
+      "file": "pitch-kits/valle-verde.md",
+      "bytes": 7543
+    },
+    {
+      "file": "pitch-kits/vanta-luxury-nail-lounge.md",
+      "bytes": 7775
+    },
+    {
+      "file": "pitch-kits/vc-cleaners-madison-ave.md",
+      "bytes": 7764
+    },
+    {
+      "file": "pitch-kits/w-nails-bar.md",
+      "bytes": 7523
+    },
+    {
+      "file": "pitch-kits/xin-wen-zhou-spa-24-hr.md",
+      "bytes": 7693
+    },
+    {
+      "file": "pitch-kits/zion-auto-repair-and-tires.md",
+      "bytes": 7849
+    },
+    {
+      "file": "proposals/170th-auto-mechanic.html",
+      "bytes": 11493
+    },
+    {
+      "file": "proposals/2154-flower-for-all-occasions.html",
+      "bytes": 11591
+    },
+    {
+      "file": "proposals/3rd-ave-auto-corporation.html",
+      "bytes": 11543
+    },
+    {
+      "file": "proposals/672-e-138th-food-corporation.html",
+      "bytes": 11590
+    },
+    {
+      "file": "proposals/agua-de-la-vida-spa.html",
+      "bytes": 11482
+    },
+    {
+      "file": "proposals/alex-s-shoe-repair.html",
+      "bytes": 11479
+    },
+    {
+      "file": "proposals/ambrosia-garden.html",
+      "bytes": 11258
+    },
+    {
+      "file": "proposals/andrade-shoe-repair.html",
+      "bytes": 11492
+    },
+    {
+      "file": "proposals/angel-s-auto-mechanic-shop.html",
+      "bytes": 11580
+    },
+    {
+      "file": "proposals/animal-clinic.html",
+      "bytes": 11408
+    },
+    {
+      "file": "proposals/arena-wine-liquor-depot.html",
+      "bytes": 11587
+    },
+    {
+      "file": "proposals/arty-s-shoe-repair.html",
+      "bytes": 11481
+    },
+    {
+      "file": "proposals/atlantic-brushless-car-wash.html",
+      "bytes": 11579
+    },
+    {
+      "file": "proposals/atlantic-car-service.html",
+      "bytes": 11521
+    },
+    {
+      "file": "proposals/back2life-barbershop.html",
+      "bytes": 11310
+    },
+    {
+      "file": "proposals/beauty-garden-salon-nyc.html",
+      "bytes": 11533
+    },
+    {
+      "file": "proposals/before-coffee.html",
+      "bytes": 11408
+    },
+    {
+      "file": "proposals/best-18-auto-repair.html",
+      "bytes": 11492
+    },
+    {
+      "file": "proposals/bismillah-auto-repair.html",
+      "bytes": 11531
+    },
+    {
+      "file": "proposals/blade-in-brooklyn.html",
+      "bytes": 11475
+    },
+    {
+      "file": "proposals/blvck-auto-spa.html",
+      "bytes": 11186
+    },
+    {
+      "file": "proposals/bonny-nails-salon.html",
+      "bytes": 11504
+    },
+    {
+      "file": "proposals/broadway-nails.html",
+      "bytes": 11429
+    },
+    {
+      "file": "proposals/bronx-best-tire-shop.html",
+      "bytes": 11485
+    },
+    {
+      "file": "proposals/brooklyn-splash.html",
+      "bytes": 11524
+    },
+    {
+      "file": "proposals/bushwick-your-style-nail-salon.html",
+      "bytes": 11697
+    },
+    {
+      "file": "proposals/cali-s-auto-repair-diagnostics.html",
+      "bytes": 11677
+    },
+    {
+      "file": "proposals/chucks-mobile-car-wash.html",
+      "bytes": 11512
+    },
+    {
+      "file": "proposals/cibao-travel.html",
+      "bytes": 11403
+    },
+    {
+      "file": "proposals/damascus-bread-pastry-shop.html",
+      "bytes": 11600
+    },
+    {
+      "file": "proposals/darling-nails-spa.html",
+      "bytes": 11514
+    },
+    {
+      "file": "proposals/david-s-auto-repair.html",
+      "bytes": 11492
+    },
+    {
+      "file": "proposals/dominican-auto-repair-corporation.html",
+      "bytes": 11648
+    },
+    {
+      "file": "proposals/dream-auto-repairs.html",
+      "bytes": 11497
+    },
+    {
+      "file": "proposals/east-landscaping.html",
+      "bytes": 11274
+    },
+    {
+      "file": "proposals/empire-barbershop-ny.html",
+      "bytes": 12073
+    },
+    {
+      "file": "proposals/errol-auto-repair.html",
+      "bytes": 11465
+    },
+    {
+      "file": "proposals/evergreen-cleaners.html",
+      "bytes": 11470
+    },
+    {
+      "file": "proposals/evolution-barber-shop.html",
+      "bytes": 11513
+    },
+    {
+      "file": "proposals/fade-factory.html",
+      "bytes": 11418
+    },
+    {
+      "file": "proposals/faith-and-grace-tire-center.html",
+      "bytes": 11583
+    },
+    {
+      "file": "proposals/family-auto-repair-shop.html",
+      "bytes": 11552
+    },
+    {
+      "file": "proposals/flat-fix-tire-repair-bronx.html",
+      "bytes": 11558
+    },
+    {
+      "file": "proposals/flr-cleaner-corporation.html",
+      "bytes": 11533
+    },
+    {
+      "file": "proposals/fordham-cachapas-deli.html",
+      "bytes": 11504
+    },
+    {
+      "file": "proposals/full-leather-shoe-repair.html",
+      "bytes": 11559
+    },
+    {
+      "file": "proposals/g-a-auto-diagnostic-wheel-alignments-center-inc.html",
+      "bytes": 11913
+    },
+    {
+      "file": "proposals/garcia-barbershop-unisex.html",
+      "bytes": 11555
+    },
+    {
+      "file": "proposals/gentmode-barbershop.html",
+      "bytes": 11494
+    },
+    {
+      "file": "proposals/geo-barber-shop-beauty-salon.html",
+      "bytes": 11641
+    },
+    {
+      "file": "proposals/golden-palace-jewelry.html",
+      "bytes": 11515
+    },
+    {
+      "file": "proposals/grace-cleaners.html",
+      "bytes": 11420
+    },
+    {
+      "file": "proposals/h-brklyn-brber.html",
+      "bytes": 11541
+    },
+    {
+      "file": "proposals/haircraft-by-paul-and-ben.html",
+      "bytes": 11562
+    },
+    {
+      "file": "proposals/hana-wine-liquor.html",
+      "bytes": 11505
+    },
+    {
+      "file": "proposals/handmade-dumpling.html",
+      "bytes": 11451
+    },
+    {
+      "file": "proposals/inkfusion-tattoo-studio.html",
+      "bytes": 11349
+    },
+    {
+      "file": "proposals/international-luxury-car-service.html",
+      "bytes": 11641
+    },
+    {
+      "file": "proposals/j-j-tailor-souvenir.html",
+      "bytes": 11565
+    },
+    {
+      "file": "proposals/jehami-beauty-salon.html",
+      "bytes": 11489
+    },
+    {
+      "file": "proposals/jireh-tire-shop.html",
+      "bytes": 11437
+    },
+    {
+      "file": "proposals/john-marios-tailors.html",
+      "bytes": 11537
+    },
+    {
+      "file": "proposals/jorge-auto-repair.html",
+      "bytes": 11486
+    },
+    {
+      "file": "proposals/judiths-bakery.html",
+      "bytes": 11421
+    },
+    {
+      "file": "proposals/k-d-tire-shop.html",
+      "bytes": 11470
+    },
+    {
+      "file": "proposals/kc-auto-repair-inc.html",
+      "bytes": 11494
+    },
+    {
+      "file": "proposals/kiki-s.html",
+      "bytes": 11368
+    },
+    {
+      "file": "proposals/king-kutz-barber-shop.html",
+      "bytes": 11602
+    },
+    {
+      "file": "proposals/korn-s-bakery.html",
+      "bytes": 11403
+    },
+    {
+      "file": "proposals/la-muse-nail-inc.html",
+      "bytes": 11474
+    },
+    {
+      "file": "proposals/level-up-events.html",
+      "bytes": 11436
+    },
+    {
+      "file": "proposals/ligia-s-alterations.html",
+      "bytes": 11488
+    },
+    {
+      "file": "proposals/lola-s-hair-beauty-boutique.html",
+      "bytes": 11634
+    },
+    {
+      "file": "proposals/londel-s.html",
+      "bytes": 11364
+    },
+    {
+      "file": "proposals/lopez-auto-repair.html",
+      "bytes": 11487
+    },
+    {
+      "file": "proposals/lucky-trade-automotive.html",
+      "bytes": 11525
+    },
+    {
+      "file": "proposals/luxury-cut.html",
+      "bytes": 11398
+    },
+    {
+      "file": "proposals/m-m-car-wash-lube.html",
+      "bytes": 11555
+    },
+    {
+      "file": "proposals/maria-s-travel.html",
+      "bytes": 11433
+    },
+    {
+      "file": "proposals/mario-s-auto-repair.html",
+      "bytes": 11492
+    },
+    {
+      "file": "proposals/monarch-cleaners.html",
+      "bytes": 11456
+    },
+    {
+      "file": "proposals/mr-sparkle-corp-hand-carwash.html",
+      "bytes": 11586
+    },
+    {
+      "file": "proposals/my-neighborhood-barber-shop.html",
+      "bytes": 11567
+    },
+    {
+      "file": "proposals/nahel-beauty-salon.html",
+      "bytes": 11481
+    },
+    {
+      "file": "proposals/nelson-cleaners.html",
+      "bytes": 11435
+    },
+    {
+      "file": "proposals/new-brooklyn-car-services-inc.html",
+      "bytes": 11610
+    },
+    {
+      "file": "proposals/new-stylez-barber-shop.html",
+      "bytes": 11540
+    },
+    {
+      "file": "proposals/new-york-auto-repair-of-brooklyn.html",
+      "bytes": 11642
+    },
+    {
+      "file": "proposals/nyc-tattoo-parlor.html",
+      "bytes": 11312
+    },
+    {
+      "file": "proposals/paws-and-plates.html",
+      "bytes": 11230
+    },
+    {
+      "file": "proposals/perfect-10-shoe-repair.html",
+      "bytes": 11528
+    },
+    {
+      "file": "proposals/pet-club.html",
+      "bytes": 11169
+    },
+    {
+      "file": "proposals/pet-island.html",
+      "bytes": 11167
+    },
+    {
+      "file": "proposals/professional-alterations-and-custom-garment-center.html",
+      "bytes": 11903
+    },
+    {
+      "file": "proposals/pujols-barber-shop.html",
+      "bytes": 11466
+    },
+    {
+      "file": "proposals/rancho-restaurant.html",
+      "bytes": 11477
+    },
+    {
+      "file": "proposals/rca-auto.html",
+      "bytes": 11367
+    },
+    {
+      "file": "proposals/river-grocery-more.html",
+      "bytes": 11533
+    },
+    {
+      "file": "proposals/sams-cuts-syles-barber-shop.html",
+      "bytes": 11619
+    },
+    {
+      "file": "proposals/sanchez-barber-shop.html",
+      "bytes": 11491
+    },
+    {
+      "file": "proposals/sastreria-garcia.html",
+      "bytes": 11461
+    },
+    {
+      "file": "proposals/shlomo-friedman-repair-shop.html",
+      "bytes": 11583
+    },
+    {
+      "file": "proposals/simtech-auto-repair-diagnostic.html",
+      "bytes": 11712
+    },
+    {
+      "file": "proposals/sparklyn-car-wash.html",
+      "bytes": 11469
+    },
+    {
+      "file": "proposals/st-lawrence-auto-services.html",
+      "bytes": 11555
+    },
+    {
+      "file": "proposals/steinway-tattoo.html",
+      "bytes": 11435
+    },
+    {
+      "file": "proposals/steve-watch-shoe-repair.html",
+      "bytes": 11548
+    },
+    {
+      "file": "proposals/sweet-cindy-creations.html",
+      "bytes": 11503
+    },
+    {
+      "file": "proposals/tania-s-beauty-place-salon.html",
+      "bytes": 11586
+    },
+    {
+      "file": "proposals/tattoo-piercing.html",
+      "bytes": 11506
+    },
+    {
+      "file": "proposals/the-alteration-shop-by-rahman.html",
+      "bytes": 11626
+    },
+    {
+      "file": "proposals/the-blvd.html",
+      "bytes": 11372
+    },
+    {
+      "file": "proposals/tire-express.html",
+      "bytes": 11423
+    },
+    {
+      "file": "proposals/tony-s-auto-repair.html",
+      "bytes": 11497
+    },
+    {
+      "file": "proposals/top-choice-electrician.html",
+      "bytes": 11515
+    },
+    {
+      "file": "proposals/top-notch-auto-repair.html",
+      "bytes": 11509
+    },
+    {
+      "file": "proposals/tropical-pets-inc.html",
+      "bytes": 11463
+    },
+    {
+      "file": "proposals/tt-savage-nail-salon.html",
+      "bytes": 11494
+    },
+    {
+      "file": "proposals/ustoxona-auto-repair.html",
+      "bytes": 11499
+    },
+    {
+      "file": "proposals/valle-verde.html",
+      "bytes": 11393
+    },
+    {
+      "file": "proposals/vanta-luxury-nail-lounge.html",
+      "bytes": 11532
+    },
+    {
+      "file": "proposals/vc-cleaners-madison-ave.html",
+      "bytes": 11533
+    },
+    {
+      "file": "proposals/w-nails-bar.html",
+      "bytes": 11411
+    },
+    {
+      "file": "proposals/xin-wen-zhou-spa-24-hr.html",
+      "bytes": 11522
+    },
+    {
+      "file": "proposals/zion-auto-repair-and-tires.html",
+      "bytes": 11590
+    },
+    {
+      "file": "qa/previews/170th-auto-mechanic.jpg.webp",
+      "bytes": 19492
+    },
+    {
+      "file": "qa/previews/2154-flower-for-all-occasions.jpg.webp",
+      "bytes": 23166
+    },
+    {
+      "file": "qa/previews/3rd-ave-auto-corporation.jpg.webp",
+      "bytes": 22734
+    },
+    {
+      "file": "qa/previews/672-e-138th-food-corporation.jpg.webp",
+      "bytes": 22206
+    },
+    {
+      "file": "qa/previews/agua-de-la-vida-spa.jpg.webp",
+      "bytes": 26676
+    },
+    {
+      "file": "qa/previews/alex-s-shoe-repair.jpg.webp",
+      "bytes": 28478
+    },
+    {
+      "file": "qa/previews/ambrosia-garden.jpg.webp",
+      "bytes": 29112
+    },
+    {
+      "file": "qa/previews/andrade-shoe-repair.jpg.webp",
+      "bytes": 25906
+    },
+    {
+      "file": "qa/previews/angel-s-auto-mechanic-shop.jpg.webp",
+      "bytes": 19892
+    },
+    {
+      "file": "qa/previews/animal-clinic.jpg.webp",
+      "bytes": 27912
+    },
+    {
+      "file": "qa/previews/arena-wine-liquor-depot.jpg.webp",
+      "bytes": 18234
+    },
+    {
+      "file": "qa/previews/arty-s-shoe-repair.jpg.webp",
+      "bytes": 19208
+    },
+    {
+      "file": "qa/previews/atlantic-brushless-car-wash.jpg.webp",
+      "bytes": 30310
+    },
+    {
+      "file": "qa/previews/atlantic-car-service.jpg.webp",
+      "bytes": 16760
+    },
+    {
+      "file": "qa/previews/back2life-barbershop.jpg.webp",
+      "bytes": 26848
+    },
+    {
+      "file": "qa/previews/beauty-garden-salon-nyc.jpg.webp",
+      "bytes": 19622
+    },
+    {
+      "file": "qa/previews/before-coffee.jpg.webp",
+      "bytes": 13232
+    },
+    {
+      "file": "qa/previews/best-18-auto-repair.jpg.webp",
+      "bytes": 21862
+    },
+    {
+      "file": "qa/previews/bismillah-auto-repair.jpg.webp",
+      "bytes": 13364
+    },
+    {
+      "file": "qa/previews/blade-in-brooklyn.jpg.webp",
+      "bytes": 31168
+    },
+    {
+      "file": "qa/previews/blvck-auto-spa.jpg.webp",
+      "bytes": 23478
+    },
+    {
+      "file": "qa/previews/bonny-nails-salon.jpg.webp",
+      "bytes": 14192
+    },
+    {
+      "file": "qa/previews/broadway-nails.jpg.webp",
+      "bytes": 11894
+    },
+    {
+      "file": "qa/previews/bronx-best-tire-shop.jpg.webp",
+      "bytes": 18690
+    },
+    {
+      "file": "qa/previews/brooklyn-splash.jpg.webp",
+      "bytes": 28108
+    },
+    {
+      "file": "qa/previews/bushwick-your-style-nail-salon.jpg.webp",
+      "bytes": 22270
+    },
+    {
+      "file": "qa/previews/cali-s-auto-repair-diagnostics.jpg.webp",
+      "bytes": 22570
+    },
+    {
+      "file": "qa/previews/chucks-mobile-car-wash.jpg.webp",
+      "bytes": 52160
+    },
+    {
+      "file": "qa/previews/cibao-travel.jpg.webp",
+      "bytes": 17218
+    },
+    {
+      "file": "qa/previews/damascus-bread-pastry-shop.jpg.webp",
+      "bytes": 21442
+    },
+    {
+      "file": "qa/previews/darling-nails-spa.jpg.webp",
+      "bytes": 16082
+    },
+    {
+      "file": "qa/previews/david-s-auto-repair.jpg.webp",
+      "bytes": 19656
+    },
+    {
+      "file": "qa/previews/dominican-auto-repair-corporation.jpg.webp",
+      "bytes": 18982
+    },
+    {
+      "file": "qa/previews/dream-auto-repairs.jpg.webp",
+      "bytes": 21214
+    },
+    {
+      "file": "qa/previews/east-landscaping.jpg.webp",
+      "bytes": 28150
+    },
+    {
+      "file": "qa/previews/empire-barbershop-ny.jpg.webp",
+      "bytes": 21384
+    },
+    {
+      "file": "qa/previews/errol-auto-repair.jpg.webp",
+      "bytes": 31728
+    },
+    {
+      "file": "qa/previews/evergreen-cleaners.jpg.webp",
+      "bytes": 25286
+    },
+    {
+      "file": "qa/previews/evolution-barber-shop.jpg.webp",
+      "bytes": 18794
+    },
+    {
+      "file": "qa/previews/fade-factory.jpg.webp",
+      "bytes": 26104
+    },
+    {
+      "file": "qa/previews/faith-and-grace-tire-center.jpg.webp",
+      "bytes": 18004
+    },
+    {
+      "file": "qa/previews/family-auto-repair-shop.jpg.webp",
+      "bytes": 22910
+    },
+    {
+      "file": "qa/previews/flat-fix-tire-repair-bronx.jpg.webp",
+      "bytes": 17238
+    },
+    {
+      "file": "qa/previews/flr-cleaner-corporation.jpg.webp",
+      "bytes": 30838
+    },
+    {
+      "file": "qa/previews/fordham-cachapas-deli.jpg.webp",
+      "bytes": 23996
+    },
+    {
+      "file": "qa/previews/full-leather-shoe-repair.jpg.webp",
+      "bytes": 24114
+    },
+    {
+      "file": "qa/previews/g-a-auto-diagnostic-wheel-alignments-center-inc.jpg.webp",
+      "bytes": 17432
+    },
+    {
+      "file": "qa/previews/garcia-barbershop-unisex.jpg.webp",
+      "bytes": 27566
+    },
+    {
+      "file": "qa/previews/gentmode-barbershop.jpg.webp",
+      "bytes": 19572
+    },
+    {
+      "file": "qa/previews/geo-barber-shop-beauty-salon.jpg.webp",
+      "bytes": 32114
+    },
+    {
+      "file": "qa/previews/golden-palace-jewelry.jpg.webp",
+      "bytes": 22212
+    },
+    {
+      "file": "qa/previews/grace-cleaners.jpg.webp",
+      "bytes": 18338
+    },
+    {
+      "file": "qa/previews/h-brklyn-brber.jpg.webp",
+      "bytes": 24758
+    },
+    {
+      "file": "qa/previews/haircraft-by-paul-and-ben.jpg.webp",
+      "bytes": 23812
+    },
+    {
+      "file": "qa/previews/hana-wine-liquor.jpg.webp",
+      "bytes": 17192
+    },
+    {
+      "file": "qa/previews/handmade-dumpling.jpg.webp",
+      "bytes": 19874
+    },
+    {
+      "file": "qa/previews/inkfusion-tattoo-studio.jpg.webp",
+      "bytes": 15236
+    },
+    {
+      "file": "qa/previews/international-luxury-car-service.jpg.webp",
+      "bytes": 20280
+    },
+    {
+      "file": "qa/previews/j-j-tailor-souvenir.jpg.webp",
+      "bytes": 15004
+    },
+    {
+      "file": "qa/previews/jehami-beauty-salon.jpg.webp",
+      "bytes": 25050
+    },
+    {
+      "file": "qa/previews/jireh-tire-shop.jpg.webp",
+      "bytes": 14008
+    },
+    {
+      "file": "qa/previews/john-marios-tailors.jpg.webp",
+      "bytes": 16232
+    },
+    {
+      "file": "qa/previews/jorge-auto-repair.jpg.webp",
+      "bytes": 23026
+    },
+    {
+      "file": "qa/previews/judiths-bakery.jpg.webp",
+      "bytes": 19878
+    },
+    {
+      "file": "qa/previews/k-d-tire-shop.jpg.webp",
+      "bytes": 17222
+    },
+    {
+      "file": "qa/previews/kc-auto-repair-inc.jpg.webp",
+      "bytes": 20404
+    },
+    {
+      "file": "qa/previews/kiki-s.jpg.webp",
+      "bytes": 24844
+    },
+    {
+      "file": "qa/previews/king-kutz-barber-shop.jpg.webp",
+      "bytes": 26382
+    },
+    {
+      "file": "qa/previews/korn-s-bakery.jpg.webp",
+      "bytes": 27184
+    },
+    {
+      "file": "qa/previews/la-muse-nail-inc.jpg.webp",
+      "bytes": 21950
+    },
+    {
+      "file": "qa/previews/level-up-events.jpg.webp",
+      "bytes": 19608
+    },
+    {
+      "file": "qa/previews/ligia-s-alterations.jpg.webp",
+      "bytes": 30010
+    },
+    {
+      "file": "qa/previews/lola-s-hair-beauty-boutique.jpg.webp",
+      "bytes": 29446
+    },
+    {
+      "file": "qa/previews/londel-s.jpg.webp",
+      "bytes": 23678
+    },
+    {
+      "file": "qa/previews/lopez-auto-repair.jpg.webp",
+      "bytes": 20072
+    },
+    {
+      "file": "qa/previews/lucky-trade-automotive.jpg.webp",
+      "bytes": 28136
+    },
+    {
+      "file": "qa/previews/luxury-cut.jpg.webp",
+      "bytes": 25972
+    },
+    {
+      "file": "qa/previews/m-m-car-wash-lube.jpg.webp",
+      "bytes": 33734
+    },
+    {
+      "file": "qa/previews/maria-s-travel.jpg.webp",
+      "bytes": 32644
+    },
+    {
+      "file": "qa/previews/mario-s-auto-repair.jpg.webp",
+      "bytes": 38140
+    },
+    {
+      "file": "qa/previews/monarch-cleaners.jpg.webp",
+      "bytes": 26214
+    },
+    {
+      "file": "qa/previews/mr-sparkle-corp-hand-carwash.jpg.webp",
+      "bytes": 28594
+    },
+    {
+      "file": "qa/previews/my-neighborhood-barber-shop.jpg.webp",
+      "bytes": 25970
+    },
+    {
+      "file": "qa/previews/nahel-beauty-salon.jpg.webp",
+      "bytes": 18512
+    },
+    {
+      "file": "qa/previews/nelson-cleaners.jpg.webp",
+      "bytes": 26330
+    },
+    {
+      "file": "qa/previews/new-brooklyn-car-services-inc.jpg.webp",
+      "bytes": 18242
+    },
+    {
+      "file": "qa/previews/new-stylez-barber-shop.jpg.webp",
+      "bytes": 21106
+    },
+    {
+      "file": "qa/previews/new-york-auto-repair-of-brooklyn.jpg.webp",
+      "bytes": 35948
+    },
+    {
+      "file": "qa/previews/nyc-tattoo-parlor.jpg.webp",
+      "bytes": 31970
+    },
+    {
+      "file": "qa/previews/paws-and-plates.jpg.webp",
+      "bytes": 12750
+    },
+    {
+      "file": "qa/previews/perfect-10-shoe-repair.jpg.webp",
+      "bytes": 27636
+    },
+    {
+      "file": "qa/previews/pet-club.jpg.webp",
+      "bytes": 15118
+    },
+    {
+      "file": "qa/previews/pet-island.jpg.webp",
+      "bytes": 14436
+    },
+    {
+      "file": "qa/previews/professional-alterations-and-custom-garment-center.jpg.webp",
+      "bytes": 27268
+    },
+    {
+      "file": "qa/previews/pujols-barber-shop.jpg.webp",
+      "bytes": 19260
+    },
+    {
+      "file": "qa/previews/rancho-restaurant.jpg.webp",
+      "bytes": 31906
+    },
+    {
+      "file": "qa/previews/rca-auto.jpg.webp",
+      "bytes": 12178
+    },
+    {
+      "file": "qa/previews/river-grocery-more.jpg.webp",
+      "bytes": 19294
+    },
+    {
+      "file": "qa/previews/sams-cuts-syles-barber-shop.jpg.webp",
+      "bytes": 19332
+    },
+    {
+      "file": "qa/previews/sanchez-barber-shop.jpg.webp",
+      "bytes": 11254
+    },
+    {
+      "file": "qa/previews/sastreria-garcia.jpg.webp",
+      "bytes": 26168
+    },
+    {
+      "file": "qa/previews/shlomo-friedman-repair-shop.jpg.webp",
+      "bytes": 28816
+    },
+    {
+      "file": "qa/previews/simtech-auto-repair-diagnostic.jpg.webp",
+      "bytes": 18650
+    },
+    {
+      "file": "qa/previews/sparklyn-car-wash.jpg.webp",
+      "bytes": 15156
+    },
+    {
+      "file": "qa/previews/st-lawrence-auto-services.jpg.webp",
+      "bytes": 24520
+    },
+    {
+      "file": "qa/previews/steinway-tattoo.jpg.webp",
+      "bytes": 19030
+    },
+    {
+      "file": "qa/previews/steve-watch-shoe-repair.jpg.webp",
+      "bytes": 23232
+    },
+    {
+      "file": "qa/previews/sweet-cindy-creations.jpg.webp",
+      "bytes": 27540
+    },
+    {
+      "file": "qa/previews/tania-s-beauty-place-salon.jpg.webp",
+      "bytes": 16756
+    },
+    {
+      "file": "qa/previews/tattoo-piercing.jpg.webp",
+      "bytes": 15518
+    },
+    {
+      "file": "qa/previews/the-alteration-shop-by-rahman.jpg.webp",
+      "bytes": 17314
+    },
+    {
+      "file": "qa/previews/the-blvd.jpg.webp",
+      "bytes": 28196
+    },
+    {
+      "file": "qa/previews/tire-express.jpg.webp",
+      "bytes": 17424
+    },
+    {
+      "file": "qa/previews/tony-s-auto-repair.jpg.webp",
+      "bytes": 24658
+    },
+    {
+      "file": "qa/previews/top-choice-electrician.jpg.webp",
+      "bytes": 28526
+    },
+    {
+      "file": "qa/previews/top-notch-auto-repair.jpg.webp",
+      "bytes": 19980
+    },
+    {
+      "file": "qa/previews/tropical-pets-inc.jpg.webp",
+      "bytes": 27962
+    },
+    {
+      "file": "qa/previews/tt-savage-nail-salon.jpg.webp",
+      "bytes": 15054
+    },
+    {
+      "file": "qa/previews/ustoxona-auto-repair.jpg.webp",
+      "bytes": 24026
+    },
+    {
+      "file": "qa/previews/valle-verde.jpg.webp",
+      "bytes": 19054
+    },
+    {
+      "file": "qa/previews/vanta-luxury-nail-lounge.jpg.webp",
+      "bytes": 14560
+    },
+    {
+      "file": "qa/previews/vc-cleaners-madison-ave.jpg.webp",
+      "bytes": 15124
+    },
+    {
+      "file": "qa/previews/w-nails-bar.jpg.webp",
+      "bytes": 15294
+    },
+    {
+      "file": "qa/previews/xin-wen-zhou-spa-24-hr.jpg.webp",
+      "bytes": 16954
+    },
+    {
+      "file": "qa/previews/zion-auto-repair-and-tires.jpg.webp",
+      "bytes": 25180
+    },
+    {
+      "file": "reps/assignments.json",
+      "bytes": 4418
+    },
+    {
+      "file": "reps/businesses.js",
+      "bytes": 45737
+    },
+    {
+      "file": "reps/desk.css",
+      "bytes": 6690
+    },
+    {
+      "file": "reps/desk.js",
+      "bytes": 12894
+    },
+    {
+      "file": "reps/GUIDE.md",
+      "bytes": 4290
+    },
+    {
+      "file": "reps/index.html",
+      "bytes": 6202
+    },
+    {
+      "file": "robots.txt",
+      "bytes": 26
+    },
+    {
+      "file": "sites/170th-auto-mechanic/gallery.html",
+      "bytes": 3022
+    },
+    {
+      "file": "sites/170th-auto-mechanic/index.html",
+      "bytes": 4826
+    },
+    {
+      "file": "sites/170th-auto-mechanic/photos/photo-1.jpg.webp",
+      "bytes": 73718
+    },
+    {
+      "file": "sites/170th-auto-mechanic/photos/photo-3.jpg.webp",
+      "bytes": 111696
+    },
+    {
+      "file": "sites/170th-auto-mechanic/reviews.html",
+      "bytes": 3882
+    },
+    {
+      "file": "sites/170th-auto-mechanic/services.html",
+      "bytes": 4185
+    },
+    {
+      "file": "sites/170th-auto-mechanic/taste.css",
+      "bytes": 13531
+    },
+    {
+      "file": "sites/170th-auto-mechanic/taste.js",
+      "bytes": 3166
+    },
+    {
+      "file": "sites/170th-auto-mechanic/visit.html",
+      "bytes": 4258
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/concept-still-life.png.webp",
+      "bytes": 161042
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/gallery.html",
+      "bytes": 35246
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/index.html",
+      "bytes": 6778
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/inventory.html",
+      "bytes": 10351
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/inventory.json",
+      "bytes": 1819
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/photos/photo-1.jpg.webp",
+      "bytes": 124618
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/photos/photo-3.png.webp",
+      "bytes": 255232
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/reviews.html",
+      "bytes": 35049
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/services.html",
+      "bytes": 35341
+    },
+    {
+      "file": "sites/2154-flower-for-all-occasions/visit.html",
+      "bytes": 36695
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/gallery.html",
+      "bytes": 25797
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/index.html",
+      "bytes": 27883
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/photos/photo-1.jpg.webp",
+      "bytes": 164366
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/photos/photo-3.jpg.webp",
+      "bytes": 137976
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/reviews.html",
+      "bytes": 26171
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/services.html",
+      "bytes": 26303
+    },
+    {
+      "file": "sites/3rd-ave-auto-corporation/visit.html",
+      "bytes": 27676
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/concept-still-life.png.webp",
+      "bytes": 167522
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/gallery.html",
+      "bytes": 34517
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/index.html",
+      "bytes": 6723
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/inventory.html",
+      "bytes": 10196
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/inventory.json",
+      "bytes": 1749
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/photos/photo-1.jpg.webp",
+      "bytes": 175664
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/photos/photo-3.jpg.webp",
+      "bytes": 156746
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/reviews.html",
+      "bytes": 34659
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/services.html",
+      "bytes": 34597
+    },
+    {
+      "file": "sites/672-e-138th-food-corporation/visit.html",
+      "bytes": 35943
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/about.html",
+      "bytes": 14790
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/gallery.html",
+      "bytes": 14146
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/index.html",
+      "bytes": 16860
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/photos/photo-1.png.webp",
+      "bytes": 106658
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/photos/photo-2.jpg.webp",
+      "bytes": 7044
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/photos/photo-3.jpg.webp",
+      "bytes": 64720
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/reviews.html",
+      "bytes": 14680
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/services.html",
+      "bytes": 14415
+    },
+    {
+      "file": "sites/agua-de-la-vida-spa/visit.html",
+      "bytes": 14503
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/gallery.html",
+      "bytes": 3033
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/index.html",
+      "bytes": 4997
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/photos/photo-1.png.webp",
+      "bytes": 148378
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 130268
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/reviews.html",
+      "bytes": 4411
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/services.html",
+      "bytes": 4204
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/taste.css",
+      "bytes": 13608
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/taste.js",
+      "bytes": 3160
+    },
+    {
+      "file": "sites/alex-s-shoe-repair/visit.html",
+      "bytes": 4278
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/ambrosia-garden/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/ambrosia-garden/concept-still-life.png.webp",
+      "bytes": 181428
+    },
+    {
+      "file": "sites/ambrosia-garden/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/ambrosia-garden/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/ambrosia-garden/gallery.html",
+      "bytes": 34332
+    },
+    {
+      "file": "sites/ambrosia-garden/index.html",
+      "bytes": 6650
+    },
+    {
+      "file": "sites/ambrosia-garden/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/ambrosia-garden/inventory.html",
+      "bytes": 10014
+    },
+    {
+      "file": "sites/ambrosia-garden/inventory.json",
+      "bytes": 1720
+    },
+    {
+      "file": "sites/ambrosia-garden/photos/photo-1.jpg.webp",
+      "bytes": 116782
+    },
+    {
+      "file": "sites/ambrosia-garden/photos/photo-3.jpg.webp",
+      "bytes": 80694
+    },
+    {
+      "file": "sites/ambrosia-garden/reviews.html",
+      "bytes": 34563
+    },
+    {
+      "file": "sites/ambrosia-garden/services.html",
+      "bytes": 34462
+    },
+    {
+      "file": "sites/ambrosia-garden/visit.html",
+      "bytes": 35783
+    },
+    {
+      "file": "sites/andrade-shoe-repair/gallery.html",
+      "bytes": 25811
+    },
+    {
+      "file": "sites/andrade-shoe-repair/index.html",
+      "bytes": 27891
+    },
+    {
+      "file": "sites/andrade-shoe-repair/photos/photo-1.jpg.webp",
+      "bytes": 141400
+    },
+    {
+      "file": "sites/andrade-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 169650
+    },
+    {
+      "file": "sites/andrade-shoe-repair/reviews.html",
+      "bytes": 25871
+    },
+    {
+      "file": "sites/andrade-shoe-repair/services.html",
+      "bytes": 26317
+    },
+    {
+      "file": "sites/andrade-shoe-repair/visit.html",
+      "bytes": 27694
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/about.html",
+      "bytes": 14443
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/gallery.html",
+      "bytes": 14131
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/index.html",
+      "bytes": 16279
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/photos/photo-1.jpg.webp",
+      "bytes": 84220
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/photos/photo-3.jpg.webp",
+      "bytes": 87028
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/reviews.html",
+      "bytes": 14929
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/services.html",
+      "bytes": 14591
+    },
+    {
+      "file": "sites/angel-s-auto-mechanic-shop/visit.html",
+      "bytes": 14610
+    },
+    {
+      "file": "sites/animal-clinic/gallery.html",
+      "bytes": 2860
+    },
+    {
+      "file": "sites/animal-clinic/index.html",
+      "bytes": 5146
+    },
+    {
+      "file": "sites/animal-clinic/photos/photo-1.jpg.webp",
+      "bytes": 117136
+    },
+    {
+      "file": "sites/animal-clinic/reviews.html",
+      "bytes": 4251
+    },
+    {
+      "file": "sites/animal-clinic/services.html",
+      "bytes": 4248
+    },
+    {
+      "file": "sites/animal-clinic/taste.css",
+      "bytes": 13606
+    },
+    {
+      "file": "sites/animal-clinic/taste.js",
+      "bytes": 3165
+    },
+    {
+      "file": "sites/animal-clinic/visit.html",
+      "bytes": 4472
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/concept-still-life.png.webp",
+      "bytes": 105178
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/gallery.html",
+      "bytes": 34513
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/index.html",
+      "bytes": 6648
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/inventory.html",
+      "bytes": 10272
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/inventory.json",
+      "bytes": 1729
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/photos/photo-1.jpg.webp",
+      "bytes": 95026
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/photos/photo-3.jpg.webp",
+      "bytes": 142764
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/reviews.html",
+      "bytes": 34335
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/services.html",
+      "bytes": 34630
+    },
+    {
+      "file": "sites/arena-wine-liquor-depot/visit.html",
+      "bytes": 35970
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/gallery.html",
+      "bytes": 25607
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/index.html",
+      "bytes": 27688
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/photos/photo-1.jpg.webp",
+      "bytes": 55226
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 112862
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/reviews.html",
+      "bytes": 25690
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/services.html",
+      "bytes": 26122
+    },
+    {
+      "file": "sites/arty-s-shoe-repair/visit.html",
+      "bytes": 27504
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/about.html",
+      "bytes": 14799
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/gallery.html",
+      "bytes": 14200
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/index.html",
+      "bytes": 16836
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/photos/photo-1.jpg.webp",
+      "bytes": 91500
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/photos/photo-2.jpg.webp",
+      "bytes": 5614
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/photos/photo-3.jpg.webp",
+      "bytes": 48436
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/reviews.html",
+      "bytes": 14928
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/services.html",
+      "bytes": 14393
+    },
+    {
+      "file": "sites/atlantic-brushless-car-wash/visit.html",
+      "bytes": 14483
+    },
+    {
+      "file": "sites/atlantic-car-service/gallery.html",
+      "bytes": 2851
+    },
+    {
+      "file": "sites/atlantic-car-service/index.html",
+      "bytes": 5092
+    },
+    {
+      "file": "sites/atlantic-car-service/photos/photo-2.jpg.webp",
+      "bytes": 37396
+    },
+    {
+      "file": "sites/atlantic-car-service/reviews.html",
+      "bytes": 4418
+    },
+    {
+      "file": "sites/atlantic-car-service/services.html",
+      "bytes": 4241
+    },
+    {
+      "file": "sites/atlantic-car-service/taste.css",
+      "bytes": 13516
+    },
+    {
+      "file": "sites/atlantic-car-service/taste.js",
+      "bytes": 3177
+    },
+    {
+      "file": "sites/atlantic-car-service/visit.html",
+      "bytes": 4317
+    },
+    {
+      "file": "sites/back2life-barbershop/gallery.html",
+      "bytes": 25728
+    },
+    {
+      "file": "sites/back2life-barbershop/index.html",
+      "bytes": 27798
+    },
+    {
+      "file": "sites/back2life-barbershop/photos/photo-1.jpg.webp",
+      "bytes": 92496
+    },
+    {
+      "file": "sites/back2life-barbershop/photos/photo-3.jpg.webp",
+      "bytes": 124248
+    },
+    {
+      "file": "sites/back2life-barbershop/reviews.html",
+      "bytes": 26374
+    },
+    {
+      "file": "sites/back2life-barbershop/services.html",
+      "bytes": 26235
+    },
+    {
+      "file": "sites/back2life-barbershop/visit.html",
+      "bytes": 27644
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/about.html",
+      "bytes": 15046
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/gallery.html",
+      "bytes": 15011
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/index.html",
+      "bytes": 17380
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-1.jpg.webp",
+      "bytes": 69142
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-2.jpg.webp",
+      "bytes": 69142
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-3.jpg.webp",
+      "bytes": 57858
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-4.jpg.webp",
+      "bytes": 40224
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-5.jpg.webp",
+      "bytes": 29024
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/photos/photo-6.jpg.webp",
+      "bytes": 9770
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/reviews.html",
+      "bytes": 14854
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/services.html",
+      "bytes": 14631
+    },
+    {
+      "file": "sites/beauty-garden-salon-nyc/visit.html",
+      "bytes": 14686
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/before-coffee/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/before-coffee/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/before-coffee/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/before-coffee/concept-still-life.png.webp",
+      "bytes": 95076
+    },
+    {
+      "file": "sites/before-coffee/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/before-coffee/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/before-coffee/gallery.html",
+      "bytes": 34511
+    },
+    {
+      "file": "sites/before-coffee/index.html",
+      "bytes": 6619
+    },
+    {
+      "file": "sites/before-coffee/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/before-coffee/inventory.html",
+      "bytes": 9992
+    },
+    {
+      "file": "sites/before-coffee/inventory.json",
+      "bytes": 1703
+    },
+    {
+      "file": "sites/before-coffee/photos/photo-1.jpg.webp",
+      "bytes": 77466
+    },
+    {
+      "file": "sites/before-coffee/photos/photo-3.png.webp",
+      "bytes": 67960
+    },
+    {
+      "file": "sites/before-coffee/reviews.html",
+      "bytes": 34726
+    },
+    {
+      "file": "sites/before-coffee/services.html",
+      "bytes": 34645
+    },
+    {
+      "file": "sites/before-coffee/visit.html",
+      "bytes": 35974
+    },
+    {
+      "file": "sites/best-18-auto-repair/gallery.html",
+      "bytes": 3025
+    },
+    {
+      "file": "sites/best-18-auto-repair/index.html",
+      "bytes": 4948
+    },
+    {
+      "file": "sites/best-18-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 85276
+    },
+    {
+      "file": "sites/best-18-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 113094
+    },
+    {
+      "file": "sites/best-18-auto-repair/reviews.html",
+      "bytes": 3945
+    },
+    {
+      "file": "sites/best-18-auto-repair/services.html",
+      "bytes": 4210
+    },
+    {
+      "file": "sites/best-18-auto-repair/taste.css",
+      "bytes": 13638
+    },
+    {
+      "file": "sites/best-18-auto-repair/taste.js",
+      "bytes": 3188
+    },
+    {
+      "file": "sites/best-18-auto-repair/visit.html",
+      "bytes": 4294
+    },
+    {
+      "file": "sites/bismillah-auto-repair/gallery.html",
+      "bytes": 25685
+    },
+    {
+      "file": "sites/bismillah-auto-repair/index.html",
+      "bytes": 27777
+    },
+    {
+      "file": "sites/bismillah-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 42898
+    },
+    {
+      "file": "sites/bismillah-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 61466
+    },
+    {
+      "file": "sites/bismillah-auto-repair/reviews.html",
+      "bytes": 26460
+    },
+    {
+      "file": "sites/bismillah-auto-repair/services.html",
+      "bytes": 26185
+    },
+    {
+      "file": "sites/bismillah-auto-repair/visit.html",
+      "bytes": 27594
+    },
+    {
+      "file": "sites/blade-in-brooklyn/about.html",
+      "bytes": 14178
+    },
+    {
+      "file": "sites/blade-in-brooklyn/gallery.html",
+      "bytes": 13863
+    },
+    {
+      "file": "sites/blade-in-brooklyn/index.html",
+      "bytes": 15947
+    },
+    {
+      "file": "sites/blade-in-brooklyn/photos/photo-1.jpg.webp",
+      "bytes": 134256
+    },
+    {
+      "file": "sites/blade-in-brooklyn/photos/photo-3.jpg.webp",
+      "bytes": 108968
+    },
+    {
+      "file": "sites/blade-in-brooklyn/reviews.html",
+      "bytes": 14675
+    },
+    {
+      "file": "sites/blade-in-brooklyn/services.html",
+      "bytes": 14304
+    },
+    {
+      "file": "sites/blade-in-brooklyn/visit.html",
+      "bytes": 14377
+    },
+    {
+      "file": "sites/blvck-auto-spa/gallery.html",
+      "bytes": 2974
+    },
+    {
+      "file": "sites/blvck-auto-spa/index.html",
+      "bytes": 5023
+    },
+    {
+      "file": "sites/blvck-auto-spa/photos/photo-1.jpg.webp",
+      "bytes": 108116
+    },
+    {
+      "file": "sites/blvck-auto-spa/photos/photo-3.jpg.webp",
+      "bytes": 172758
+    },
+    {
+      "file": "sites/blvck-auto-spa/reviews.html",
+      "bytes": 4521
+    },
+    {
+      "file": "sites/blvck-auto-spa/services.html",
+      "bytes": 4190
+    },
+    {
+      "file": "sites/blvck-auto-spa/taste.css",
+      "bytes": 13674
+    },
+    {
+      "file": "sites/blvck-auto-spa/taste.js",
+      "bytes": 3003
+    },
+    {
+      "file": "sites/blvck-auto-spa/visit.html",
+      "bytes": 3951
+    },
+    {
+      "file": "sites/bonny-nails-salon/gallery.html",
+      "bytes": 25407
+    },
+    {
+      "file": "sites/bonny-nails-salon/index.html",
+      "bytes": 27448
+    },
+    {
+      "file": "sites/bonny-nails-salon/photos/photo-1.jpg.webp",
+      "bytes": 77148
+    },
+    {
+      "file": "sites/bonny-nails-salon/photos/photo-3.jpg.webp",
+      "bytes": 24482
+    },
+    {
+      "file": "sites/bonny-nails-salon/reviews.html",
+      "bytes": 26005
+    },
+    {
+      "file": "sites/bonny-nails-salon/services.html",
+      "bytes": 25919
+    },
+    {
+      "file": "sites/bonny-nails-salon/visit.html",
+      "bytes": 27300
+    },
+    {
+      "file": "sites/broadway-nails/about.html",
+      "bytes": 14328
+    },
+    {
+      "file": "sites/broadway-nails/gallery.html",
+      "bytes": 14007
+    },
+    {
+      "file": "sites/broadway-nails/index.html",
+      "bytes": 16156
+    },
+    {
+      "file": "sites/broadway-nails/photos/photo-1.jpg.webp",
+      "bytes": 23646
+    },
+    {
+      "file": "sites/broadway-nails/photos/photo-3.jpg.webp",
+      "bytes": 56608
+    },
+    {
+      "file": "sites/broadway-nails/reviews.html",
+      "bytes": 14992
+    },
+    {
+      "file": "sites/broadway-nails/services.html",
+      "bytes": 14494
+    },
+    {
+      "file": "sites/broadway-nails/visit.html",
+      "bytes": 14537
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/concept-still-life.png.webp",
+      "bytes": 179410
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/gallery.html",
+      "bytes": 35090
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/index.html",
+      "bytes": 6535
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/inventory.html",
+      "bytes": 10114
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/inventory.json",
+      "bytes": 1737
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/photos/photo-1.jpg.webp",
+      "bytes": 136374
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/photos/photo-3.jpg.webp",
+      "bytes": 22664
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/reviews.html",
+      "bytes": 35065
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/services.html",
+      "bytes": 35226
+    },
+    {
+      "file": "sites/bronx-best-tire-shop/visit.html",
+      "bytes": 36555
+    },
+    {
+      "file": "sites/brooklyn-splash/gallery.html",
+      "bytes": 2983
+    },
+    {
+      "file": "sites/brooklyn-splash/index.html",
+      "bytes": 4976
+    },
+    {
+      "file": "sites/brooklyn-splash/photos/photo-1.jpg.webp",
+      "bytes": 149826
+    },
+    {
+      "file": "sites/brooklyn-splash/photos/photo-3.jpg.webp",
+      "bytes": 104054
+    },
+    {
+      "file": "sites/brooklyn-splash/reviews.html",
+      "bytes": 3697
+    },
+    {
+      "file": "sites/brooklyn-splash/services.html",
+      "bytes": 4199
+    },
+    {
+      "file": "sites/brooklyn-splash/taste.css",
+      "bytes": 13674
+    },
+    {
+      "file": "sites/brooklyn-splash/taste.js",
+      "bytes": 3178
+    },
+    {
+      "file": "sites/brooklyn-splash/visit.html",
+      "bytes": 4258
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/gallery.html",
+      "bytes": 25607
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/index.html",
+      "bytes": 27945
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/photos/photo-1.jpg.webp",
+      "bytes": 139168
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/photos/photo-3.jpg.webp",
+      "bytes": 25160
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/reviews.html",
+      "bytes": 25897
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/services.html",
+      "bytes": 26106
+    },
+    {
+      "file": "sites/bushwick-your-style-nail-salon/visit.html",
+      "bytes": 27505
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/about.html",
+      "bytes": 14499
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/gallery.html",
+      "bytes": 14212
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/index.html",
+      "bytes": 16338
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/photos/photo-1.jpg.webp",
+      "bytes": 36308
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/photos/photo-3.jpg.webp",
+      "bytes": 75272
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/reviews.html",
+      "bytes": 14939
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/services.html",
+      "bytes": 14613
+    },
+    {
+      "file": "sites/cali-s-auto-repair-diagnostics/visit.html",
+      "bytes": 14681
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/gallery.html",
+      "bytes": 3086
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/index.html",
+      "bytes": 5020
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/photos/photo-1.jpg.webp",
+      "bytes": 263336
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/photos/photo-3.jpg.webp",
+      "bytes": 175488
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/reviews.html",
+      "bytes": 4324
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/services.html",
+      "bytes": 4251
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/taste.css",
+      "bytes": 13643
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/taste.js",
+      "bytes": 3171
+    },
+    {
+      "file": "sites/chucks-mobile-car-wash/visit.html",
+      "bytes": 4323
+    },
+    {
+      "file": "sites/cibao-travel/gallery.html",
+      "bytes": 25445
+    },
+    {
+      "file": "sites/cibao-travel/index.html",
+      "bytes": 27513
+    },
+    {
+      "file": "sites/cibao-travel/photos/photo-1.jpg.webp",
+      "bytes": 79240
+    },
+    {
+      "file": "sites/cibao-travel/photos/photo-3.jpg.webp",
+      "bytes": 133756
+    },
+    {
+      "file": "sites/cibao-travel/reviews.html",
+      "bytes": 25518
+    },
+    {
+      "file": "sites/cibao-travel/services.html",
+      "bytes": 25970
+    },
+    {
+      "file": "sites/cibao-travel/visit.html",
+      "bytes": 27359
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/concept-still-life.png.webp",
+      "bytes": 199302
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/gallery.html",
+      "bytes": 34557
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/index.html",
+      "bytes": 6759
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/inventory.html",
+      "bytes": 10215
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/inventory.json",
+      "bytes": 1792
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/photos/photo-1.jpg.webp",
+      "bytes": 122112
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/photos/photo-3.jpg.webp",
+      "bytes": 71714
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/reviews.html",
+      "bytes": 34619
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/services.html",
+      "bytes": 34682
+    },
+    {
+      "file": "sites/damascus-bread-pastry-shop/visit.html",
+      "bytes": 35984
+    },
+    {
+      "file": "sites/darling-nails-spa/about.html",
+      "bytes": 14993
+    },
+    {
+      "file": "sites/darling-nails-spa/gallery.html",
+      "bytes": 14679
+    },
+    {
+      "file": "sites/darling-nails-spa/index.html",
+      "bytes": 16823
+    },
+    {
+      "file": "sites/darling-nails-spa/photos/photo-1.jpg.webp",
+      "bytes": 51874
+    },
+    {
+      "file": "sites/darling-nails-spa/photos/photo-3.png.webp",
+      "bytes": 27550
+    },
+    {
+      "file": "sites/darling-nails-spa/reviews.html",
+      "bytes": 15809
+    },
+    {
+      "file": "sites/darling-nails-spa/services.html",
+      "bytes": 15138
+    },
+    {
+      "file": "sites/darling-nails-spa/visit.html",
+      "bytes": 15205
+    },
+    {
+      "file": "sites/david-s-auto-repair/gallery.html",
+      "bytes": 3055
+    },
+    {
+      "file": "sites/david-s-auto-repair/index.html",
+      "bytes": 5109
+    },
+    {
+      "file": "sites/david-s-auto-repair/photos/photo-1.png.webp",
+      "bytes": 83304
+    },
+    {
+      "file": "sites/david-s-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 210634
+    },
+    {
+      "file": "sites/david-s-auto-repair/reviews.html",
+      "bytes": 4061
+    },
+    {
+      "file": "sites/david-s-auto-repair/services.html",
+      "bytes": 4236
+    },
+    {
+      "file": "sites/david-s-auto-repair/taste.css",
+      "bytes": 13642
+    },
+    {
+      "file": "sites/david-s-auto-repair/taste.js",
+      "bytes": 3164
+    },
+    {
+      "file": "sites/david-s-auto-repair/visit.html",
+      "bytes": 4302
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/gallery.html",
+      "bytes": 27097
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/index.html",
+      "bytes": 28773
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/photos/photo-1.jpg.webp",
+      "bytes": 103362
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/photos/photo-3.jpg.webp",
+      "bytes": 96422
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/reviews.html",
+      "bytes": 26648
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/services.html",
+      "bytes": 26923
+    },
+    {
+      "file": "sites/dominican-auto-repair-corporation/visit.html",
+      "bytes": 28172
+    },
+    {
+      "file": "sites/dream-auto-repairs/about.html",
+      "bytes": 14848
+    },
+    {
+      "file": "sites/dream-auto-repairs/gallery.html",
+      "bytes": 14533
+    },
+    {
+      "file": "sites/dream-auto-repairs/index.html",
+      "bytes": 16702
+    },
+    {
+      "file": "sites/dream-auto-repairs/photos/photo-1.jpg.webp",
+      "bytes": 42814
+    },
+    {
+      "file": "sites/dream-auto-repairs/photos/photo-3.jpg.webp",
+      "bytes": 142576
+    },
+    {
+      "file": "sites/dream-auto-repairs/reviews.html",
+      "bytes": 14832
+    },
+    {
+      "file": "sites/dream-auto-repairs/services.html",
+      "bytes": 14997
+    },
+    {
+      "file": "sites/dream-auto-repairs/visit.html",
+      "bytes": 15077
+    },
+    {
+      "file": "sites/east-landscaping/gallery.html",
+      "bytes": 2686
+    },
+    {
+      "file": "sites/east-landscaping/index.html",
+      "bytes": 4731
+    },
+    {
+      "file": "sites/east-landscaping/photos/photo-1.jpg.webp",
+      "bytes": 180460
+    },
+    {
+      "file": "sites/east-landscaping/reviews.html",
+      "bytes": 3332
+    },
+    {
+      "file": "sites/east-landscaping/services.html",
+      "bytes": 4101
+    },
+    {
+      "file": "sites/east-landscaping/taste.css",
+      "bytes": 13531
+    },
+    {
+      "file": "sites/east-landscaping/taste.js",
+      "bytes": 3182
+    },
+    {
+      "file": "sites/east-landscaping/visit.html",
+      "bytes": 4168
+    },
+    {
+      "file": "sites/empire-barbershop-ny/gallery.html",
+      "bytes": 27773
+    },
+    {
+      "file": "sites/empire-barbershop-ny/index.html",
+      "bytes": 29563
+    },
+    {
+      "file": "sites/empire-barbershop-ny/photos/photo-1.png.webp",
+      "bytes": 73660
+    },
+    {
+      "file": "sites/empire-barbershop-ny/photos/photo-3.jpg.webp",
+      "bytes": 25206
+    },
+    {
+      "file": "sites/empire-barbershop-ny/reviews.html",
+      "bytes": 28261
+    },
+    {
+      "file": "sites/empire-barbershop-ny/services.html",
+      "bytes": 27373
+    },
+    {
+      "file": "sites/empire-barbershop-ny/visit.html",
+      "bytes": 28683
+    },
+    {
+      "file": "sites/errol-auto-repair/about.html",
+      "bytes": 14773
+    },
+    {
+      "file": "sites/errol-auto-repair/gallery.html",
+      "bytes": 14648
+    },
+    {
+      "file": "sites/errol-auto-repair/index.html",
+      "bytes": 16472
+    },
+    {
+      "file": "sites/errol-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 134624
+    },
+    {
+      "file": "sites/errol-auto-repair/photos/photo-2.jpg.webp",
+      "bytes": 5938
+    },
+    {
+      "file": "sites/errol-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 163258
+    },
+    {
+      "file": "sites/errol-auto-repair/reviews.html",
+      "bytes": 15023
+    },
+    {
+      "file": "sites/errol-auto-repair/services.html",
+      "bytes": 14906
+    },
+    {
+      "file": "sites/errol-auto-repair/visit.html",
+      "bytes": 14626
+    },
+    {
+      "file": "sites/evergreen-cleaners/gallery.html",
+      "bytes": 3082
+    },
+    {
+      "file": "sites/evergreen-cleaners/index.html",
+      "bytes": 5089
+    },
+    {
+      "file": "sites/evergreen-cleaners/photos/photo-1.jpg.webp",
+      "bytes": 97732
+    },
+    {
+      "file": "sites/evergreen-cleaners/photos/photo-3.jpg.webp",
+      "bytes": 100466
+    },
+    {
+      "file": "sites/evergreen-cleaners/reviews.html",
+      "bytes": 4137
+    },
+    {
+      "file": "sites/evergreen-cleaners/services.html",
+      "bytes": 4272
+    },
+    {
+      "file": "sites/evergreen-cleaners/taste.css",
+      "bytes": 13626
+    },
+    {
+      "file": "sites/evergreen-cleaners/taste.js",
+      "bytes": 3181
+    },
+    {
+      "file": "sites/evergreen-cleaners/visit.html",
+      "bytes": 4350
+    },
+    {
+      "file": "sites/evolution-barber-shop/gallery.html",
+      "bytes": 27123
+    },
+    {
+      "file": "sites/evolution-barber-shop/index.html",
+      "bytes": 28700
+    },
+    {
+      "file": "sites/evolution-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 49694
+    },
+    {
+      "file": "sites/evolution-barber-shop/photos/photo-2.jpg.webp",
+      "bytes": 7682
+    },
+    {
+      "file": "sites/evolution-barber-shop/photos/photo-3.jpg.webp",
+      "bytes": 61168
+    },
+    {
+      "file": "sites/evolution-barber-shop/reviews.html",
+      "bytes": 27064
+    },
+    {
+      "file": "sites/evolution-barber-shop/services.html",
+      "bytes": 26722
+    },
+    {
+      "file": "sites/evolution-barber-shop/visit.html",
+      "bytes": 28001
+    },
+    {
+      "file": "sites/fade-factory/about.html",
+      "bytes": 14788
+    },
+    {
+      "file": "sites/fade-factory/gallery.html",
+      "bytes": 14464
+    },
+    {
+      "file": "sites/fade-factory/index.html",
+      "bytes": 16556
+    },
+    {
+      "file": "sites/fade-factory/photos/photo-1.jpg.webp",
+      "bytes": 116756
+    },
+    {
+      "file": "sites/fade-factory/photos/photo-3.jpg.webp",
+      "bytes": 69212
+    },
+    {
+      "file": "sites/fade-factory/reviews.html",
+      "bytes": 14869
+    },
+    {
+      "file": "sites/fade-factory/services.html",
+      "bytes": 14910
+    },
+    {
+      "file": "sites/fade-factory/visit.html",
+      "bytes": 15045
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/concept-still-life.png.webp",
+      "bytes": 108162
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/gallery.html",
+      "bytes": 35447
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/index.html",
+      "bytes": 6655
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/inventory.html",
+      "bytes": 10209
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/inventory.json",
+      "bytes": 1784
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/photos/photo-1.jpg.webp",
+      "bytes": 128704
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/photos/photo-3.jpg.webp",
+      "bytes": 96114
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/reviews.html",
+      "bytes": 36348
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/services.html",
+      "bytes": 35265
+    },
+    {
+      "file": "sites/faith-and-grace-tire-center/visit.html",
+      "bytes": 36511
+    },
+    {
+      "file": "sites/family-auto-repair-shop/gallery.html",
+      "bytes": 3067
+    },
+    {
+      "file": "sites/family-auto-repair-shop/index.html",
+      "bytes": 5058
+    },
+    {
+      "file": "sites/family-auto-repair-shop/photos/photo-1.jpg.webp",
+      "bytes": 129250
+    },
+    {
+      "file": "sites/family-auto-repair-shop/photos/photo-3.jpg.webp",
+      "bytes": 52658
+    },
+    {
+      "file": "sites/family-auto-repair-shop/reviews.html",
+      "bytes": 4311
+    },
+    {
+      "file": "sites/family-auto-repair-shop/services.html",
+      "bytes": 4238
+    },
+    {
+      "file": "sites/family-auto-repair-shop/taste.css",
+      "bytes": 13610
+    },
+    {
+      "file": "sites/family-auto-repair-shop/taste.js",
+      "bytes": 3158
+    },
+    {
+      "file": "sites/family-auto-repair-shop/visit.html",
+      "bytes": 4289
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/about.html",
+      "bytes": 32150
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/concept-still-life.png.webp",
+      "bytes": 134656
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/gallery.html",
+      "bytes": 31735
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/index.html",
+      "bytes": 6688
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/inventory.html",
+      "bytes": 10222
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/inventory.json",
+      "bytes": 1767
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/photos/photo-1.jpg.webp",
+      "bytes": 117710
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/photos/photo-3.jpg.webp",
+      "bytes": 124838
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/services.html",
+      "bytes": 32151
+    },
+    {
+      "file": "sites/flat-fix-tire-repair-bronx/visit.html",
+      "bytes": 32881
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/about.html",
+      "bytes": 25824
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/gallery.html",
+      "bytes": 26113
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/index.html",
+      "bytes": 27615
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/photos/photo-1.jpg.webp",
+      "bytes": 138612
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/photos/photo-2.jpg.webp",
+      "bytes": 118136
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/services.html",
+      "bytes": 26366
+    },
+    {
+      "file": "sites/flr-cleaner-corporation/visit.html",
+      "bytes": 27285
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/about.html",
+      "bytes": 32996
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/concept-still-life.png.webp",
+      "bytes": 197370
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/gallery.html",
+      "bytes": 32910
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/index.html",
+      "bytes": 6653
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/inventory.html",
+      "bytes": 10021
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/inventory.json",
+      "bytes": 1721
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/photos/photo-1.png.webp",
+      "bytes": 50346
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/photos/photo-3.jpg.webp",
+      "bytes": 67236
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/services.html",
+      "bytes": 33162
+    },
+    {
+      "file": "sites/fordham-cachapas-deli/visit.html",
+      "bytes": 34075
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/about.html",
+      "bytes": 14792
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/gallery.html",
+      "bytes": 14467
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/index.html",
+      "bytes": 16590
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/photos/photo-1.jpg.webp",
+      "bytes": 130444
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 69522
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/reviews.html",
+      "bytes": 15525
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/services.html",
+      "bytes": 14907
+    },
+    {
+      "file": "sites/full-leather-shoe-repair/visit.html",
+      "bytes": 14982
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/about.html",
+      "bytes": 4153
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/gallery.html",
+      "bytes": 3559
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/index.html",
+      "bytes": 5709
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/photos/photo-1.png.webp",
+      "bytes": 37066
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/photos/photo-3.jpg.webp",
+      "bytes": 104742
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/services.html",
+      "bytes": 4614
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/taste.css",
+      "bytes": 13614
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/taste.js",
+      "bytes": 3207
+    },
+    {
+      "file": "sites/g-a-auto-diagnostic-wheel-alignments-center-inc/visit.html",
+      "bytes": 4697
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/about.html",
+      "bytes": 26652
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/gallery.html",
+      "bytes": 26258
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/index.html",
+      "bytes": 27759
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/photos/photo-1.jpg.webp",
+      "bytes": 109412
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/photos/photo-2.jpg.webp",
+      "bytes": 8654
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/photos/photo-3.jpg.webp",
+      "bytes": 85234
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/services.html",
+      "bytes": 26287
+    },
+    {
+      "file": "sites/garcia-barbershop-unisex/visit.html",
+      "bytes": 27175
+    },
+    {
+      "file": "sites/gentmode-barbershop/about.html",
+      "bytes": 14743
+    },
+    {
+      "file": "sites/gentmode-barbershop/gallery.html",
+      "bytes": 14434
+    },
+    {
+      "file": "sites/gentmode-barbershop/index.html",
+      "bytes": 16477
+    },
+    {
+      "file": "sites/gentmode-barbershop/photos/photo-1.jpg.webp",
+      "bytes": 55884
+    },
+    {
+      "file": "sites/gentmode-barbershop/photos/photo-3.jpg.webp",
+      "bytes": 135492
+    },
+    {
+      "file": "sites/gentmode-barbershop/reviews.html",
+      "bytes": 15437
+    },
+    {
+      "file": "sites/gentmode-barbershop/services.html",
+      "bytes": 14836
+    },
+    {
+      "file": "sites/gentmode-barbershop/visit.html",
+      "bytes": 14959
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/about.html",
+      "bytes": 4448
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/gallery.html",
+      "bytes": 2962
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/index.html",
+      "bytes": 5121
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/photos/photo-1.jpg.webp",
+      "bytes": 212858
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/services.html",
+      "bytes": 4363
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/taste.css",
+      "bytes": 13557
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/taste.js",
+      "bytes": 3183
+    },
+    {
+      "file": "sites/geo-barber-shop-beauty-salon/visit.html",
+      "bytes": 4410
+    },
+    {
+      "file": "sites/golden-palace-jewelry/about.html",
+      "bytes": 32851
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/golden-palace-jewelry/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/golden-palace-jewelry/concept-still-life.png.webp",
+      "bytes": 162372
+    },
+    {
+      "file": "sites/golden-palace-jewelry/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/golden-palace-jewelry/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/golden-palace-jewelry/gallery.html",
+      "bytes": 33459
+    },
+    {
+      "file": "sites/golden-palace-jewelry/index.html",
+      "bytes": 6762
+    },
+    {
+      "file": "sites/golden-palace-jewelry/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/golden-palace-jewelry/inventory.html",
+      "bytes": 10363
+    },
+    {
+      "file": "sites/golden-palace-jewelry/inventory.json",
+      "bytes": 1848
+    },
+    {
+      "file": "sites/golden-palace-jewelry/photos/photo-1.jpg.webp",
+      "bytes": 71540
+    },
+    {
+      "file": "sites/golden-palace-jewelry/photos/photo-2.jpg.webp",
+      "bytes": 8102
+    },
+    {
+      "file": "sites/golden-palace-jewelry/photos/photo-3.jpg.webp",
+      "bytes": 68690
+    },
+    {
+      "file": "sites/golden-palace-jewelry/services.html",
+      "bytes": 33451
+    },
+    {
+      "file": "sites/golden-palace-jewelry/visit.html",
+      "bytes": 34398
+    },
+    {
+      "file": "sites/grace-cleaners/about.html",
+      "bytes": 26823
+    },
+    {
+      "file": "sites/grace-cleaners/gallery.html",
+      "bytes": 26213
+    },
+    {
+      "file": "sites/grace-cleaners/index.html",
+      "bytes": 27740
+    },
+    {
+      "file": "sites/grace-cleaners/photos/photo-1.jpg.webp",
+      "bytes": 95666
+    },
+    {
+      "file": "sites/grace-cleaners/photos/photo-2.jpg.webp",
+      "bytes": 85722
+    },
+    {
+      "file": "sites/grace-cleaners/photos/photo-3.png.webp",
+      "bytes": 164516
+    },
+    {
+      "file": "sites/grace-cleaners/services.html",
+      "bytes": 26364
+    },
+    {
+      "file": "sites/grace-cleaners/visit.html",
+      "bytes": 27255
+    },
+    {
+      "file": "sites/h-brklyn-brber/about.html",
+      "bytes": 14802
+    },
+    {
+      "file": "sites/h-brklyn-brber/gallery.html",
+      "bytes": 14737
+    },
+    {
+      "file": "sites/h-brklyn-brber/index.html",
+      "bytes": 16794
+    },
+    {
+      "file": "sites/h-brklyn-brber/photos/photo-1.jpg.webp",
+      "bytes": 82938
+    },
+    {
+      "file": "sites/h-brklyn-brber/photos/photo-2.jpg.webp",
+      "bytes": 7856
+    },
+    {
+      "file": "sites/h-brklyn-brber/photos/photo-3.jpg.webp",
+      "bytes": 76810
+    },
+    {
+      "file": "sites/h-brklyn-brber/reviews.html",
+      "bytes": 15138
+    },
+    {
+      "file": "sites/h-brklyn-brber/services.html",
+      "bytes": 14929
+    },
+    {
+      "file": "sites/h-brklyn-brber/visit.html",
+      "bytes": 15041
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/about.html",
+      "bytes": 4355
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/gallery.html",
+      "bytes": 3096
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/index.html",
+      "bytes": 4998
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/photos/photo-1.jpg.webp",
+      "bytes": 115210
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/photos/photo-3.jpg.webp",
+      "bytes": 92230
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/services.html",
+      "bytes": 4270
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/taste.css",
+      "bytes": 13629
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/taste.js",
+      "bytes": 3170
+    },
+    {
+      "file": "sites/haircraft-by-paul-and-ben/visit.html",
+      "bytes": 4315
+    },
+    {
+      "file": "sites/hana-wine-liquor/about.html",
+      "bytes": 32893
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/hana-wine-liquor/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/hana-wine-liquor/concept-still-life.png.webp",
+      "bytes": 105178
+    },
+    {
+      "file": "sites/hana-wine-liquor/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/hana-wine-liquor/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/hana-wine-liquor/gallery.html",
+      "bytes": 33088
+    },
+    {
+      "file": "sites/hana-wine-liquor/index.html",
+      "bytes": 6636
+    },
+    {
+      "file": "sites/hana-wine-liquor/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/hana-wine-liquor/inventory.html",
+      "bytes": 10055
+    },
+    {
+      "file": "sites/hana-wine-liquor/inventory.json",
+      "bytes": 1680
+    },
+    {
+      "file": "sites/hana-wine-liquor/photos/photo-1.jpg.webp",
+      "bytes": 76568
+    },
+    {
+      "file": "sites/hana-wine-liquor/photos/photo-3.jpg.webp",
+      "bytes": 106910
+    },
+    {
+      "file": "sites/hana-wine-liquor/services.html",
+      "bytes": 33584
+    },
+    {
+      "file": "sites/hana-wine-liquor/visit.html",
+      "bytes": 34225
+    },
+    {
+      "file": "sites/handmade-dumpling/about.html",
+      "bytes": 33776
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/handmade-dumpling/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/handmade-dumpling/concept-still-life.png.webp",
+      "bytes": 155654
+    },
+    {
+      "file": "sites/handmade-dumpling/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/handmade-dumpling/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/handmade-dumpling/gallery.html",
+      "bytes": 33065
+    },
+    {
+      "file": "sites/handmade-dumpling/index.html",
+      "bytes": 6663
+    },
+    {
+      "file": "sites/handmade-dumpling/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/handmade-dumpling/inventory.html",
+      "bytes": 10025
+    },
+    {
+      "file": "sites/handmade-dumpling/inventory.json",
+      "bytes": 1701
+    },
+    {
+      "file": "sites/handmade-dumpling/photos/photo-1.jpg.webp",
+      "bytes": 80352
+    },
+    {
+      "file": "sites/handmade-dumpling/photos/photo-3.jpg.webp",
+      "bytes": 44560
+    },
+    {
+      "file": "sites/handmade-dumpling/services.html",
+      "bytes": 33316
+    },
+    {
+      "file": "sites/handmade-dumpling/visit.html",
+      "bytes": 34223
+    },
+    {
+      "file": "sites/index.html",
+      "bytes": 50480
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/about.html",
+      "bytes": 26400
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/gallery.html",
+      "bytes": 26125
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/index.html",
+      "bytes": 27676
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/photos/photo-1.png.webp",
+      "bytes": 68510
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/photos/photo-3.jpg.webp",
+      "bytes": 102462
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/services.html",
+      "bytes": 26419
+    },
+    {
+      "file": "sites/inkfusion-tattoo-studio/visit.html",
+      "bytes": 27303
+    },
+    {
+      "file": "sites/international-luxury-car-service/about.html",
+      "bytes": 14961
+    },
+    {
+      "file": "sites/international-luxury-car-service/gallery.html",
+      "bytes": 14635
+    },
+    {
+      "file": "sites/international-luxury-car-service/index.html",
+      "bytes": 16751
+    },
+    {
+      "file": "sites/international-luxury-car-service/photos/photo-1.jpg.webp",
+      "bytes": 58232
+    },
+    {
+      "file": "sites/international-luxury-car-service/photos/photo-2.jpg.webp",
+      "bytes": 6394
+    },
+    {
+      "file": "sites/international-luxury-car-service/reviews.html",
+      "bytes": 14855
+    },
+    {
+      "file": "sites/international-luxury-car-service/services.html",
+      "bytes": 15050
+    },
+    {
+      "file": "sites/international-luxury-car-service/visit.html",
+      "bytes": 15136
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/about.html",
+      "bytes": 4339
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/gallery.html",
+      "bytes": 3137
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/index.html",
+      "bytes": 5239
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/photos/photo-1.jpg.webp",
+      "bytes": 67872
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/photos/photo-3.jpg.webp",
+      "bytes": 70384
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/services.html",
+      "bytes": 4318
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/taste.css",
+      "bytes": 13583
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/taste.js",
+      "bytes": 3171
+    },
+    {
+      "file": "sites/j-j-tailor-souvenir/visit.html",
+      "bytes": 4360
+    },
+    {
+      "file": "sites/jehami-beauty-salon/about.html",
+      "bytes": 26775
+    },
+    {
+      "file": "sites/jehami-beauty-salon/gallery.html",
+      "bytes": 26244
+    },
+    {
+      "file": "sites/jehami-beauty-salon/index.html",
+      "bytes": 27770
+    },
+    {
+      "file": "sites/jehami-beauty-salon/photos/photo-1.jpg.webp",
+      "bytes": 138482
+    },
+    {
+      "file": "sites/jehami-beauty-salon/photos/photo-2.jpg.webp",
+      "bytes": 8270
+    },
+    {
+      "file": "sites/jehami-beauty-salon/photos/photo-3.jpg.webp",
+      "bytes": 119426
+    },
+    {
+      "file": "sites/jehami-beauty-salon/services.html",
+      "bytes": 26317
+    },
+    {
+      "file": "sites/jehami-beauty-salon/visit.html",
+      "bytes": 27250
+    },
+    {
+      "file": "sites/jireh-tire-shop/about.html",
+      "bytes": 32720
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/jireh-tire-shop/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/jireh-tire-shop/concept-still-life.png.webp",
+      "bytes": 103330
+    },
+    {
+      "file": "sites/jireh-tire-shop/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/jireh-tire-shop/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/jireh-tire-shop/gallery.html",
+      "bytes": 33009
+    },
+    {
+      "file": "sites/jireh-tire-shop/index.html",
+      "bytes": 6429
+    },
+    {
+      "file": "sites/jireh-tire-shop/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/jireh-tire-shop/inventory.html",
+      "bytes": 9986
+    },
+    {
+      "file": "sites/jireh-tire-shop/inventory.json",
+      "bytes": 1720
+    },
+    {
+      "file": "sites/jireh-tire-shop/photos/photo-1.jpg.webp",
+      "bytes": 198530
+    },
+    {
+      "file": "sites/jireh-tire-shop/photos/photo-3.jpg.webp",
+      "bytes": 86310
+    },
+    {
+      "file": "sites/jireh-tire-shop/services.html",
+      "bytes": 33475
+    },
+    {
+      "file": "sites/jireh-tire-shop/visit.html",
+      "bytes": 34190
+    },
+    {
+      "file": "sites/john-marios-tailors/about.html",
+      "bytes": 14755
+    },
+    {
+      "file": "sites/john-marios-tailors/gallery.html",
+      "bytes": 14663
+    },
+    {
+      "file": "sites/john-marios-tailors/index.html",
+      "bytes": 16764
+    },
+    {
+      "file": "sites/john-marios-tailors/photos/photo-1.jpg.webp",
+      "bytes": 40728
+    },
+    {
+      "file": "sites/john-marios-tailors/photos/photo-2.jpg.webp",
+      "bytes": 7210
+    },
+    {
+      "file": "sites/john-marios-tailors/photos/photo-3.jpg.webp",
+      "bytes": 57618
+    },
+    {
+      "file": "sites/john-marios-tailors/reviews.html",
+      "bytes": 15542
+    },
+    {
+      "file": "sites/john-marios-tailors/services.html",
+      "bytes": 14890
+    },
+    {
+      "file": "sites/john-marios-tailors/visit.html",
+      "bytes": 14947
+    },
+    {
+      "file": "sites/jorge-auto-repair/about.html",
+      "bytes": 3435
+    },
+    {
+      "file": "sites/jorge-auto-repair/gallery.html",
+      "bytes": 3046
+    },
+    {
+      "file": "sites/jorge-auto-repair/index.html",
+      "bytes": 4968
+    },
+    {
+      "file": "sites/jorge-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 39200
+    },
+    {
+      "file": "sites/jorge-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 132800
+    },
+    {
+      "file": "sites/jorge-auto-repair/services.html",
+      "bytes": 4233
+    },
+    {
+      "file": "sites/jorge-auto-repair/taste.css",
+      "bytes": 13536
+    },
+    {
+      "file": "sites/jorge-auto-repair/taste.js",
+      "bytes": 3156
+    },
+    {
+      "file": "sites/jorge-auto-repair/visit.html",
+      "bytes": 4289
+    },
+    {
+      "file": "sites/judiths-bakery/about.html",
+      "bytes": 33854
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/judiths-bakery/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/judiths-bakery/concept-still-life.png.webp",
+      "bytes": 199302
+    },
+    {
+      "file": "sites/judiths-bakery/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/judiths-bakery/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/judiths-bakery/gallery.html",
+      "bytes": 33323
+    },
+    {
+      "file": "sites/judiths-bakery/index.html",
+      "bytes": 6767
+    },
+    {
+      "file": "sites/judiths-bakery/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/judiths-bakery/inventory.html",
+      "bytes": 10086
+    },
+    {
+      "file": "sites/judiths-bakery/inventory.json",
+      "bytes": 1732
+    },
+    {
+      "file": "sites/judiths-bakery/photos/photo-1.jpg.webp",
+      "bytes": 153974
+    },
+    {
+      "file": "sites/judiths-bakery/photos/photo-3.jpg.webp",
+      "bytes": 167670
+    },
+    {
+      "file": "sites/judiths-bakery/services.html",
+      "bytes": 33568
+    },
+    {
+      "file": "sites/judiths-bakery/visit.html",
+      "bytes": 34495
+    },
+    {
+      "file": "sites/k-d-tire-shop/about.html",
+      "bytes": 34133
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/k-d-tire-shop/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/k-d-tire-shop/concept-still-life.png.webp",
+      "bytes": 134656
+    },
+    {
+      "file": "sites/k-d-tire-shop/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/k-d-tire-shop/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/k-d-tire-shop/gallery.html",
+      "bytes": 33506
+    },
+    {
+      "file": "sites/k-d-tire-shop/index.html",
+      "bytes": 6569
+    },
+    {
+      "file": "sites/k-d-tire-shop/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/k-d-tire-shop/inventory.html",
+      "bytes": 10143
+    },
+    {
+      "file": "sites/k-d-tire-shop/inventory.json",
+      "bytes": 1731
+    },
+    {
+      "file": "sites/k-d-tire-shop/photos/photo-1.jpg.webp",
+      "bytes": 106296
+    },
+    {
+      "file": "sites/k-d-tire-shop/photos/photo-2.jpg.webp",
+      "bytes": 7254
+    },
+    {
+      "file": "sites/k-d-tire-shop/photos/photo-3.jpg.webp",
+      "bytes": 87172
+    },
+    {
+      "file": "sites/k-d-tire-shop/services.html",
+      "bytes": 33700
+    },
+    {
+      "file": "sites/k-d-tire-shop/visit.html",
+      "bytes": 34410
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/about.html",
+      "bytes": 26541
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/gallery.html",
+      "bytes": 26196
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/index.html",
+      "bytes": 27733
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/photos/photo-1.jpg.webp",
+      "bytes": 138660
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/photos/photo-3.jpg.webp",
+      "bytes": 50986
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/services.html",
+      "bytes": 26675
+    },
+    {
+      "file": "sites/kc-auto-repair-inc/visit.html",
+      "bytes": 27423
+    },
+    {
+      "file": "sites/kiki-s/about.html",
+      "bytes": 34050
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/kiki-s/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/kiki-s/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/kiki-s/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/kiki-s/concept-still-life.png.webp",
+      "bytes": 308520
+    },
+    {
+      "file": "sites/kiki-s/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/kiki-s/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/kiki-s/gallery.html",
+      "bytes": 33487
+    },
+    {
+      "file": "sites/kiki-s/index.html",
+      "bytes": 6780
+    },
+    {
+      "file": "sites/kiki-s/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/kiki-s/inventory.html",
+      "bytes": 9944
+    },
+    {
+      "file": "sites/kiki-s/inventory.json",
+      "bytes": 1668
+    },
+    {
+      "file": "sites/kiki-s/photos/photo-1.jpg.webp",
+      "bytes": 245774
+    },
+    {
+      "file": "sites/kiki-s/photos/photo-2.jpg.webp",
+      "bytes": 8752
+    },
+    {
+      "file": "sites/kiki-s/photos/photo-3.jpg.webp",
+      "bytes": 107128
+    },
+    {
+      "file": "sites/kiki-s/services.html",
+      "bytes": 33524
+    },
+    {
+      "file": "sites/kiki-s/visit.html",
+      "bytes": 34487
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/about.html",
+      "bytes": 14735
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/contact.html",
+      "bytes": 14958
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/gallery.html",
+      "bytes": 14650
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/index.html",
+      "bytes": 16755
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 80662
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/photos/photo-2.jpg.webp",
+      "bytes": 131722
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/photos/photo-4.jpg.webp",
+      "bytes": 93672
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/reviews.html",
+      "bytes": 14769
+    },
+    {
+      "file": "sites/king-kutz-barber-shop/services.html",
+      "bytes": 14870
+    },
+    {
+      "file": "sites/korn-s-bakery/about.html",
+      "bytes": 32609
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/korn-s-bakery/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/korn-s-bakery/concept-still-life.png.webp",
+      "bytes": 199302
+    },
+    {
+      "file": "sites/korn-s-bakery/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/korn-s-bakery/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/korn-s-bakery/gallery.html",
+      "bytes": 32903
+    },
+    {
+      "file": "sites/korn-s-bakery/index.html",
+      "bytes": 6525
+    },
+    {
+      "file": "sites/korn-s-bakery/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/korn-s-bakery/inventory.html",
+      "bytes": 10040
+    },
+    {
+      "file": "sites/korn-s-bakery/inventory.json",
+      "bytes": 1687
+    },
+    {
+      "file": "sites/korn-s-bakery/photos/photo-1.jpg.webp",
+      "bytes": 119100
+    },
+    {
+      "file": "sites/korn-s-bakery/photos/photo-3.jpg.webp",
+      "bytes": 49678
+    },
+    {
+      "file": "sites/korn-s-bakery/services.html",
+      "bytes": 33197
+    },
+    {
+      "file": "sites/korn-s-bakery/visit.html",
+      "bytes": 34107
+    },
+    {
+      "file": "sites/la-muse-nail-inc/about.html",
+      "bytes": 3540
+    },
+    {
+      "file": "sites/la-muse-nail-inc/gallery.html",
+      "bytes": 2819
+    },
+    {
+      "file": "sites/la-muse-nail-inc/index.html",
+      "bytes": 4863
+    },
+    {
+      "file": "sites/la-muse-nail-inc/photos/photo-1.jpg.webp",
+      "bytes": 100310
+    },
+    {
+      "file": "sites/la-muse-nail-inc/services.html",
+      "bytes": 4241
+    },
+    {
+      "file": "sites/la-muse-nail-inc/taste.css",
+      "bytes": 13635
+    },
+    {
+      "file": "sites/la-muse-nail-inc/taste.js",
+      "bytes": 3198
+    },
+    {
+      "file": "sites/la-muse-nail-inc/visit.html",
+      "bytes": 4306
+    },
+    {
+      "file": "sites/level-up-events/about.html",
+      "bytes": 26564
+    },
+    {
+      "file": "sites/level-up-events/gallery.html",
+      "bytes": 26319
+    },
+    {
+      "file": "sites/level-up-events/index.html",
+      "bytes": 27874
+    },
+    {
+      "file": "sites/level-up-events/photos/photo-1.jpg.webp",
+      "bytes": 95600
+    },
+    {
+      "file": "sites/level-up-events/photos/photo-2.jpg.webp",
+      "bytes": 9600
+    },
+    {
+      "file": "sites/level-up-events/photos/photo-3.jpg.webp",
+      "bytes": 57346
+    },
+    {
+      "file": "sites/level-up-events/services.html",
+      "bytes": 26613
+    },
+    {
+      "file": "sites/level-up-events/visit.html",
+      "bytes": 27356
+    },
+    {
+      "file": "sites/ligia-s-alterations/about.html",
+      "bytes": 14735
+    },
+    {
+      "file": "sites/ligia-s-alterations/gallery.html",
+      "bytes": 14227
+    },
+    {
+      "file": "sites/ligia-s-alterations/index.html",
+      "bytes": 16504
+    },
+    {
+      "file": "sites/ligia-s-alterations/photos/photo-2.jpg.webp",
+      "bytes": 178094
+    },
+    {
+      "file": "sites/ligia-s-alterations/reviews.html",
+      "bytes": 15232
+    },
+    {
+      "file": "sites/ligia-s-alterations/services.html",
+      "bytes": 14867
+    },
+    {
+      "file": "sites/ligia-s-alterations/visit.html",
+      "bytes": 14926
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/gallery.html",
+      "bytes": 3171
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/index.html",
+      "bytes": 5189
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/photos/photo-1.jpg.webp",
+      "bytes": 235708
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/photos/photo-3.jpg.webp",
+      "bytes": 98444
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/reviews.html",
+      "bytes": 4330
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/services.html",
+      "bytes": 4336
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/taste.css",
+      "bytes": 13666
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/taste.js",
+      "bytes": 3181
+    },
+    {
+      "file": "sites/lola-s-hair-beauty-boutique/visit.html",
+      "bytes": 4393
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/londel-s/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/londel-s/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/londel-s/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/londel-s/concept-still-life.png.webp",
+      "bytes": 263378
+    },
+    {
+      "file": "sites/londel-s/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/londel-s/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/londel-s/gallery.html",
+      "bytes": 34185
+    },
+    {
+      "file": "sites/londel-s/index.html",
+      "bytes": 6776
+    },
+    {
+      "file": "sites/londel-s/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/londel-s/inventory.html",
+      "bytes": 10025
+    },
+    {
+      "file": "sites/londel-s/inventory.json",
+      "bytes": 1686
+    },
+    {
+      "file": "sites/londel-s/photos/photo-1.jpg.webp",
+      "bytes": 72932
+    },
+    {
+      "file": "sites/londel-s/photos/photo-2.jpg.webp",
+      "bytes": 7110
+    },
+    {
+      "file": "sites/londel-s/photos/photo-3.jpg.webp",
+      "bytes": 61330
+    },
+    {
+      "file": "sites/londel-s/reviews.html",
+      "bytes": 34671
+    },
+    {
+      "file": "sites/londel-s/services.html",
+      "bytes": 33817
+    },
+    {
+      "file": "sites/londel-s/visit.html",
+      "bytes": 35095
+    },
+    {
+      "file": "sites/lopez-auto-repair/gallery.html",
+      "bytes": 26971
+    },
+    {
+      "file": "sites/lopez-auto-repair/index.html",
+      "bytes": 28854
+    },
+    {
+      "file": "sites/lopez-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 53704
+    },
+    {
+      "file": "sites/lopez-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 54280
+    },
+    {
+      "file": "sites/lopez-auto-repair/reviews.html",
+      "bytes": 27723
+    },
+    {
+      "file": "sites/lopez-auto-repair/services.html",
+      "bytes": 26896
+    },
+    {
+      "file": "sites/lopez-auto-repair/visit.html",
+      "bytes": 28122
+    },
+    {
+      "file": "sites/lucky-trade-automotive/about.html",
+      "bytes": 14798
+    },
+    {
+      "file": "sites/lucky-trade-automotive/gallery.html",
+      "bytes": 14494
+    },
+    {
+      "file": "sites/lucky-trade-automotive/index.html",
+      "bytes": 16615
+    },
+    {
+      "file": "sites/lucky-trade-automotive/photos/photo-1.jpg.webp",
+      "bytes": 121522
+    },
+    {
+      "file": "sites/lucky-trade-automotive/photos/photo-3.jpg.webp",
+      "bytes": 93804
+    },
+    {
+      "file": "sites/lucky-trade-automotive/reviews.html",
+      "bytes": 15212
+    },
+    {
+      "file": "sites/lucky-trade-automotive/services.html",
+      "bytes": 14938
+    },
+    {
+      "file": "sites/lucky-trade-automotive/visit.html",
+      "bytes": 15022
+    },
+    {
+      "file": "sites/luxury-cut/gallery.html",
+      "bytes": 2953
+    },
+    {
+      "file": "sites/luxury-cut/index.html",
+      "bytes": 4870
+    },
+    {
+      "file": "sites/luxury-cut/photos/photo-1.jpg.webp",
+      "bytes": 52214
+    },
+    {
+      "file": "sites/luxury-cut/photos/photo-3.jpg.webp",
+      "bytes": 85210
+    },
+    {
+      "file": "sites/luxury-cut/reviews.html",
+      "bytes": 4087
+    },
+    {
+      "file": "sites/luxury-cut/services.html",
+      "bytes": 4150
+    },
+    {
+      "file": "sites/luxury-cut/taste.css",
+      "bytes": 13607
+    },
+    {
+      "file": "sites/luxury-cut/taste.js",
+      "bytes": 3174
+    },
+    {
+      "file": "sites/luxury-cut/visit.html",
+      "bytes": 4237
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/gallery.html",
+      "bytes": 26950
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/index.html",
+      "bytes": 28698
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/photos/photo-1.jpg.webp",
+      "bytes": 211516
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/photos/photo-3.jpg.webp",
+      "bytes": 163402
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/reviews.html",
+      "bytes": 27549
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/services.html",
+      "bytes": 26840
+    },
+    {
+      "file": "sites/m-m-car-wash-lube/visit.html",
+      "bytes": 28058
+    },
+    {
+      "file": "sites/maria-s-travel/about.html",
+      "bytes": 14707
+    },
+    {
+      "file": "sites/maria-s-travel/gallery.html",
+      "bytes": 14402
+    },
+    {
+      "file": "sites/maria-s-travel/index.html",
+      "bytes": 16557
+    },
+    {
+      "file": "sites/maria-s-travel/photos/photo-1.jpg.webp",
+      "bytes": 69642
+    },
+    {
+      "file": "sites/maria-s-travel/photos/photo-3.jpg.webp",
+      "bytes": 175300
+    },
+    {
+      "file": "sites/maria-s-travel/reviews.html",
+      "bytes": 15111
+    },
+    {
+      "file": "sites/maria-s-travel/services.html",
+      "bytes": 14893
+    },
+    {
+      "file": "sites/maria-s-travel/visit.html",
+      "bytes": 14942
+    },
+    {
+      "file": "sites/mario-s-auto-repair/gallery.html",
+      "bytes": 3045
+    },
+    {
+      "file": "sites/mario-s-auto-repair/index.html",
+      "bytes": 5098
+    },
+    {
+      "file": "sites/mario-s-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 188500
+    },
+    {
+      "file": "sites/mario-s-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 56260
+    },
+    {
+      "file": "sites/mario-s-auto-repair/reviews.html",
+      "bytes": 4509
+    },
+    {
+      "file": "sites/mario-s-auto-repair/services.html",
+      "bytes": 4238
+    },
+    {
+      "file": "sites/mario-s-auto-repair/taste.css",
+      "bytes": 13657
+    },
+    {
+      "file": "sites/mario-s-auto-repair/taste.js",
+      "bytes": 3182
+    },
+    {
+      "file": "sites/mario-s-auto-repair/visit.html",
+      "bytes": 4310
+    },
+    {
+      "file": "sites/monarch-cleaners/gallery.html",
+      "bytes": 26631
+    },
+    {
+      "file": "sites/monarch-cleaners/index.html",
+      "bytes": 28390
+    },
+    {
+      "file": "sites/monarch-cleaners/photos/photo-2.jpg.webp",
+      "bytes": 70930
+    },
+    {
+      "file": "sites/monarch-cleaners/reviews.html",
+      "bytes": 27053
+    },
+    {
+      "file": "sites/monarch-cleaners/services.html",
+      "bytes": 26787
+    },
+    {
+      "file": "sites/monarch-cleaners/visit.html",
+      "bytes": 28019
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/about.html",
+      "bytes": 14852
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/gallery.html",
+      "bytes": 14570
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/index.html",
+      "bytes": 16644
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/photos/photo-1.jpg.webp",
+      "bytes": 188546
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/photos/photo-3.jpg.webp",
+      "bytes": 102264
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/reviews.html",
+      "bytes": 15628
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/services.html",
+      "bytes": 14986
+    },
+    {
+      "file": "sites/mr-sparkle-corp-hand-carwash/visit.html",
+      "bytes": 15048
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/gallery.html",
+      "bytes": 3096
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/index.html",
+      "bytes": 5023
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 147276
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/photos/photo-3.jpg.webp",
+      "bytes": 61256
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/reviews.html",
+      "bytes": 4162
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/services.html",
+      "bytes": 4274
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/taste.css",
+      "bytes": 13617
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/taste.js",
+      "bytes": 3176
+    },
+    {
+      "file": "sites/my-neighborhood-barber-shop/visit.html",
+      "bytes": 4329
+    },
+    {
+      "file": "sites/nahel-beauty-salon/gallery.html",
+      "bytes": 27094
+    },
+    {
+      "file": "sites/nahel-beauty-salon/index.html",
+      "bytes": 28749
+    },
+    {
+      "file": "sites/nahel-beauty-salon/photos/photo-1.jpg.webp",
+      "bytes": 102724
+    },
+    {
+      "file": "sites/nahel-beauty-salon/photos/photo-2.jpg.webp",
+      "bytes": 6894
+    },
+    {
+      "file": "sites/nahel-beauty-salon/photos/photo-3.jpg.webp",
+      "bytes": 95632
+    },
+    {
+      "file": "sites/nahel-beauty-salon/reviews.html",
+      "bytes": 26975
+    },
+    {
+      "file": "sites/nahel-beauty-salon/services.html",
+      "bytes": 26806
+    },
+    {
+      "file": "sites/nahel-beauty-salon/visit.html",
+      "bytes": 27991
+    },
+    {
+      "file": "sites/nelson-cleaners/about.html",
+      "bytes": 14218
+    },
+    {
+      "file": "sites/nelson-cleaners/gallery.html",
+      "bytes": 13903
+    },
+    {
+      "file": "sites/nelson-cleaners/index.html",
+      "bytes": 16068
+    },
+    {
+      "file": "sites/nelson-cleaners/photos/photo-1.jpg.webp",
+      "bytes": 161560
+    },
+    {
+      "file": "sites/nelson-cleaners/photos/photo-3.jpg.webp",
+      "bytes": 141316
+    },
+    {
+      "file": "sites/nelson-cleaners/reviews.html",
+      "bytes": 14425
+    },
+    {
+      "file": "sites/nelson-cleaners/services.html",
+      "bytes": 14383
+    },
+    {
+      "file": "sites/nelson-cleaners/visit.html",
+      "bytes": 14427
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/about.html",
+      "bytes": 3806
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/contact.html",
+      "bytes": 4156
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/gallery.html",
+      "bytes": 3214
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/index.html",
+      "bytes": 5269
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/photos/photo-1.jpg.webp",
+      "bytes": 34114
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/photos/photo-3.jpg.webp",
+      "bytes": 121306
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/reviews.html",
+      "bytes": 4322
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/services.html",
+      "bytes": 4414
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/taste.css",
+      "bytes": 13654
+    },
+    {
+      "file": "sites/new-brooklyn-car-services-inc/taste.js",
+      "bytes": 3026
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/about.html",
+      "bytes": 22426
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/contact.html",
+      "bytes": 22742
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/gallery.html",
+      "bytes": 22305
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/index.html",
+      "bytes": 23834
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 68104
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/photos/photo-3.jpg.webp",
+      "bytes": 149286
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/reviews.html",
+      "bytes": 22946
+    },
+    {
+      "file": "sites/new-stylez-barber-shop/services.html",
+      "bytes": 22522
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/about.html",
+      "bytes": 15250
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/contact.html",
+      "bytes": 15410
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/gallery.html",
+      "bytes": 14932
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/index.html",
+      "bytes": 17080
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/photos/photo-1.jpg.webp",
+      "bytes": 192062
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/photos/photo-3.jpg.webp",
+      "bytes": 74438
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/reviews.html",
+      "bytes": 15870
+    },
+    {
+      "file": "sites/new-york-auto-repair-of-brooklyn/services.html",
+      "bytes": 15365
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/about.html",
+      "bytes": 3681
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/contact.html",
+      "bytes": 4346
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/gallery.html",
+      "bytes": 3069
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/index.html",
+      "bytes": 4947
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/photos/photo-1.png.webp",
+      "bytes": 109500
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/photos/photo-3.jpg.webp",
+      "bytes": 238054
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/reviews.html",
+      "bytes": 4372
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/services.html",
+      "bytes": 4281
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/taste.css",
+      "bytes": 13641
+    },
+    {
+      "file": "sites/nyc-tattoo-parlor/taste.js",
+      "bytes": 3184
+    },
+    {
+      "file": "sites/paws-and-plates/about.html",
+      "bytes": 31930
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/paws-and-plates/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/paws-and-plates/concept-still-life.png.webp",
+      "bytes": 117222
+    },
+    {
+      "file": "sites/paws-and-plates/contact.html",
+      "bytes": 32340
+    },
+    {
+      "file": "sites/paws-and-plates/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/paws-and-plates/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/paws-and-plates/gallery.html",
+      "bytes": 31816
+    },
+    {
+      "file": "sites/paws-and-plates/index.html",
+      "bytes": 6253
+    },
+    {
+      "file": "sites/paws-and-plates/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/paws-and-plates/inventory.html",
+      "bytes": 9811
+    },
+    {
+      "file": "sites/paws-and-plates/inventory.json",
+      "bytes": 1660
+    },
+    {
+      "file": "sites/paws-and-plates/reviews.html",
+      "bytes": 32300
+    },
+    {
+      "file": "sites/paws-and-plates/services.html",
+      "bytes": 32321
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/about.html",
+      "bytes": 22531
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/contact.html",
+      "bytes": 22847
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/gallery.html",
+      "bytes": 22420
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/index.html",
+      "bytes": 23957
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/photos/photo-1.jpg.webp",
+      "bytes": 120748
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 91664
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/reviews.html",
+      "bytes": 23581
+    },
+    {
+      "file": "sites/perfect-10-shoe-repair/services.html",
+      "bytes": 22683
+    },
+    {
+      "file": "sites/pet-club/about.html",
+      "bytes": 32155
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/pet-club/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/pet-club/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/pet-club/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/pet-club/concept-still-life.png.webp",
+      "bytes": 168480
+    },
+    {
+      "file": "sites/pet-club/contact.html",
+      "bytes": 32533
+    },
+    {
+      "file": "sites/pet-club/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/pet-club/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/pet-club/gallery.html",
+      "bytes": 32328
+    },
+    {
+      "file": "sites/pet-club/index.html",
+      "bytes": 6722
+    },
+    {
+      "file": "sites/pet-club/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/pet-club/inventory.html",
+      "bytes": 9860
+    },
+    {
+      "file": "sites/pet-club/inventory.json",
+      "bytes": 1580
+    },
+    {
+      "file": "sites/pet-club/photos/photo-1.jpg.webp",
+      "bytes": 98080
+    },
+    {
+      "file": "sites/pet-club/photos/photo-2.jpg.webp",
+      "bytes": 6008
+    },
+    {
+      "file": "sites/pet-club/photos/photo-3.jpg.webp",
+      "bytes": 134974
+    },
+    {
+      "file": "sites/pet-club/reviews.html",
+      "bytes": 33260
+    },
+    {
+      "file": "sites/pet-club/services.html",
+      "bytes": 32211
+    },
+    {
+      "file": "sites/pet-island/about.html",
+      "bytes": 31923
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/pet-island/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/pet-island/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/pet-island/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/pet-island/concept-still-life.png.webp",
+      "bytes": 103632
+    },
+    {
+      "file": "sites/pet-island/contact.html",
+      "bytes": 32308
+    },
+    {
+      "file": "sites/pet-island/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/pet-island/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/pet-island/gallery.html",
+      "bytes": 31845
+    },
+    {
+      "file": "sites/pet-island/index.html",
+      "bytes": 6642
+    },
+    {
+      "file": "sites/pet-island/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/pet-island/inventory.html",
+      "bytes": 10010
+    },
+    {
+      "file": "sites/pet-island/inventory.json",
+      "bytes": 1683
+    },
+    {
+      "file": "sites/pet-island/photos/photo-1.jpg.webp",
+      "bytes": 157158
+    },
+    {
+      "file": "sites/pet-island/photos/photo-3.jpg.webp",
+      "bytes": 169274
+    },
+    {
+      "file": "sites/pet-island/reviews.html",
+      "bytes": 33116
+    },
+    {
+      "file": "sites/pet-island/services.html",
+      "bytes": 31992
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/about.html",
+      "bytes": 15505
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/contact.html",
+      "bytes": 15648
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/gallery.html",
+      "bytes": 15233
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/index.html",
+      "bytes": 17325
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/photos/photo-1.jpg.webp",
+      "bytes": 90502
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/photos/photo-3.png.webp",
+      "bytes": 73016
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/reviews.html",
+      "bytes": 15901
+    },
+    {
+      "file": "sites/professional-alterations-and-custom-garment-center/services.html",
+      "bytes": 15589
+    },
+    {
+      "file": "sites/pujols-barber-shop/about.html",
+      "bytes": 3644
+    },
+    {
+      "file": "sites/pujols-barber-shop/contact.html",
+      "bytes": 4328
+    },
+    {
+      "file": "sites/pujols-barber-shop/gallery.html",
+      "bytes": 3058
+    },
+    {
+      "file": "sites/pujols-barber-shop/index.html",
+      "bytes": 4984
+    },
+    {
+      "file": "sites/pujols-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 109276
+    },
+    {
+      "file": "sites/pujols-barber-shop/photos/photo-3.jpg.webp",
+      "bytes": 47164
+    },
+    {
+      "file": "sites/pujols-barber-shop/reviews.html",
+      "bytes": 4348
+    },
+    {
+      "file": "sites/pujols-barber-shop/services.html",
+      "bytes": 4233
+    },
+    {
+      "file": "sites/pujols-barber-shop/taste.css",
+      "bytes": 13577
+    },
+    {
+      "file": "sites/pujols-barber-shop/taste.js",
+      "bytes": 3177
+    },
+    {
+      "file": "sites/rancho-restaurant/about.html",
+      "bytes": 32034
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/rancho-restaurant/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/rancho-restaurant/concept-still-life.png.webp",
+      "bytes": 364350
+    },
+    {
+      "file": "sites/rancho-restaurant/contact.html",
+      "bytes": 31885
+    },
+    {
+      "file": "sites/rancho-restaurant/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/rancho-restaurant/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/rancho-restaurant/gallery.html",
+      "bytes": 31994
+    },
+    {
+      "file": "sites/rancho-restaurant/index.html",
+      "bytes": 6654
+    },
+    {
+      "file": "sites/rancho-restaurant/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/rancho-restaurant/inventory.html",
+      "bytes": 10152
+    },
+    {
+      "file": "sites/rancho-restaurant/inventory.json",
+      "bytes": 1744
+    },
+    {
+      "file": "sites/rancho-restaurant/photos/photo-1.jpg.webp",
+      "bytes": 121422
+    },
+    {
+      "file": "sites/rancho-restaurant/photos/photo-2.png.webp",
+      "bytes": 119140
+    },
+    {
+      "file": "sites/rancho-restaurant/reviews.html",
+      "bytes": 32960
+    },
+    {
+      "file": "sites/rancho-restaurant/services.html",
+      "bytes": 32084
+    },
+    {
+      "file": "sites/rca-auto/about.html",
+      "bytes": 22453
+    },
+    {
+      "file": "sites/rca-auto/contact.html",
+      "bytes": 22778
+    },
+    {
+      "file": "sites/rca-auto/gallery.html",
+      "bytes": 22510
+    },
+    {
+      "file": "sites/rca-auto/index.html",
+      "bytes": 23956
+    },
+    {
+      "file": "sites/rca-auto/photos/photo-1.jpg.webp",
+      "bytes": 96030
+    },
+    {
+      "file": "sites/rca-auto/photos/photo-2.jpg.webp",
+      "bytes": 6044
+    },
+    {
+      "file": "sites/rca-auto/photos/photo-3.jpg.webp",
+      "bytes": 87838
+    },
+    {
+      "file": "sites/rca-auto/reviews.html",
+      "bytes": 23507
+    },
+    {
+      "file": "sites/rca-auto/services.html",
+      "bytes": 22580
+    },
+    {
+      "file": "sites/river-grocery-more/about.html",
+      "bytes": 32554
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/river-grocery-more/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/river-grocery-more/concept-still-life.png.webp",
+      "bytes": 167522
+    },
+    {
+      "file": "sites/river-grocery-more/contact.html",
+      "bytes": 32839
+    },
+    {
+      "file": "sites/river-grocery-more/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/river-grocery-more/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/river-grocery-more/gallery.html",
+      "bytes": 32347
+    },
+    {
+      "file": "sites/river-grocery-more/index.html",
+      "bytes": 6078
+    },
+    {
+      "file": "sites/river-grocery-more/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/river-grocery-more/inventory.html",
+      "bytes": 9915
+    },
+    {
+      "file": "sites/river-grocery-more/inventory.json",
+      "bytes": 1726
+    },
+    {
+      "file": "sites/river-grocery-more/reviews.html",
+      "bytes": 33636
+    },
+    {
+      "file": "sites/river-grocery-more/services.html",
+      "bytes": 32834
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/about.html",
+      "bytes": 15216
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/contact.html",
+      "bytes": 15425
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/gallery.html",
+      "bytes": 15164
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/index.html",
+      "bytes": 17252
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/photos/photo-1.jpg.webp",
+      "bytes": 110360
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/photos/photo-2.jpg.webp",
+      "bytes": 6558
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/photos/photo-3.jpg.webp",
+      "bytes": 183888
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/reviews.html",
+      "bytes": 15808
+    },
+    {
+      "file": "sites/sams-cuts-syles-barber-shop/services.html",
+      "bytes": 15330
+    },
+    {
+      "file": "sites/sanchez-barber-shop/about.html",
+      "bytes": 3675
+    },
+    {
+      "file": "sites/sanchez-barber-shop/contact.html",
+      "bytes": 4324
+    },
+    {
+      "file": "sites/sanchez-barber-shop/gallery.html",
+      "bytes": 2867
+    },
+    {
+      "file": "sites/sanchez-barber-shop/index.html",
+      "bytes": 5129
+    },
+    {
+      "file": "sites/sanchez-barber-shop/photos/photo-2.jpg.webp",
+      "bytes": 35118
+    },
+    {
+      "file": "sites/sanchez-barber-shop/reviews.html",
+      "bytes": 4438
+    },
+    {
+      "file": "sites/sanchez-barber-shop/services.html",
+      "bytes": 4260
+    },
+    {
+      "file": "sites/sanchez-barber-shop/taste.css",
+      "bytes": 13593
+    },
+    {
+      "file": "sites/sanchez-barber-shop/taste.js",
+      "bytes": 3158
+    },
+    {
+      "file": "sites/sastreria-garcia/about.html",
+      "bytes": 22500
+    },
+    {
+      "file": "sites/sastreria-garcia/contact.html",
+      "bytes": 22855
+    },
+    {
+      "file": "sites/sastreria-garcia/gallery.html",
+      "bytes": 22390
+    },
+    {
+      "file": "sites/sastreria-garcia/index.html",
+      "bytes": 23942
+    },
+    {
+      "file": "sites/sastreria-garcia/photos/photo-1.png.webp",
+      "bytes": 69576
+    },
+    {
+      "file": "sites/sastreria-garcia/photos/photo-3.jpg.webp",
+      "bytes": 42720
+    },
+    {
+      "file": "sites/sastreria-garcia/reviews.html",
+      "bytes": 23626
+    },
+    {
+      "file": "sites/sastreria-garcia/services.html",
+      "bytes": 22607
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/about.html",
+      "bytes": 15177
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/contact.html",
+      "bytes": 15352
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/gallery.html",
+      "bytes": 14862
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/index.html",
+      "bytes": 16984
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/photos/photo-1.jpg.webp",
+      "bytes": 132914
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/photos/photo-3.jpg.webp",
+      "bytes": 126706
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/reviews.html",
+      "bytes": 15868
+    },
+    {
+      "file": "sites/shlomo-friedman-repair-shop/services.html",
+      "bytes": 15285
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/about.html",
+      "bytes": 3855
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/contact.html",
+      "bytes": 4473
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/gallery.html",
+      "bytes": 3283
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/index.html",
+      "bytes": 5263
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/photos/photo-1.jpg.webp",
+      "bytes": 76778
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/photos/photo-3.jpg.webp",
+      "bytes": 106392
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/reviews.html",
+      "bytes": 4083
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/services.html",
+      "bytes": 4423
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/taste.css",
+      "bytes": 13638
+    },
+    {
+      "file": "sites/simtech-auto-repair-diagnostic/taste.js",
+      "bytes": 3169
+    },
+    {
+      "file": "sites/sparklyn-car-wash/about.html",
+      "bytes": 22453
+    },
+    {
+      "file": "sites/sparklyn-car-wash/contact.html",
+      "bytes": 22781
+    },
+    {
+      "file": "sites/sparklyn-car-wash/gallery.html",
+      "bytes": 22353
+    },
+    {
+      "file": "sites/sparklyn-car-wash/index.html",
+      "bytes": 23831
+    },
+    {
+      "file": "sites/sparklyn-car-wash/photos/photo-1.jpg.webp",
+      "bytes": 52688
+    },
+    {
+      "file": "sites/sparklyn-car-wash/photos/photo-3.jpg.webp",
+      "bytes": 84290
+    },
+    {
+      "file": "sites/sparklyn-car-wash/reviews.html",
+      "bytes": 23528
+    },
+    {
+      "file": "sites/sparklyn-car-wash/services.html",
+      "bytes": 22601
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/about.html",
+      "bytes": 15211
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/contact.html",
+      "bytes": 15403
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/gallery.html",
+      "bytes": 14899
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/index.html",
+      "bytes": 17022
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/photos/photo-1.jpg.webp",
+      "bytes": 178706
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/photos/photo-3.jpg.webp",
+      "bytes": 102364
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/reviews.html",
+      "bytes": 15877
+    },
+    {
+      "file": "sites/st-lawrence-auto-services/services.html",
+      "bytes": 15330
+    },
+    {
+      "file": "sites/steinway-tattoo/about.html",
+      "bytes": 3057
+    },
+    {
+      "file": "sites/steinway-tattoo/contact.html",
+      "bytes": 4304
+    },
+    {
+      "file": "sites/steinway-tattoo/gallery.html",
+      "bytes": 3044
+    },
+    {
+      "file": "sites/steinway-tattoo/index.html",
+      "bytes": 5142
+    },
+    {
+      "file": "sites/steinway-tattoo/photos/photo-1.jpg.webp",
+      "bytes": 200274
+    },
+    {
+      "file": "sites/steinway-tattoo/photos/photo-3.jpg.webp",
+      "bytes": 119294
+    },
+    {
+      "file": "sites/steinway-tattoo/reviews.html",
+      "bytes": 4306
+    },
+    {
+      "file": "sites/steinway-tattoo/services.html",
+      "bytes": 4238
+    },
+    {
+      "file": "sites/steinway-tattoo/taste.css",
+      "bytes": 13577
+    },
+    {
+      "file": "sites/steinway-tattoo/taste.js",
+      "bytes": 3159
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/about.html",
+      "bytes": 22006
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/contact.html",
+      "bytes": 23652
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/gallery.html",
+      "bytes": 23188
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/index.html",
+      "bytes": 24120
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/photos/photo-1.jpg.webp",
+      "bytes": 74996
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/photos/photo-3.jpg.webp",
+      "bytes": 49790
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/reviews.html",
+      "bytes": 23111
+    },
+    {
+      "file": "sites/steve-watch-shoe-repair/services.html",
+      "bytes": 22651
+    },
+    {
+      "file": "sites/sweet-cindy-creations/about.html",
+      "bytes": 15255
+    },
+    {
+      "file": "sites/sweet-cindy-creations/contact.html",
+      "bytes": 15420
+    },
+    {
+      "file": "sites/sweet-cindy-creations/gallery.html",
+      "bytes": 15099
+    },
+    {
+      "file": "sites/sweet-cindy-creations/index.html",
+      "bytes": 17290
+    },
+    {
+      "file": "sites/sweet-cindy-creations/photos/photo-1.jpg.webp",
+      "bytes": 31372
+    },
+    {
+      "file": "sites/sweet-cindy-creations/photos/photo-2.jpg.webp",
+      "bytes": 8562
+    },
+    {
+      "file": "sites/sweet-cindy-creations/photos/photo-3.jpg.webp",
+      "bytes": 75958
+    },
+    {
+      "file": "sites/sweet-cindy-creations/reviews.html",
+      "bytes": 16075
+    },
+    {
+      "file": "sites/sweet-cindy-creations/services.html",
+      "bytes": 15362
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/about.html",
+      "bytes": 3212
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/contact.html",
+      "bytes": 4544
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/gallery.html",
+      "bytes": 3069
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/index.html",
+      "bytes": 5277
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/photos/photo-1.jpg.webp",
+      "bytes": 74266
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/photos/photo-3.jpg.webp",
+      "bytes": 50436
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/reviews.html",
+      "bytes": 4539
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/services.html",
+      "bytes": 4427
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/taste.css",
+      "bytes": 13636
+    },
+    {
+      "file": "sites/tania-s-beauty-place-salon/taste.js",
+      "bytes": 3191
+    },
+    {
+      "file": "sites/tattoo-piercing/about.html",
+      "bytes": 21971
+    },
+    {
+      "file": "sites/tattoo-piercing/contact.html",
+      "bytes": 23560
+    },
+    {
+      "file": "sites/tattoo-piercing/gallery.html",
+      "bytes": 23341
+    },
+    {
+      "file": "sites/tattoo-piercing/index.html",
+      "bytes": 24217
+    },
+    {
+      "file": "sites/tattoo-piercing/photos/photo-1.jpg.webp",
+      "bytes": 35064
+    },
+    {
+      "file": "sites/tattoo-piercing/photos/photo-2.jpg.webp",
+      "bytes": 9846
+    },
+    {
+      "file": "sites/tattoo-piercing/photos/photo-3.jpg.webp",
+      "bytes": 53660
+    },
+    {
+      "file": "sites/tattoo-piercing/reviews.html",
+      "bytes": 22869
+    },
+    {
+      "file": "sites/tattoo-piercing/services.html",
+      "bytes": 22642
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/about.html",
+      "bytes": 15290
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/contact.html",
+      "bytes": 15482
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/gallery.html",
+      "bytes": 14921
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/index.html",
+      "bytes": 17065
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/photos/photo-1.jpg.webp",
+      "bytes": 122570
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/photos/photo-3.jpg.webp",
+      "bytes": 60450
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/reviews.html",
+      "bytes": 15933
+    },
+    {
+      "file": "sites/the-alteration-shop-by-rahman/services.html",
+      "bytes": 15366
+    },
+    {
+      "file": "sites/the-blvd/about.html",
+      "bytes": 31613
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/the-blvd/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/the-blvd/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/the-blvd/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/the-blvd/concept-still-life.png.webp",
+      "bytes": 234448
+    },
+    {
+      "file": "sites/the-blvd/contact.html",
+      "bytes": 32900
+    },
+    {
+      "file": "sites/the-blvd/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/the-blvd/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/the-blvd/gallery.html",
+      "bytes": 32827
+    },
+    {
+      "file": "sites/the-blvd/index.html",
+      "bytes": 6591
+    },
+    {
+      "file": "sites/the-blvd/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/the-blvd/inventory.html",
+      "bytes": 10021
+    },
+    {
+      "file": "sites/the-blvd/inventory.json",
+      "bytes": 1690
+    },
+    {
+      "file": "sites/the-blvd/photos/photo-1.jpg.webp",
+      "bytes": 55178
+    },
+    {
+      "file": "sites/the-blvd/photos/photo-3.jpg.webp",
+      "bytes": 59590
+    },
+    {
+      "file": "sites/the-blvd/reviews.html",
+      "bytes": 32919
+    },
+    {
+      "file": "sites/the-blvd/services.html",
+      "bytes": 32301
+    },
+    {
+      "file": "sites/tire-express/about.html",
+      "bytes": 31654
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/tire-express/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/tire-express/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/tire-express/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/tire-express/concept-still-life.png.webp",
+      "bytes": 134656
+    },
+    {
+      "file": "sites/tire-express/contact.html",
+      "bytes": 33293
+    },
+    {
+      "file": "sites/tire-express/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/tire-express/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/tire-express/gallery.html",
+      "bytes": 33120
+    },
+    {
+      "file": "sites/tire-express/index.html",
+      "bytes": 6464
+    },
+    {
+      "file": "sites/tire-express/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/tire-express/inventory.html",
+      "bytes": 10085
+    },
+    {
+      "file": "sites/tire-express/inventory.json",
+      "bytes": 1718
+    },
+    {
+      "file": "sites/tire-express/photos/photo-1.jpg.webp",
+      "bytes": 101358
+    },
+    {
+      "file": "sites/tire-express/photos/photo-2.jpg.webp",
+      "bytes": 117018
+    },
+    {
+      "file": "sites/tire-express/photos/photo-3.jpg.webp",
+      "bytes": 149102
+    },
+    {
+      "file": "sites/tire-express/reviews.html",
+      "bytes": 32291
+    },
+    {
+      "file": "sites/tire-express/services.html",
+      "bytes": 32532
+    },
+    {
+      "file": "sites/tony-s-auto-repair/about.html",
+      "bytes": 3105
+    },
+    {
+      "file": "sites/tony-s-auto-repair/contact.html",
+      "bytes": 4374
+    },
+    {
+      "file": "sites/tony-s-auto-repair/gallery.html",
+      "bytes": 3098
+    },
+    {
+      "file": "sites/tony-s-auto-repair/index.html",
+      "bytes": 4911
+    },
+    {
+      "file": "sites/tony-s-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 76138
+    },
+    {
+      "file": "sites/tony-s-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 40636
+    },
+    {
+      "file": "sites/tony-s-auto-repair/reviews.html",
+      "bytes": 4025
+    },
+    {
+      "file": "sites/tony-s-auto-repair/services.html",
+      "bytes": 4280
+    },
+    {
+      "file": "sites/tony-s-auto-repair/taste.css",
+      "bytes": 13646
+    },
+    {
+      "file": "sites/tony-s-auto-repair/taste.js",
+      "bytes": 3186
+    },
+    {
+      "file": "sites/top-choice-electrician/about.html",
+      "bytes": 21997
+    },
+    {
+      "file": "sites/top-choice-electrician/contact.html",
+      "bytes": 23604
+    },
+    {
+      "file": "sites/top-choice-electrician/gallery.html",
+      "bytes": 23167
+    },
+    {
+      "file": "sites/top-choice-electrician/index.html",
+      "bytes": 24056
+    },
+    {
+      "file": "sites/top-choice-electrician/photos/photo-1.jpg.webp",
+      "bytes": 156758
+    },
+    {
+      "file": "sites/top-choice-electrician/photos/photo-3.jpg.webp",
+      "bytes": 35994
+    },
+    {
+      "file": "sites/top-choice-electrician/reviews.html",
+      "bytes": 22252
+    },
+    {
+      "file": "sites/top-choice-electrician/services.html",
+      "bytes": 22681
+    },
+    {
+      "file": "sites/top-notch-auto-repair/about.html",
+      "bytes": 15124
+    },
+    {
+      "file": "sites/top-notch-auto-repair/contact.html",
+      "bytes": 15311
+    },
+    {
+      "file": "sites/top-notch-auto-repair/gallery.html",
+      "bytes": 14600
+    },
+    {
+      "file": "sites/top-notch-auto-repair/index.html",
+      "bytes": 16929
+    },
+    {
+      "file": "sites/top-notch-auto-repair/photos/photo-2.jpg.webp",
+      "bytes": 61180
+    },
+    {
+      "file": "sites/top-notch-auto-repair/reviews.html",
+      "bytes": 15332
+    },
+    {
+      "file": "sites/top-notch-auto-repair/services.html",
+      "bytes": 15238
+    },
+    {
+      "file": "sites/tropical-pets-inc/about.html",
+      "bytes": 31622
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/bottle.svg",
+      "bytes": 336
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/bread.svg",
+      "bytes": 298
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/cup.svg",
+      "bytes": 312
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/flower.svg",
+      "bytes": 473
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/grocery.svg",
+      "bytes": 342
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/jewel.svg",
+      "bytes": 306
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/object.svg",
+      "bytes": 218
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/pet.svg",
+      "bytes": 367
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/plate.svg",
+      "bytes": 351
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue-art/tire.svg",
+      "bytes": 480
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue.css",
+      "bytes": 13000
+    },
+    {
+      "file": "sites/tropical-pets-inc/catalogue.js",
+      "bytes": 14789
+    },
+    {
+      "file": "sites/tropical-pets-inc/concept-still-life.png.webp",
+      "bytes": 273792
+    },
+    {
+      "file": "sites/tropical-pets-inc/contact.html",
+      "bytes": 33261
+    },
+    {
+      "file": "sites/tropical-pets-inc/experience.css",
+      "bytes": 11991
+    },
+    {
+      "file": "sites/tropical-pets-inc/experience.js",
+      "bytes": 2423
+    },
+    {
+      "file": "sites/tropical-pets-inc/gallery.html",
+      "bytes": 32859
+    },
+    {
+      "file": "sites/tropical-pets-inc/index.html",
+      "bytes": 6759
+    },
+    {
+      "file": "sites/tropical-pets-inc/inner.css",
+      "bytes": 6836
+    },
+    {
+      "file": "sites/tropical-pets-inc/inventory.html",
+      "bytes": 10161
+    },
+    {
+      "file": "sites/tropical-pets-inc/inventory.json",
+      "bytes": 1710
+    },
+    {
+      "file": "sites/tropical-pets-inc/photos/photo-1.jpg.webp",
+      "bytes": 78632
+    },
+    {
+      "file": "sites/tropical-pets-inc/photos/photo-3.png.webp",
+      "bytes": 105960
+    },
+    {
+      "file": "sites/tropical-pets-inc/reviews.html",
+      "bytes": 32733
+    },
+    {
+      "file": "sites/tropical-pets-inc/services.html",
+      "bytes": 32519
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/about.html",
+      "bytes": 3069
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/contact.html",
+      "bytes": 4368
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/gallery.html",
+      "bytes": 3102
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/index.html",
+      "bytes": 4930
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/photos/photo-1.jpg.webp",
+      "bytes": 45804
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/photos/photo-3.jpg.webp",
+      "bytes": 62278
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/reviews.html",
+      "bytes": 3699
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/services.html",
+      "bytes": 4304
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/taste.css",
+      "bytes": 13599
+    },
+    {
+      "file": "sites/tt-savage-nail-salon/taste.js",
+      "bytes": 3183
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/about.html",
+      "bytes": 22105
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/contact.html",
+      "bytes": 23756
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/gallery.html",
+      "bytes": 23479
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/index.html",
+      "bytes": 24527
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/photos/photo-1.jpg.webp",
+      "bytes": 86576
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/photos/photo-2.jpg.webp",
+      "bytes": 6070
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/photos/photo-3.jpg.webp",
+      "bytes": 135676
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/reviews.html",
+      "bytes": 23277
+    },
+    {
+      "file": "sites/ustoxona-auto-repair/services.html",
+      "bytes": 22941
+    },
+    {
+      "file": "sites/valle-verde/about.html",
+      "bytes": 14980
+    },
+    {
+      "file": "sites/valle-verde/contact.html",
+      "bytes": 15185
+    },
+    {
+      "file": "sites/valle-verde/gallery.html",
+      "bytes": 14650
+    },
+    {
+      "file": "sites/valle-verde/index.html",
+      "bytes": 16777
+    },
+    {
+      "file": "sites/valle-verde/photos/photo-1.jpg.webp",
+      "bytes": 76126
+    },
+    {
+      "file": "sites/valle-verde/photos/photo-2.jpg.webp",
+      "bytes": 7138
+    },
+    {
+      "file": "sites/valle-verde/reviews.html",
+      "bytes": 15043
+    },
+    {
+      "file": "sites/valle-verde/services.html",
+      "bytes": 15116
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/about.html",
+      "bytes": 3097
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/contact.html",
+      "bytes": 4408
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/gallery.html",
+      "bytes": 3157
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/index.html",
+      "bytes": 5293
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/photos/photo-1.jpg.webp",
+      "bytes": 45608
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/photos/photo-3.jpg.webp",
+      "bytes": 49304
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/reviews.html",
+      "bytes": 3848
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/services.html",
+      "bytes": 4332
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/taste.css",
+      "bytes": 13642
+    },
+    {
+      "file": "sites/vanta-luxury-nail-lounge/taste.js",
+      "bytes": 3184
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/about.html",
+      "bytes": 22044
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/contact.html",
+      "bytes": 23295
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/gallery.html",
+      "bytes": 23204
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/index.html",
+      "bytes": 23982
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/photos/photo-1.jpg.webp",
+      "bytes": 102288
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/photos/photo-2.jpg.webp",
+      "bytes": 73412
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/reviews.html",
+      "bytes": 22881
+    },
+    {
+      "file": "sites/vc-cleaners-madison-ave/services.html",
+      "bytes": 22704
+    },
+    {
+      "file": "sites/w-nails-bar/about.html",
+      "bytes": 15166
+    },
+    {
+      "file": "sites/w-nails-bar/contact.html",
+      "bytes": 15392
+    },
+    {
+      "file": "sites/w-nails-bar/gallery.html",
+      "bytes": 14801
+    },
+    {
+      "file": "sites/w-nails-bar/index.html",
+      "bytes": 16987
+    },
+    {
+      "file": "sites/w-nails-bar/photos/photo-1.jpg.webp",
+      "bytes": 32690
+    },
+    {
+      "file": "sites/w-nails-bar/photos/photo-3.jpg.webp",
+      "bytes": 75480
+    },
+    {
+      "file": "sites/w-nails-bar/reviews.html",
+      "bytes": 15934
+    },
+    {
+      "file": "sites/w-nails-bar/services.html",
+      "bytes": 15291
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/about.html",
+      "bytes": 3121
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/contact.html",
+      "bytes": 4412
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/gallery.html",
+      "bytes": 2934
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/index.html",
+      "bytes": 5085
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/photos/photo-1.jpg.webp",
+      "bytes": 87518
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/photos/photo-3.jpg.webp",
+      "bytes": 34342
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/reviews.html",
+      "bytes": 3918
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/services.html",
+      "bytes": 4320
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/taste.css",
+      "bytes": 13629
+    },
+    {
+      "file": "sites/xin-wen-zhou-spa-24-hr/taste.js",
+      "bytes": 3189
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/about.html",
+      "bytes": 22084
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/contact.html",
+      "bytes": 23664
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/gallery.html",
+      "bytes": 23266
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/index.html",
+      "bytes": 24113
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/photos/photo-1.jpg.webp",
+      "bytes": 198190
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/photos/photo-3.jpg.webp",
+      "bytes": 102282
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/reviews.html",
+      "bytes": 22516
+    },
+    {
+      "file": "sites/zion-auto-repair-and-tires/services.html",
+      "bytes": 22920
+    }
+  ],
+  "findings": [],
+  "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
+  "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
+  "optimizedAt": "2026-10-25T21:30:06.491Z",
+  "optimization": {
+    "codec": "WebP",
+    "rasterCount": 541,
+    "referenceRewrites": 1381,
+    "sourceAssetsUnchanged": true,
+    "offlinePacks": "Available separately from manager"
+  }
+}

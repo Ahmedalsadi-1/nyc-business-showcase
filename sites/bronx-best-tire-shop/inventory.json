@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "bronx-best-tire-shop",
+  "products": [
+    {
+      "id": "bronx-best-tire-shop-1",
+      "name": "Passenger tire study",
+      "category": "Passenger",
+      "price": 100,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A sample item for actual brand, size, load and speed ratings confirmed by the shop.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "bronx-best-tire-shop-2",
+      "name": "Touring tire study",
+      "category": "Touring",
+      "price": 125,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "An editable entry showing how specifications, price and stock can be presented.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "bronx-best-tire-shop-3",
+      "name": "Utility tire study",
+      "category": "Utility",
+      "price": 150,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A tire listing example. Suitability for a vehicle must be checked with the shop.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "bronx-best-tire-shop-4",
+      "name": "Seasonal tire study",
+      "category": "Seasonal",
+      "price": 130,
+      "material": "Sample tire · fitment unconfirmed",
+      "description": "A sample collection item to replace with a real product and photograph.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

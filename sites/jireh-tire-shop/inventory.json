@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "jireh-tire-shop",
+  "products": [
+    {
+      "id": "jireh-tire-shop-1",
+      "name": "Daily tire study",
+      "category": "Passenger",
+      "price": 90,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "An editable tire listing. The shop must confirm the brand, dimensions, ratings and condition.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "jireh-tire-shop-2",
+      "name": "Road tire study",
+      "category": "Touring",
+      "price": 115,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "A catalogue example with room for actual size, fitment and price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "jireh-tire-shop-3",
+      "name": "Utility tire study",
+      "category": "Utility",
+      "price": 140,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "A demonstration of a tire product page, without a vehicle recommendation.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "jireh-tire-shop-4",
+      "name": "Seasonal tire entry",
+      "category": "Seasonal",
+      "price": 125,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "Replace this example with a real item and its verified specifications.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

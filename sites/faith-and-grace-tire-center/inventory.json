@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "faith-and-grace-tire-center",
+  "products": [
+    {
+      "id": "faith-and-grace-tire-center-1",
+      "name": "Passenger tire entry",
+      "category": "Passenger",
+      "price": 98,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "An editable listing for verified brand, tire size, ratings and condition.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "faith-and-grace-tire-center-2",
+      "name": "Touring tire entry",
+      "category": "Touring",
+      "price": 118,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "A sample product entry demonstrating tire details and availability fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "faith-and-grace-tire-center-3",
+      "name": "Utility tire entry",
+      "category": "Utility",
+      "price": 148,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "The shop can replace this entry with an actual tire and confirm vehicle fitment.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "faith-and-grace-tire-center-4",
+      "name": "Seasonal tire entry",
+      "category": "Seasonal",
+      "price": 128,
+      "material": "Sample tire · specifications unconfirmed",
+      "description": "A demonstration listing, not a recommendation for a particular vehicle.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "tropical-pets-inc",
+  "products": [
+    {
+      "id": "tropical-pets-inc-1",
+      "name": "Feeding station",
+      "category": "Feeding",
+      "price": 22,
+      "material": "Sample accessory · dimensions to confirm",
+      "description": "A sample bowl entry for product images, size and material. Confirm suitability with the store.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "tropical-pets-inc-2",
+      "name": "Habitat accessory",
+      "category": "Habitats",
+      "price": 32,
+      "material": "Sample accessory · use to confirm",
+      "description": "An editable space for a real habitat product and its manufacturer’s instructions.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "tropical-pets-inc-3",
+      "name": "Daily care brush",
+      "category": "Care",
+      "price": 16,
+      "material": "Sample grooming accessory",
+      "description": "A sample accessory with room for bristle type, dimensions and suitable use.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "tropical-pets-inc-4",
+      "name": "Play collection",
+      "category": "Play",
+      "price": 13,
+      "material": "Sample toy · use to confirm",
+      "description": "An example product card to replace with an item from the store’s current selection.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    }
+  ]
+}

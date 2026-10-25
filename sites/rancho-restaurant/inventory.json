@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "rancho-restaurant",
+  "products": [
+    {
+      "id": "rancho-restaurant-1",
+      "name": "Lunch plate study",
+      "category": "Plates",
+      "price": 16,
+      "material": "Sample menu item · contents to confirm",
+      "description": "An editable plate example. The restaurant confirms the actual dish, sides, ingredients and allergens.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "rancho-restaurant-2",
+      "name": "Sharing plate study",
+      "category": "To share",
+      "price": 22,
+      "material": "Sample menu item · contents to confirm",
+      "description": "A sample menu entry for a plate designed to share, pending the restaurant’s real menu.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "rancho-restaurant-3",
+      "name": "Side dish study",
+      "category": "Sides",
+      "price": 6,
+      "material": "Sample menu item · contents to confirm",
+      "description": "A sample side card with room for serving size and ingredient details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "rancho-restaurant-4",
+      "name": "House drink study",
+      "category": "Drinks",
+      "price": 5,
+      "material": "Sample menu item · size to confirm",
+      "description": "An example drink entry to replace with the restaurant’s current selection.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

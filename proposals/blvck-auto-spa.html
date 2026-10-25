@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en"><head><meta name="robots" content="noindex,nofollow">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Your new website — BLVCK AUTO SPA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;500;600;700&family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box}
+:root{--ink:#0d0f11;--base:#eceef0;--surface:#ffffff;--accent:#e2621a;
+ --accent2:#f59a52;--dim:#616a72;--line:rgba(13,15,17,.15);
+ --display:"Bebas Neue",Georgia,serif;--sans:"__SANS__",system-ui,sans-serif;
+ --ease:cubic-bezier(.22,1,.36,1);--shell:min(100% - 2.5rem,1160px)}
+@media (min-width:720px){:root{--shell:min(100% - 4rem,1160px)}}
+body{margin:0;background:var(--base);color:var(--ink);font-family:var(--sans);
+  line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:clip}
+.shell{width:var(--shell);margin-inline:auto}
+a{color:inherit}
+h1,h2,h3{font-family:var(--display);font-weight:600;letter-spacing:-.025em;margin:0}
+.display-lg{font-size:clamp(1.9rem,4.6vw,3.3rem);line-height:1.04}
+.display-md{font-size:clamp(1.35rem,2.8vw,2rem);line-height:1.1}
+.eyebrow{font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);
+  font-weight:600;margin:0 0 .9rem}
+.lede{color:var(--dim);max-width:60ch;margin:0}
+.top{background:var(--ink);color:var(--base);padding:1.1rem 0;position:relative;z-index:2}
+.top .in{display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+.top b{font-family:var(--display);font-size:1.02rem;font-weight:600}
+.top .sp{flex:1}
+.stamp{font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent2)}
+section{padding:clamp(2.4rem,6vw,4.2rem) 0}
+.split{display:grid;gap:clamp(1.8rem,4vw,3rem)}
+@media (min-width:900px){.split{grid-template-columns:1fr 1fr;align-items:start;gap:3rem}}
+.find{border-top:1px solid var(--line);padding:1.15rem 0}
+.find b{display:block;font-family:var(--display);font-size:1.05rem;font-weight:600;
+  margin-bottom:.35rem;letter-spacing:-.01em}
+.find p{margin:0;color:var(--dim);font-size:.94rem}
+.shot{border-radius:2px;overflow:hidden;border:1px solid var(--line);background:var(--surface);
+  box-shadow:0 24px 60px -34px rgba(10,10,12,.5)}
+.shot img{width:100%;display:block}
+.caption{font-size:.78rem;color:var(--dim);margin-top:.8rem}
+.frame{border-radius:2px;overflow:hidden;border:1px solid var(--line);background:var(--ink);
+  box-shadow:0 24px 60px -34px rgba(10,10,12,.5);aspect-ratio:16/10;position:relative}
+.frame iframe{width:100%;height:100%;border:0;display:block}
+.frame .cap{position:absolute;left:0;right:0;bottom:0;padding:1.4rem 1rem .8rem;
+  font-size:.78rem;color:rgba(255,255,255,.8);
+  background:linear-gradient(transparent,rgba(0,0,0,.6))}
+.pkgs{display:grid;gap:1.2rem}
+@media (min-width:860px){.pkgs{grid-template-columns:repeat(3,1fr)}}
+.pkg{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:1.6rem;
+  display:flex;flex-direction:column}
+.pkg.pick{border-color:var(--accent);box-shadow:0 20px 46px -26px rgba(10,10,12,.45)}
+.picktag{display:inline-block;align-self:flex-start;font-size:.64rem;letter-spacing:.14em;
+  text-transform:uppercase;font-weight:700;color:var(--accent);margin-bottom:.8rem}
+.pkg h3{font-size:1.4rem;margin-bottom:.2rem}
+.pkg .blurb{color:var(--dim);font-size:.92rem;margin:0 0 1.1rem;min-height:3.2em}
+.price{display:flex;align-items:baseline;gap:.5rem;margin:0 0 1.1rem}
+.price .now{font-family:var(--display);font-size:2.2rem;font-weight:700;letter-spacing:-.03em}
+.price .was{color:var(--dim);text-decoration:line-through;font-size:.92rem}
+.pkg ul{list-style:none;padding:0;margin:0 0 1.4rem;flex:1}
+.pkg li{position:relative;padding:.3rem 0 .3rem 1.4rem;font-size:.9rem;color:var(--dim)}
+.pkg li::before{content:"";position:absolute;left:0;top:.66rem;width:7px;height:7px;
+  border-radius:50%;background:var(--accent)}
+.pkg .btn{display:block;text-align:center;background:var(--ink);color:var(--base);
+  text-decoration:none;padding:.78rem 1rem;border-radius:999px;font-weight:600;font-size:.72rem;
+  letter-spacing:.12em;text-transform:uppercase}
+.pkg.pick .btn{background:var(--accent);color:var(--surface)}
+.why{font-size:.9rem;color:var(--dim);margin:1.2rem 0 0;max-width:64ch}
+.terms{font-size:.82rem;color:var(--dim);margin-top:1.4rem;max-width:70ch}
+.cta{background:var(--ink);color:var(--base);border-radius:8px;padding:clamp(1.8rem,4vw,2.8rem);
+  text-align:center}
+.cta p{color:rgba(255,255,255,.75);max-width:46ch;margin:.9rem auto 1.5rem}
+.cta .btn{display:inline-block;background:var(--accent);color:var(--surface);text-decoration:none;
+  padding:.85rem 1.6rem;border-radius:999px;font-weight:600;font-size:.72rem;letter-spacing:.12em;
+  text-transform:uppercase}
+footer{padding:1.6rem 0;color:var(--dim);font-size:.8rem;text-align:center;
+  border-top:1px solid var(--line)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head><body>
+<header class="top"><div class="shell in"><b>Proposal for BLVCK AUTO SPA</b><span class="sp"></span>
+<span class="stamp">Prepared for Brooklyn</span></div></header>
+
+<section><div class="shell split">
+  <div>
+    <p class="eyebrow">What I found</p>
+    <h1 class="display-lg" style="margin-bottom:1.2rem">BLVCK AUTO SPA has no website — and it is
+      costing you customers.</h1>
+    <p class="lede">I looked up BLVCK AUTO SPA the way your customers do: searched Google, opened
+      the map, tapped the listing. Here is exactly what they find.</p>
+    <div style="margin-top:2rem"><div class="find"><b>The website you listed does not resolve</b><p>The domain on your Google listing no longer exists. Anyone who taps it gets an error page, and Google is quietly downgrading you for it.</p></div><div class="find"><b>4.9 stars from 63 reviews, and nowhere to show them</b><p>That is a real track record and it is invisible to anyone who searches for you. Right now only Google sees it.</p></div></div>
+  </div>
+  <div>
+    <p class="eyebrow">What they see right now</p>
+    <div class="shot"><img src="../maps-screenshots/blvck-auto-spa.jpg.webp" alt="The Google listing for BLVCK AUTO SPA"></div>
+    <p class="caption">This is the live Google listing for BLVCK AUTO SPA, captured from Maps.</p>
+  </div>
+</div></section>
+
+<section style="background:var(--surface)"><div class="shell">
+  <p class="eyebrow">The fix</p>
+  <h2 class="display-md" style="margin-bottom:1rem">A website built for BLVCK AUTO SPA</h2>
+  <p class="lede">Real photos, your reviews, your hours, your phone number one tap away — and a
+    design that makes Car wash look like the business it actually is.</p>
+  <div class="frame" style="margin-top:1.8rem">
+    <iframe src="../sites/blvck-auto-spa/index.html" title="The proposed website for BLVCK AUTO SPA"></iframe>
+    <div class="cap">This is a working site, not a picture of one. Click through and use it.</div>
+  </div>
+</div></section>
+
+<section><div class="shell">
+  <p class="eyebrow">Packages</p>
+  <h2 class="display-md" style="margin-bottom:1rem">Pick the one that fits</h2>
+  <p class="lede">Fixed price, fixed timeline, a real site. No monthly surprise, and no template
+    you cannot edit.</p>
+  <div class="pkgs" style="margin-top:2rem"><article class="pkg pick"><span class="picktag">Most shops start here</span><h3>Starter</h3><p class="blurb">Everything a customer needs to trust you and call you.</p><div class="price"><span class="now">$900</span><span class="was">$1400</span></div><ul><li>5 pages: home, about, services, gallery, contact</li><li>Mobile-first, loads in under a second on a phone</li><li>Contact form wired to your phone and email</li><li>Google Maps embed and one-tap directions</li><li>Local search basics: title, description, structured data</li><li>One round of revisions</li><li>Live in 7 days</li></ul><button type="button" class="btn plan-discuss" aria-pressed="false">Discuss Starter — $900</button></article><article class="pkg"><h3>Growth</h3><p class="blurb">For a business that wants enquiries arriving on their own.</p><div class="price"><span class="now">$1150</span><span class="was">$1650</span></div><ul><li>8 pages, including a page per service</li><li>Booking or request-a-quote form</li><li>Your Google Business Profile set up and linked</li><li>One-tap calling from every screen</li><li>Photo gallery styled to your trade</li><li>Analytics, so you see who calls and from where</li><li>Two rounds of revisions</li><li>Live in 10 days, three months maintenance included</li></ul><button type="button" class="btn plan-discuss" aria-pressed="false">Discuss Growth — $1150</button></article><article class="pkg"><h3>Pro</h3><p class="blurb">For a business ready to be the obvious choice nearby.</p><div class="price"><span class="now">$1400</span><span class="was">$2200</span></div><ul><li>Up to 12 pages, built around how you actually sell</li><li>Ordering, catalogue or booking integrations</li><li>Review capture, so happy customers leave a rating</li><li>Full local search: services, areas served, FAQ markup</li><li>Photography direction and a shot list for the day</li><li>Speed, accessibility and mobile polish throughout</li><li>Three rounds of revisions</li><li>Live in 14 days, six months maintenance included</li></ul><button type="button" class="btn plan-discuss" aria-pressed="false">Discuss Pro — $1400</button></article></div>
+  <p class="why">Most shops start here. It is the smallest thing that removes the gap between your listing and a customer calling you.</p>
+  <p class="terms">Half the price up front, the balance on launch. Hosting setup and a training
+    walkthrough are included on every package. Prices hold for fourteen days.</p>
+</div></section>
+
+<section><div class="shell"><div class="cta">
+  <h2 class="display-md">Want the one above live this week?</h2>
+  <p>Reply with the package name and I will have a first draft in front of you within 48 hours.</p>
+  <button type="button" class="btn plan-discuss" aria-pressed="false">Discuss this website</button>
+</div></div></section>
+
+<footer>Prepared for BLVCK AUTO SPA · Brooklyn</footer>
+<script>document.querySelectorAll('.plan-discuss').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.plan-discuss').forEach(function(x){x.setAttribute('aria-pressed','false')});b.setAttribute('aria-pressed','true');var n=document.getElementById('pitch-choice');if(!n){n=document.createElement('p');n.id='pitch-choice';n.setAttribute('role','status');n.style.cssText='padding:16px;border:1px solid currentColor;margin:16px 0';b.parentNode.appendChild(n)}n.textContent=b.textContent.replace('Discuss ','Selected for discussion: ')+'. Review the scope, timeline and next steps with your representative.';});});</script><style>button.btn{font:inherit;cursor:pointer}.plan-discuss[aria-pressed=true]{outline:3px solid currentColor;outline-offset:3px}@media print{iframe{display:none}.plan-discuss{display:none}}</style></body></html>

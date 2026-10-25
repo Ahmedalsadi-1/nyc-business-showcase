@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "before-coffee",
+  "products": [
+    {
+      "id": "before-coffee-1",
+      "name": "Espresso study",
+      "category": "Coffee",
+      "price": 3.5,
+      "material": "Sample menu item · cup size to confirm",
+      "description": "A sample coffee entry for the actual roast, serving size and price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "cup"
+    },
+    {
+      "id": "before-coffee-2",
+      "name": "Milk coffee study",
+      "category": "Coffee",
+      "price": 5,
+      "material": "Sample menu item · cup size to confirm",
+      "description": "An editable coffee card. Milk options and allergens must be confirmed by the café.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "cup"
+    },
+    {
+      "id": "before-coffee-3",
+      "name": "Cold coffee study",
+      "category": "Coffee",
+      "price": 5.5,
+      "material": "Sample menu item · cup size to confirm",
+      "description": "A sample cold drink entry with space for the café’s recipe and size choices.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "cup"
+    },
+    {
+      "id": "before-coffee-4",
+      "name": "Morning bake study",
+      "category": "Bakes",
+      "price": 4,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A bakery counter example. Replace with an actual item and confirmed ingredient information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "cup"
+    }
+  ]
+}

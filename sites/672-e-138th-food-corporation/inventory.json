@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "672-e-138th-food-corporation",
+  "products": [
+    {
+      "id": "672-e-138th-food-corporation-1",
+      "name": "Kitchen rice",
+      "category": "Pantry",
+      "price": 5.5,
+      "material": "Sample item · 2 lb example pack",
+      "description": "An editable pantry item. The store can add the real brand, pack size and product photograph.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "672-e-138th-food-corporation-2",
+      "name": "Cooking oil",
+      "category": "Pantry",
+      "price": 8,
+      "material": "Sample item · 1 L example bottle",
+      "description": "A grocery example with space for brand, ingredients and pack details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "672-e-138th-food-corporation-3",
+      "name": "Breakfast cereal",
+      "category": "Breakfast",
+      "price": 6,
+      "material": "Sample item · pack size to confirm",
+      "description": "Replace this sample with an actual shelf product and its allergen information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "672-e-138th-food-corporation-4",
+      "name": "Fruit drink",
+      "category": "Drinks",
+      "price": 3,
+      "material": "Sample item · 1 L example carton",
+      "description": "A drink entry demonstrating price, stock and product description fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "londel-s",
+  "products": [
+    {
+      "id": "londel-s-1",
+      "name": "Sunday plate study",
+      "category": "Plates",
+      "price": 24,
+      "material": "Sample menu item · contents to confirm",
+      "description": "An editable menu example. The restaurant confirms the real dish, sides and ingredient information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "londel-s-2",
+      "name": "Sharing plate study",
+      "category": "To share",
+      "price": 18,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A sample shared-plate entry with space for actual menu details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "londel-s-3",
+      "name": "Side dish study",
+      "category": "Sides",
+      "price": 7,
+      "material": "Sample menu item · contents to confirm",
+      "description": "A sample side entry. Ingredients and allergens must come from the restaurant.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "londel-s-4",
+      "name": "Sweet finish study",
+      "category": "Dessert",
+      "price": 9,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A dessert example to replace with a real item, photograph and confirmed price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

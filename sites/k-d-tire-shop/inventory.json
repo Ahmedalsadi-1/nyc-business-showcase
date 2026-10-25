@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "k-d-tire-shop",
+  "products": [
+    {
+      "id": "k-d-tire-shop-1",
+      "name": "Passenger tire entry",
+      "category": "Passenger",
+      "price": 55,
+      "material": "Sample used tire · condition unconfirmed",
+      "description": "An example listing for a used tire. Actual condition, tread depth, size and suitability must be checked by the shop.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "k-d-tire-shop-2",
+      "name": "Touring tire entry",
+      "category": "Touring",
+      "price": 65,
+      "material": "Sample used tire · condition unconfirmed",
+      "description": "A sample card for a tire photograph, verified dimensions and condition notes.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "k-d-tire-shop-3",
+      "name": "Utility tire entry",
+      "category": "Utility",
+      "price": 75,
+      "material": "Sample used tire · condition unconfirmed",
+      "description": "An editable tire entry, not a vehicle fitment recommendation.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    },
+    {
+      "id": "k-d-tire-shop-4",
+      "name": "Replacement tire entry",
+      "category": "Passenger",
+      "price": 60,
+      "material": "Sample tire · size unconfirmed",
+      "description": "A sample product to demonstrate stock, price and phone enquiry fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "tire"
+    }
+  ]
+}

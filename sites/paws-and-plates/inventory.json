@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "paws-and-plates",
+  "products": [
+    {
+      "id": "paws-and-plates-1",
+      "name": "The dinner bowl",
+      "category": "Feeding",
+      "price": 20,
+      "material": "Sample bowl · material to confirm",
+      "description": "A bowl study for showing product dimensions, finish and everyday care.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "paws-and-plates-2",
+      "name": "The treat jar",
+      "category": "Feeding",
+      "price": 22,
+      "material": "Sample storage accessory",
+      "description": "An editable accessory entry. Replace it with the actual product and its capacity.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "paws-and-plates-3",
+      "name": "The play break",
+      "category": "Play",
+      "price": 14,
+      "material": "Sample toy · size to confirm",
+      "description": "A play accessory example with space for the maker’s safety and suitability information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "paws-and-plates-4",
+      "name": "The daily lead",
+      "category": "Walking",
+      "price": 26,
+      "material": "Sample walking accessory",
+      "description": "A sample lead entry to demonstrate colour, size, price and availability fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    }
+  ]
+}

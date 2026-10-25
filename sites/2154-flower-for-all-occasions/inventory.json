@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "2154-flower-for-all-occasions",
+  "products": [
+    {
+      "id": "2154-flower-for-all-occasions-1",
+      "name": "Garden arrangement",
+      "category": "Arrangements",
+      "price": 65,
+      "material": "Sample arrangement · vase included in example",
+      "description": "An airy floral study. The florist can replace it with the actual stems, size and vessel available.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "flower"
+    },
+    {
+      "id": "2154-flower-for-all-occasions-2",
+      "name": "Single-colour bouquet",
+      "category": "Bouquets",
+      "price": 45,
+      "material": "Sample bouquet · seasonal stems",
+      "description": "A sample bouquet entry with room for colour options and care notes.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "flower"
+    },
+    {
+      "id": "2154-flower-for-all-occasions-3",
+      "name": "Table flowers",
+      "category": "Occasions",
+      "price": 85,
+      "material": "Sample centrepiece · dimensions to confirm",
+      "description": "An arrangement study for a table setting. Availability, flowers and final design are unconfirmed.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "flower"
+    },
+    {
+      "id": "2154-flower-for-all-occasions-4",
+      "name": "A small gesture",
+      "category": "Bouquets",
+      "price": 30,
+      "material": "Sample petite bouquet",
+      "description": "A compact bouquet example for demonstrating a gift collection and phone enquiry.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "flower"
+    }
+  ]
+}

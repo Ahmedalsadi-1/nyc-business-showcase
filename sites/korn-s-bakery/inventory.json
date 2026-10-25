@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "korn-s-bakery",
+  "products": [
+    {
+      "id": "korn-s-bakery-1",
+      "name": "Braided loaf study",
+      "category": "Breads",
+      "price": 8,
+      "material": "Sample menu item · loaf size to confirm",
+      "description": "A sample loaf entry to replace with the bakery’s real bread, ingredients and price.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "korn-s-bakery-2",
+      "name": "Morning roll study",
+      "category": "Breads",
+      "price": 3,
+      "material": "Sample menu item · single portion",
+      "description": "An editable roll entry. The bakery confirms ingredients and allergens.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "korn-s-bakery-3",
+      "name": "Swirled pastry study",
+      "category": "Pastries",
+      "price": 4.5,
+      "material": "Sample menu item · single portion",
+      "description": "A pastry card demonstrating description, photograph and stock fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "korn-s-bakery-4",
+      "name": "Bakery box study",
+      "category": "Pastries",
+      "price": 22,
+      "material": "Sample menu item · contents to confirm",
+      "description": "An example assortment with room for the actual box size and selection.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    }
+  ]
+}

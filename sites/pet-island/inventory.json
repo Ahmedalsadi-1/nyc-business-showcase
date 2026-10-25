@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "pet-island",
+  "products": [
+    {
+      "id": "pet-island-1",
+      "name": "Daily food bowl",
+      "category": "Feeding",
+      "price": 18,
+      "material": "Sample bowl · medium",
+      "description": "A sample feeding accessory. Add actual dimensions, material and cleaning information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-island-2",
+      "name": "Walk-ready lead",
+      "category": "Walking",
+      "price": 24,
+      "material": "Sample accessory · size to confirm",
+      "description": "A walking accessory entry for demonstrating size variants and stock information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-island-3",
+      "name": "Soft play toy",
+      "category": "Play",
+      "price": 12,
+      "material": "Sample toy · suitability to confirm",
+      "description": "A toy example with room for the maker’s material and supervision guidance.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-island-4",
+      "name": "Food collection",
+      "category": "Food",
+      "price": 28,
+      "material": "Sample food entry · pack size unconfirmed",
+      "description": "Replace this entry with a real product and its label. No dietary or health claims are made by this demo.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    }
+  ]
+}

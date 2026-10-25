@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "river-grocery-more",
+  "products": [
+    {
+      "id": "river-grocery-more-1",
+      "name": "Pantry rice",
+      "category": "Pantry",
+      "price": 6,
+      "material": "Sample item · 2 lb example pack",
+      "description": "A sample pantry entry. Replace it with the actual brand, pack size and ingredient label.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "river-grocery-more-2",
+      "name": "Olive oil",
+      "category": "Pantry",
+      "price": 12,
+      "material": "Sample item · 500 ml example bottle",
+      "description": "An editable grocery entry for brand, origin and pack details confirmed by the store.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "river-grocery-more-3",
+      "name": "Morning oats",
+      "category": "Breakfast",
+      "price": 5,
+      "material": "Sample item · 18 oz example pack",
+      "description": "A breakfast shelf example. Ingredients and allergen information must come from the real packaging.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    },
+    {
+      "id": "river-grocery-more-4",
+      "name": "Sparkling water",
+      "category": "Drinks",
+      "price": 2,
+      "material": "Sample item · 1 L example bottle",
+      "description": "A sample drink entry with room for pack sizes and current availability.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "grocery"
+    }
+  ]
+}

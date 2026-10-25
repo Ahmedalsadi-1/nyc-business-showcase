@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "damascus-bread-pastry-shop",
+  "products": [
+    {
+      "id": "damascus-bread-pastry-shop-1",
+      "name": "Flatbread study",
+      "category": "Breads",
+      "price": 5,
+      "material": "Sample menu item · pack to confirm",
+      "description": "An example bread entry for ingredients, quantity and the bakery’s own description.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "damascus-bread-pastry-shop-2",
+      "name": "Sesame bread study",
+      "category": "Breads",
+      "price": 4,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A sample menu card. Ingredients and allergens must be confirmed by the bakery.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "damascus-bread-pastry-shop-3",
+      "name": "Layered pastry study",
+      "category": "Pastries",
+      "price": 6,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable pastry entry with room for actual product photographs and ingredient details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    },
+    {
+      "id": "damascus-bread-pastry-shop-4",
+      "name": "Pastry assortment",
+      "category": "Pastries",
+      "price": 18,
+      "material": "Sample menu item · selection to confirm",
+      "description": "An example assortment. The actual pieces, price and availability are not confirmed.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bread"
+    }
+  ]
+}

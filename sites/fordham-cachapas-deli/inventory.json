@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "fordham-cachapas-deli",
+  "products": [
+    {
+      "id": "fordham-cachapas-deli-1",
+      "name": "Cachapa study",
+      "category": "Plates",
+      "price": 12,
+      "material": "Sample menu item · filling to confirm",
+      "description": "A sample cachapa entry. The deli confirms the actual filling, portion and allergen information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "fordham-cachapas-deli-2",
+      "name": "Deli plate study",
+      "category": "Plates",
+      "price": 15,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable plate entry for the actual menu and its serving details.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "fordham-cachapas-deli-3",
+      "name": "Counter bite study",
+      "category": "Bites",
+      "price": 5,
+      "material": "Sample menu item · contents to confirm",
+      "description": "A sample snack entry to replace with a real product and ingredients.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "fordham-cachapas-deli-4",
+      "name": "Cold drink study",
+      "category": "Drinks",
+      "price": 4,
+      "material": "Sample menu item · size to confirm",
+      "description": "A demonstration drink entry with room for the actual brand or recipe.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

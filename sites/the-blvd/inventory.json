@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "the-blvd",
+  "products": [
+    {
+      "id": "the-blvd-1",
+      "name": "Grill plate study",
+      "category": "From the grill",
+      "price": 24,
+      "material": "Sample menu item · ingredients to confirm",
+      "description": "A sample grill entry. Replace with the bar’s actual dish, preparation and allergen information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "the-blvd-2",
+      "name": "Bar bite study",
+      "category": "Bar bites",
+      "price": 12,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable small-plate example for the real menu.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "the-blvd-3",
+      "name": "Sharing plate study",
+      "category": "To share",
+      "price": 18,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A shared-plate entry demonstrating details, price and availability fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "the-blvd-4",
+      "name": "House drink study",
+      "category": "Drinks",
+      "price": 8,
+      "material": "Sample menu item · size to confirm",
+      "description": "A sample drink card for the actual beverage selection. No ordering or payment is connected.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

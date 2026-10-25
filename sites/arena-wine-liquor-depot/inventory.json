@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "arena-wine-liquor-depot",
+  "products": [
+    {
+      "id": "arena-wine-liquor-depot-1",
+      "name": "Red wine study",
+      "category": "Wines",
+      "price": 24,
+      "material": "750 ml · sample selection",
+      "description": "A red-wine entry with room for the producer, region, vintage and tasting notes.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "arena-wine-liquor-depot-2",
+      "name": "White wine study",
+      "category": "Wines",
+      "price": 22,
+      "material": "750 ml · sample selection",
+      "description": "A white-wine entry designed to show grape variety, origin and serving suggestions.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "arena-wine-liquor-depot-3",
+      "name": "Whiskey study",
+      "category": "Spirits",
+      "price": 48,
+      "material": "750 ml · sample selection",
+      "description": "A spirits entry for the distiller, age statement and bottle format, confirmed by the store.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "arena-wine-liquor-depot-4",
+      "name": "Celebration bottle",
+      "category": "Sparkling",
+      "price": 36,
+      "material": "750 ml · sample selection",
+      "description": "A sparkling-wine entry for the occasions and bottle details the store wants to share.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    }
+  ]
+}

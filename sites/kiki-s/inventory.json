@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "kiki-s",
+  "products": [
+    {
+      "id": "kiki-s-1",
+      "name": "Salad plate study",
+      "category": "To start",
+      "price": 15,
+      "material": "Sample menu item · ingredients to confirm",
+      "description": "A sample menu entry. The restaurant confirms its actual dish, ingredients and allergens.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "kiki-s-2",
+      "name": "Shared plate study",
+      "category": "To share",
+      "price": 19,
+      "material": "Sample menu item · portion to confirm",
+      "description": "An editable plate example with room for the restaurant’s description.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "kiki-s-3",
+      "name": "Main plate study",
+      "category": "Plates",
+      "price": 28,
+      "material": "Sample menu item · contents to confirm",
+      "description": "A sample main-course entry to replace with the restaurant’s current menu.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    },
+    {
+      "id": "kiki-s-4",
+      "name": "Dessert study",
+      "category": "Dessert",
+      "price": 10,
+      "material": "Sample menu item · portion to confirm",
+      "description": "A dessert card demonstrating price, photography and availability fields.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "plate"
+    }
+  ]
+}

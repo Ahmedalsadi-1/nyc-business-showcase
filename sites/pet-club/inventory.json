@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "pet-club",
+  "products": [
+    {
+      "id": "pet-club-1",
+      "name": "Everyday bowl",
+      "category": "Feeding",
+      "price": 19,
+      "material": "Sample feeding accessory",
+      "description": "A sample bowl with editable dimensions, material, price and quantity.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-club-2",
+      "name": "City walk lead",
+      "category": "Walking",
+      "price": 25,
+      "material": "Sample walking accessory",
+      "description": "A walking entry with room for the maker’s fit and use information.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-club-3",
+      "name": "Playtime object",
+      "category": "Play",
+      "price": 15,
+      "material": "Sample toy · suitability to confirm",
+      "description": "A toy study for showing product photographs and care instructions.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    },
+    {
+      "id": "pet-club-4",
+      "name": "Care collection",
+      "category": "Care",
+      "price": 17,
+      "material": "Sample grooming accessory",
+      "description": "Replace this example with a real product, its description and availability.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "pet"
+    }
+  ]
+}

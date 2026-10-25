@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "store": "hana-wine-liquor",
+  "products": [
+    {
+      "id": "hana-wine-liquor-1",
+      "name": "Evening red",
+      "category": "Wines",
+      "price": 26,
+      "material": "750 ml · sample bottle",
+      "description": "An editable wine entry with space for region, grape, vintage and the store’s own notes.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "hana-wine-liquor-2",
+      "name": "Bright white",
+      "category": "Wines",
+      "price": 21,
+      "material": "750 ml · sample bottle",
+      "description": "A sample white-wine entry. Replace the title and details with a bottle from the real shelf.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "hana-wine-liquor-3",
+      "name": "Distiller’s selection",
+      "category": "Spirits",
+      "price": 54,
+      "material": "750 ml · sample bottle",
+      "description": "A product space for producer details, bottle format and a short introduction.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    },
+    {
+      "id": "hana-wine-liquor-4",
+      "name": "Sparkling selection",
+      "category": "Sparkling",
+      "price": 32,
+      "material": "750 ml · sample bottle",
+      "description": "An example of how a celebration bottle can be displayed in the collection.",
+      "quantity": null,
+      "status": "confirm",
+      "demo": true,
+      "image": "",
+      "illustration": "bottle"
+    }
+  ]
+}
