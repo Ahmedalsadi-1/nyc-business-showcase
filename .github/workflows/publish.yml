@@ -1,0 +1,45 @@
+name: Publish campaign
+on:
+  workflow_dispatch:
+    inputs:
+      source_url:
+        description: HTTPS URL of the prepared public campaign ZIP
+        required: true
+        type: string
+      sha256:
+        description: SHA-256 of the prepared public campaign ZIP
+        required: true
+        type: string
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download the verified public snapshot
+        env:
+          SOURCE_URL: ${{ inputs.source_url }}
+          SHA256: ${{ inputs.sha256 }}
+        run: |
+          curl --fail --location --retry 3 --max-time 1200 "$SOURCE_URL" --output "$RUNNER_TEMP/campaign.zip"
+          echo "$SHA256  $RUNNER_TEMP/campaign.zip" | sha256sum --check --status
+          mkdir "$RUNNER_TEMP/public"
+          unzip -q "$RUNNER_TEMP/campaign.zip" -d "$RUNNER_TEMP/public"
+          test -f "$RUNNER_TEMP/public/index.html"
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/public
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
