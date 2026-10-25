@@ -1,7 +1,7 @@
 # NYC business showcase
 
-Public website concepts and a worker presentation desk. The Pages workflow deploys a checksum-verified, allowlisted campaign artifact. Publishing keys, private drafts and visit notes are not included.
+Open https://ahmedalsadi-1.github.io/nyc-business-showcase/reps/ for worker assignments and verified mobile/desktop presentations. Browse all125concepts at https://ahmedalsadi-1.github.io/nyc-business-showcase/sites/ .
 
-The live campaign is at https://ahmedalsadi-1.github.io/nyc-business-showcase/ .
+This repository contains the optimized public static snapshot. GitHub Pages publishes main from its root. Campaign source and private inventory keys are kept separately.
 
-Concept content requires each business owner's approval. Sample inventory is labelled. Worker assignments are link snapshots; browser notes do not synchronize.
+Owner approval is needed before a concept becomes a business website. Inventory samples are labelled. Assignment links are snapshots and visit notes stay in the worker browser; they do not synchronize.
