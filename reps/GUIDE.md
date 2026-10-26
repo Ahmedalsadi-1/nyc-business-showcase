@@ -31,3 +31,7 @@ Rep links filter the interface; they are not login credentials or access control
 Enter the worker’s phone number on their manager card. US numbers may use10digits; other countries need the country code. **Send route by text** or **Send with WhatsApp** prepares a message addressed to that worker. Review it and press Send in the selected app. The route link opens their ordered businesses, websites, proposals and pitch scripts. Phone numbers stay in the manager browser and assignment export; they are not included in personal route URLs.
 
 Each stop shows Website, Proposal and Pitch script together before verification and immediately above the visit record. These links always match the current business. Verify the storefront before presenting to the owner.
+
+## New prospects and merchant services
+
+The manager desk links to the NYC/NJ smoke-shop research queue and owner booking/delivery setup. New prospects are not completed demos or assigned stops. Each existing business has Booking & order options beside its website/proposal/script links. Direct forms prepare requests; only the business or a connected provider can confirm them. See BOOKING-GUIDE.md for onboarding and account-level integration limits.

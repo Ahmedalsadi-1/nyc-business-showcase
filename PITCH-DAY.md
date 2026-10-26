@@ -1,3 +1,9 @@
+# Shared presentation link
+
+Open https://ahmedalsadi-1.github.io/nyc-business-showcase/reps/ . Name your five workers, review their assignments, then use **Get worker link** for each person. Send each worker only their personal route link.
+
+Workers verify the business name and address, choose **Present to owner**, then switch Mobile/Desktop and open the matching proposal. Visit notes save on that device; export them at the end of the day. When reassigning a business, replace both affected links and have workers acknowledge the change before continuing.
+
 # In-person website pitches
 
 Start at the [rep presentation desk](reps/index.html). The [full gallery](sites/index.html) is useful for browsing; the rep desk is the working visit list so each person shows the correct business.
