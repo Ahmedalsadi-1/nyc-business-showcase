@@ -1,9 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-10-26T03:21:59.658Z",
+  "preparedAt": "2026-10-26T03:46:41.410Z",
   "businessCount": 125,
-  "fileCount": 2709,
-  "totalBytes": 56965191,
+  "roundTwoCount": 40,
+  "roundTwoStatus": "Preview only; excluded from active routes",
+  "fileCount": 2833,
+  "totalBytes": 57892129,
   "files": [
     {
       "file": ".nojekyll",
@@ -2055,15 +2057,15 @@
     },
     {
       "file": "reps/GUIDE.md",
-      "bytes": 5455
+      "bytes": 6184
     },
     {
       "file": "reps/index.html",
-      "bytes": 7341
+      "bytes": 7405
     },
     {
       "file": "reps/prospects-data.js",
-      "bytes": 342697
+      "bytes": 348379
     },
     {
       "file": "reps/prospects.css",
@@ -2071,11 +2073,11 @@
     },
     {
       "file": "reps/prospects.html",
-      "bytes": 3015
+      "bytes": 3148
     },
     {
       "file": "reps/prospects.js",
-      "bytes": 4440
+      "bytes": 4614
     },
     {
       "file": "reps/script.html",
@@ -2088,6 +2090,502 @@
     {
       "file": "robots.txt",
       "bytes": 26
+    },
+    {
+      "file": "round-two/businesses.js",
+      "bytes": 12550
+    },
+    {
+      "file": "round-two/collection.css",
+      "bytes": 6034
+    },
+    {
+      "file": "round-two/collection.js",
+      "bytes": 3280
+    },
+    {
+      "file": "round-two/index.html",
+      "bytes": 3552
+    },
+    {
+      "file": "round-two/nj-404-vape-and-smoke-shop/index.html",
+      "bytes": 2305
+    },
+    {
+      "file": "round-two/nj-404-vape-and-smoke-shop/style.css",
+      "bytes": 3590
+    },
+    {
+      "file": "round-two/nj-bob-smoke-shop/index.html",
+      "bytes": 2588
+    },
+    {
+      "file": "round-two/nj-bob-smoke-shop/style.css",
+      "bytes": 3415
+    },
+    {
+      "file": "round-two/nj-center-smoke-shop/index.html",
+      "bytes": 2579
+    },
+    {
+      "file": "round-two/nj-center-smoke-shop/style.css",
+      "bytes": 3022
+    },
+    {
+      "file": "round-two/nj-chop-smoke-shop-deli/index.html",
+      "bytes": 2131
+    },
+    {
+      "file": "round-two/nj-chop-smoke-shop-deli/style.css",
+      "bytes": 3199
+    },
+    {
+      "file": "round-two/nj-city-smoke-shop/index.html",
+      "bytes": 2922
+    },
+    {
+      "file": "round-two/nj-city-smoke-shop/style.css",
+      "bytes": 3330
+    },
+    {
+      "file": "round-two/nj-elizabeth-smoke-shop-deli/index.html",
+      "bytes": 2320
+    },
+    {
+      "file": "round-two/nj-elizabeth-smoke-shop-deli/style.css",
+      "bytes": 3633
+    },
+    {
+      "file": "round-two/nj-excelente-smoke-shop/index.html",
+      "bytes": 2563
+    },
+    {
+      "file": "round-two/nj-excelente-smoke-shop/style.css",
+      "bytes": 2950
+    },
+    {
+      "file": "round-two/nj-exotic-smoke-scene/index.html",
+      "bytes": 2628
+    },
+    {
+      "file": "round-two/nj-exotic-smoke-scene/style.css",
+      "bytes": 3444
+    },
+    {
+      "file": "round-two/nj-fabricated-lifestyles-smoke-shop/index.html",
+      "bytes": 2747
+    },
+    {
+      "file": "round-two/nj-fabricated-lifestyles-smoke-shop/style.css",
+      "bytes": 3138
+    },
+    {
+      "file": "round-two/nj-grizzly-smoke-shop-convenience/index.html",
+      "bytes": 2685
+    },
+    {
+      "file": "round-two/nj-grizzly-smoke-shop-convenience/style.css",
+      "bytes": 2780
+    },
+    {
+      "file": "round-two/nj-h-i-convenience-n-smoke/index.html",
+      "bytes": 2719
+    },
+    {
+      "file": "round-two/nj-h-i-convenience-n-smoke/style.css",
+      "bytes": 3512
+    },
+    {
+      "file": "round-two/nj-h2o-smoke-shop/index.html",
+      "bytes": 2931
+    },
+    {
+      "file": "round-two/nj-h2o-smoke-shop/style.css",
+      "bytes": 3234
+    },
+    {
+      "file": "round-two/nj-hoboken-smoke-shop/index.html",
+      "bytes": 2811
+    },
+    {
+      "file": "round-two/nj-hoboken-smoke-shop/style.css",
+      "bytes": 3058
+    },
+    {
+      "file": "round-two/nj-its-lit-smoke-shop-kearny/index.html",
+      "bytes": 2194
+    },
+    {
+      "file": "round-two/nj-its-lit-smoke-shop-kearny/style.css",
+      "bytes": 3412
+    },
+    {
+      "file": "round-two/nj-puff-smoke-shop/index.html",
+      "bytes": 2628
+    },
+    {
+      "file": "round-two/nj-puff-smoke-shop/style.css",
+      "bytes": 2911
+    },
+    {
+      "file": "round-two/nj-pull-up-2-smoke-shop/index.html",
+      "bytes": 2275
+    },
+    {
+      "file": "round-two/nj-pull-up-2-smoke-shop/style.css",
+      "bytes": 3369
+    },
+    {
+      "file": "round-two/nj-relief-convenience-smoke-shop/index.html",
+      "bytes": 2198
+    },
+    {
+      "file": "round-two/nj-relief-convenience-smoke-shop/style.css",
+      "bytes": 3378
+    },
+    {
+      "file": "round-two/nj-smoking-aces-smoke-shop/index.html",
+      "bytes": 2588
+    },
+    {
+      "file": "round-two/nj-smoking-aces-smoke-shop/style.css",
+      "bytes": 3853
+    },
+    {
+      "file": "round-two/nj-stoney-bros-smoke-shop/index.html",
+      "bytes": 3028
+    },
+    {
+      "file": "round-two/nj-stoney-bros-smoke-shop/style.css",
+      "bytes": 3193
+    },
+    {
+      "file": "round-two/nj-storms-smoke-shop/index.html",
+      "bytes": 2856
+    },
+    {
+      "file": "round-two/nj-storms-smoke-shop/style.css",
+      "bytes": 3412
+    },
+    {
+      "file": "round-two/nyc-smoke-97-tobacco-shop/index.html",
+      "bytes": 2575
+    },
+    {
+      "file": "round-two/nyc-smoke-97-tobacco-shop/style.css",
+      "bytes": 3021
+    },
+    {
+      "file": "round-two/nyc-smoke-aa-smoke-shop/index.html",
+      "bytes": 2611
+    },
+    {
+      "file": "round-two/nyc-smoke-aa-smoke-shop/style.css",
+      "bytes": 3223
+    },
+    {
+      "file": "round-two/nyc-smoke-amazing-store-smoke-shop/index.html",
+      "bytes": 2724
+    },
+    {
+      "file": "round-two/nyc-smoke-amazing-store-smoke-shop/style.css",
+      "bytes": 2674
+    },
+    {
+      "file": "round-two/nyc-smoke-bay-cigars-and-tobacco/index.html",
+      "bytes": 2795
+    },
+    {
+      "file": "round-two/nyc-smoke-bay-cigars-and-tobacco/style.css",
+      "bytes": 3000
+    },
+    {
+      "file": "round-two/nyc-smoke-big-apple-smoke-shop/index.html",
+      "bytes": 2477
+    },
+    {
+      "file": "round-two/nyc-smoke-big-apple-smoke-shop/style.css",
+      "bytes": 3345
+    },
+    {
+      "file": "round-two/nyc-smoke-cherry-s-smoke-shop/index.html",
+      "bytes": 2385
+    },
+    {
+      "file": "round-two/nyc-smoke-cherry-s-smoke-shop/style.css",
+      "bytes": 3454
+    },
+    {
+      "file": "round-two/nyc-smoke-discount-smoke-shop/index.html",
+      "bytes": 2810
+    },
+    {
+      "file": "round-two/nyc-smoke-discount-smoke-shop/style.css",
+      "bytes": 2796
+    },
+    {
+      "file": "round-two/nyc-smoke-empire-smoke-shop/index.html",
+      "bytes": 2806
+    },
+    {
+      "file": "round-two/nyc-smoke-empire-smoke-shop/style.css",
+      "bytes": 2922
+    },
+    {
+      "file": "round-two/nyc-smoke-empire-tobacco-shop/index.html",
+      "bytes": 2487
+    },
+    {
+      "file": "round-two/nyc-smoke-empire-tobacco-shop/style.css",
+      "bytes": 3700
+    },
+    {
+      "file": "round-two/nyc-smoke-falcon-smoke-shop/index.html",
+      "bytes": 2538
+    },
+    {
+      "file": "round-two/nyc-smoke-falcon-smoke-shop/style.css",
+      "bytes": 3471
+    },
+    {
+      "file": "round-two/nyc-smoke-hirani-news-and-smoke-shop/index.html",
+      "bytes": 2645
+    },
+    {
+      "file": "round-two/nyc-smoke-hirani-news-and-smoke-shop/style.css",
+      "bytes": 4052
+    },
+    {
+      "file": "round-two/nyc-smoke-lex-smoke-gift-shop/index.html",
+      "bytes": 2505
+    },
+    {
+      "file": "round-two/nyc-smoke-lex-smoke-gift-shop/style.css",
+      "bytes": 4043
+    },
+    {
+      "file": "round-two/nyc-smoke-master-piece-smoke-shop/index.html",
+      "bytes": 2580
+    },
+    {
+      "file": "round-two/nyc-smoke-master-piece-smoke-shop/style.css",
+      "bytes": 3400
+    },
+    {
+      "file": "round-two/nyc-smoke-maxis-smoke-shop/index.html",
+      "bytes": 2864
+    },
+    {
+      "file": "round-two/nyc-smoke-maxis-smoke-shop/style.css",
+      "bytes": 2882
+    },
+    {
+      "file": "round-two/nyc-smoke-oasis-hookah-smoke/index.html",
+      "bytes": 2741
+    },
+    {
+      "file": "round-two/nyc-smoke-oasis-hookah-smoke/style.css",
+      "bytes": 3507
+    },
+    {
+      "file": "round-two/nyc-smoke-park-convenience-smoke-shop/index.html",
+      "bytes": 3308
+    },
+    {
+      "file": "round-two/nyc-smoke-park-convenience-smoke-shop/style.css",
+      "bytes": 3156
+    },
+    {
+      "file": "round-two/nyc-smoke-slumpy-s-smoke-shop/index.html",
+      "bytes": 2316
+    },
+    {
+      "file": "round-two/nyc-smoke-slumpy-s-smoke-shop/style.css",
+      "bytes": 3802
+    },
+    {
+      "file": "round-two/nyc-smoke-stop-and-go-smoke-shop/index.html",
+      "bytes": 2742
+    },
+    {
+      "file": "round-two/nyc-smoke-stop-and-go-smoke-shop/style.css",
+      "bytes": 2931
+    },
+    {
+      "file": "round-two/nyc-smoke-tobacco-gift-emporium/index.html",
+      "bytes": 2801
+    },
+    {
+      "file": "round-two/nyc-smoke-tobacco-gift-emporium/style.css",
+      "bytes": 2867
+    },
+    {
+      "file": "round-two/nyc-smoke-topia-newsstand-smoke-shop/index.html",
+      "bytes": 2924
+    },
+    {
+      "file": "round-two/nyc-smoke-topia-newsstand-smoke-shop/style.css",
+      "bytes": 3415
+    },
+    {
+      "file": "round-two/previews/nj-404-vape-and-smoke-shop.jpg.webp",
+      "bytes": 13262
+    },
+    {
+      "file": "round-two/previews/nj-bob-smoke-shop.jpg.webp",
+      "bytes": 12114
+    },
+    {
+      "file": "round-two/previews/nj-center-smoke-shop.jpg.webp",
+      "bytes": 14412
+    },
+    {
+      "file": "round-two/previews/nj-chop-smoke-shop-deli.jpg.webp",
+      "bytes": 18874
+    },
+    {
+      "file": "round-two/previews/nj-city-smoke-shop.jpg.webp",
+      "bytes": 16226
+    },
+    {
+      "file": "round-two/previews/nj-elizabeth-smoke-shop-deli.jpg.webp",
+      "bytes": 18292
+    },
+    {
+      "file": "round-two/previews/nj-excelente-smoke-shop.jpg.webp",
+      "bytes": 15982
+    },
+    {
+      "file": "round-two/previews/nj-exotic-smoke-scene.jpg.webp",
+      "bytes": 15852
+    },
+    {
+      "file": "round-two/previews/nj-fabricated-lifestyles-smoke-shop.jpg.webp",
+      "bytes": 21836
+    },
+    {
+      "file": "round-two/previews/nj-grizzly-smoke-shop-convenience.jpg.webp",
+      "bytes": 15750
+    },
+    {
+      "file": "round-two/previews/nj-h-i-convenience-n-smoke.jpg.webp",
+      "bytes": 16622
+    },
+    {
+      "file": "round-two/previews/nj-h2o-smoke-shop.jpg.webp",
+      "bytes": 25248
+    },
+    {
+      "file": "round-two/previews/nj-hoboken-smoke-shop.jpg.webp",
+      "bytes": 17488
+    },
+    {
+      "file": "round-two/previews/nj-its-lit-smoke-shop-kearny.jpg.webp",
+      "bytes": 15272
+    },
+    {
+      "file": "round-two/previews/nj-puff-smoke-shop.jpg.webp",
+      "bytes": 15772
+    },
+    {
+      "file": "round-two/previews/nj-pull-up-2-smoke-shop.jpg.webp",
+      "bytes": 17028
+    },
+    {
+      "file": "round-two/previews/nj-relief-convenience-smoke-shop.jpg.webp",
+      "bytes": 15442
+    },
+    {
+      "file": "round-two/previews/nj-smoking-aces-smoke-shop.jpg.webp",
+      "bytes": 19310
+    },
+    {
+      "file": "round-two/previews/nj-stoney-bros-smoke-shop.jpg.webp",
+      "bytes": 12250
+    },
+    {
+      "file": "round-two/previews/nj-storms-smoke-shop.jpg.webp",
+      "bytes": 16300
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-97-tobacco-shop.jpg.webp",
+      "bytes": 12290
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-aa-smoke-shop.jpg.webp",
+      "bytes": 17100
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-amazing-store-smoke-shop.jpg.webp",
+      "bytes": 19228
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-bay-cigars-and-tobacco.jpg.webp",
+      "bytes": 9744
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-big-apple-smoke-shop.jpg.webp",
+      "bytes": 14072
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-cherry-s-smoke-shop.jpg.webp",
+      "bytes": 14204
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-discount-smoke-shop.jpg.webp",
+      "bytes": 15268
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-empire-smoke-shop.jpg.webp",
+      "bytes": 12030
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-empire-tobacco-shop.jpg.webp",
+      "bytes": 13102
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-falcon-smoke-shop.jpg.webp",
+      "bytes": 12394
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-hirani-news-and-smoke-shop.jpg.webp",
+      "bytes": 25628
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-lex-smoke-gift-shop.jpg.webp",
+      "bytes": 14102
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-master-piece-smoke-shop.jpg.webp",
+      "bytes": 14988
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-maxis-smoke-shop.jpg.webp",
+      "bytes": 18300
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-oasis-hookah-smoke.jpg.webp",
+      "bytes": 16226
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-park-convenience-smoke-shop.jpg.webp",
+      "bytes": 12484
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-slumpy-s-smoke-shop.jpg.webp",
+      "bytes": 20070
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-stop-and-go-smoke-shop.jpg.webp",
+      "bytes": 17042
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-tobacco-gift-emporium.jpg.webp",
+      "bytes": 17284
+    },
+    {
+      "file": "round-two/previews/nyc-smoke-topia-newsstand-smoke-shop.jpg.webp",
+      "bytes": 29028
     },
     {
       "file": "sites/170th-auto-mechanic/booking-entry.css",
@@ -10845,11 +11343,11 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-10-26T03:21:59.659Z",
+  "optimizedAt": "2026-10-26T03:46:41.411Z",
   "optimization": {
     "codec": "WebP",
-    "rasterCount": 541,
-    "referenceRewrites": 1456,
+    "rasterCount": 581,
+    "referenceRewrites": 1496,
     "sourceAssetsUnchanged": true,
     "offlinePacks": "Available separately from manager"
   }

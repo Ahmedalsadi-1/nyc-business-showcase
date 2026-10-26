@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="robots" content="noindex,nofollow">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Round two · Storefront design collection</title>
+  <link rel="stylesheet" href="collection.css">
+  <script src="businesses.js" defer></script>
+  <script src="collection.js" defer></script>
+</head>
+<body>
+  <header class="desk-header"><a href="../reps/prospects.html">Back to research</a><span>Campaign design library</span><a href="../reps/">Active round one</a></header>
+  <main>
+    <section class="collection-intro">
+      <div><p class="edition">Second round / NYC + New Jersey</p><h1>A different<br>front door.</h1></div>
+      <div class="intro-note"><p class="inactive">Unassigned · Preview collection</p><p>Forty independent storefront concepts. Review each identity on a phone or a desktop before deciding what belongs in the next round.</p><p>These are design proposals, not official business sites. No worker assignments, customer bookings or orders are active here.</p><a href="#concepts">Review the collection</a></div>
+    </section>
+    <section class="review-bar" aria-label="Filter concepts">
+      <div><label for="shopSearch">Business or neighborhood</label><input id="shopSearch" type="search" placeholder="Name, street, city…"></div>
+      <div><label for="shopRegion">Region</label><select id="shopRegion"><option value="">All 40 concepts</option><option value="NY">New York City</option><option value="NJ">New Jersey</option></select></div>
+      <p id="resultCount" role="status"></p>
+    </section>
+    <section id="concepts" class="concept-grid" aria-label="Round-two concepts"></section>
+    <p id="noResults" hidden>No concepts match that search. Try a shop name or city.</p>
+    <section class="launch-note"><h2>Ready to review.<br>Owner approval comes next.</h2><div><p>The artwork explores a visual direction; it is not a photograph of the premises. Listed addresses come from public research and still need confirmation. Hours, official photography and any approved service details must come from the owner.</p><p>This collection stays separate from the 125 active round-one presentations. Reviewing or opening a concept does not assign a worker or change an existing route.</p></div></section>
+  </main>
+  <footer><span>Round two / Design review</span><a href="../reps/prospects.html">Research & verification notes</a></footer>
+  <dialog id="reviewDialog" aria-labelledby="reviewTitle">
+    <div class="review-toolbar"><div><p id="reviewPosition"></p><h2 id="reviewTitle"></h2><p id="reviewAddress"></p></div><button id="closeReview" aria-label="Close concept review">Close</button></div>
+    <div class="review-controls"><div role="group" aria-label="Preview size"><button id="desktopPreview" aria-pressed="true">Desktop · 1280</button><button id="mobilePreview" aria-pressed="false">Phone · 390</button></div><a id="openConcept" target="_blank" rel="noopener">Open full website</a></div>
+    <p class="preview-help">Live website preview. Scroll inside it to review the whole page. On a phone, use “Open full website” for full-size viewing.</p>
+    <div id="previewStage"><iframe id="conceptFrame" title="Business concept website" loading="lazy"></iframe></div>
+    <div class="review-bottom"><button id="previousConcept">Previous concept</button><span>Preview only · Unassigned</span><button id="nextConcept">Next concept</button></div>
+  </dialog>
+</body>
+</html>

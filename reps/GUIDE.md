@@ -35,3 +35,9 @@ Each stop shows Website, Proposal and Pitch script together before verification 
 ## New prospects and merchant services
 
 The manager desk links to the NYC/NJ smoke-shop research queue and owner booking/delivery setup. New prospects are not completed demos or assigned stops. Each existing business has Booking & order options beside its website/proposal/script links. Direct forms prepare requests; only the business or a connected provider can confirm them. See BOOKING-GUIDE.md for onboarding and account-level integration limits.
+
+## Second-round concepts
+
+The manager desk and smoke-shop research page link to a separate `/round-two/` review collection: forty smoke-shop design concepts, twenty NYC and twenty New Jersey. These are unassigned previews, not active presentations or official merchant sites. Use the collection's phone/desktop review controls to check an individual design. Opening it does not add a worker stop or activate bookings/orders.
+
+The 125 round-one assignments and personal route links remain the active campaign. Unassigned second-round sites are excluded from the five offline worker route packs. Confirm each prospect's current operation and details, obtain owner approval and decide assignments separately before a later launch.

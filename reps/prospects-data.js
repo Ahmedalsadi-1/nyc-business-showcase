@@ -23,7 +23,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/company/center-smoke-shop-30806554.html",
         "https://sativauniversity.com/smoke-shop/new-jersey/jersey-city/center-smoke-shop-jersey-city-nj/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-center-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-chop-smoke-shop-deli",
@@ -46,7 +49,10 @@ window.SMOKE_PROSPECTS={
         "https://www.yellowpages.com/paterson-nj/mip/chop-smoke-shop-deli-573723308",
         "https://www.cylex.us.com/paterson/tobacco-shops/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-chop-smoke-shop-deli/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-elizabeth-smoke-shop-deli",
@@ -70,7 +76,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/elizabeth/tobacco-shops/",
         "https://local.yahoo.com/retail-shopping/smoking-and-tobacco/nj/elizabeth/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-elizabeth-smoke-shop-deli/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-grizzly-smoke-shop-convenience",
@@ -93,7 +102,10 @@ window.SMOKE_PROSPECTS={
         "https://www.waze.com/en-AU/live-map/directions/us/nj/paterson/grizzly-smoke-shop-and-convenience?to=place.ChIJuxsYKOD9wokRQ2bl5nxHv5w",
         "https://www.cylex.us.com/paterson/tobacco-shops/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-grizzly-smoke-shop-convenience/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-pull-up-2-smoke-shop",
@@ -116,7 +128,10 @@ window.SMOKE_PROSPECTS={
         "https://www.loc8nearme.com/new-jersey/paterson/pull-up-2-smoke-shop/7180339/",
         "https://www.cylex.us.com/paterson/tobacco-shops/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-pull-up-2-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-relief-convenience-smoke-shop",
@@ -138,7 +153,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://localitybiz.com/36714449/relief-convenience-%26-smoke-shop-paterson"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-relief-convenience-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-smoking-aces-smoke-shop",
@@ -161,7 +179,10 @@ window.SMOKE_PROSPECTS={
         "https://www.loc8nearme.com/new-jersey/elizabeth/smoking-aces-smoke-shop/8246502/",
         "https://maps.roadtrippers.com/us/elizabeth-nj/shopping/smoking-aces-elizabeth"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-smoking-aces-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-storms-smoke-shop",
@@ -183,7 +204,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://stormssmoke.com/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-storms-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-aa-smoke-shop",
@@ -207,7 +231,10 @@ window.SMOKE_PROSPECTS={
         "https://www.macraesbluebook.com/search/company.cfm?company=1056897",
         "https://sativauniversity.com/best-smoke-shops/queens-ny/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-aa-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-empire-tobacco-shop",
@@ -231,7 +258,10 @@ window.SMOKE_PROSPECTS={
         "https://local.frepouch.com/new-york/brooklyn/521-myrtle-ave/",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-empire-tobacco-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-falcon-smoke-shop",
@@ -254,7 +284,10 @@ window.SMOKE_PROSPECTS={
         "https://www.morrisparkbid.org/lounges-smoke-shops",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-falcon-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-hirani-news-and-smoke-shop",
@@ -277,7 +310,10 @@ window.SMOKE_PROSPECTS={
         "https://www.loc8nearme.com/new-york/astoria/hirani-news-and-smoke-shop/5309627/",
         "https://a-better-place.com/US/queens-tobacco-shops.html"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-hirani-news-and-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-lex-smoke-gift-shop",
@@ -300,7 +336,10 @@ window.SMOKE_PROSPECTS={
         "https://localitybiz.com/28972474/lex-smoke-%26-gift-shop-new-york",
         "https://www.flickr.com/photos/shalomstavsky/53664423166"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-lex-smoke-gift-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-oasis-hookah-smoke",
@@ -323,7 +362,10 @@ window.SMOKE_PROSPECTS={
         "https://brooklyn-ny.findstorenearme.us/smoke-vape-shop",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-oasis-hookah-smoke/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-slumpy-s-smoke-shop",
@@ -346,7 +388,10 @@ window.SMOKE_PROSPECTS={
         "https://local.yahoo.com/retail-shopping/smoking-and-tobacco/ny/college-point/5/",
         "https://www.superpages.com/washington-heights-ny/cigar-cigarette-tobacco-dealers"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-slumpy-s-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-stop-and-go-smoke-shop",
@@ -370,7 +415,10 @@ window.SMOKE_PROSPECTS={
         "https://curvedrollingpapers.com/stores/",
         "https://local.yahoo.com/retail-shopping/smoking-and-tobacco/nj/teaneck/7/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-stop-and-go-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-tobacco-gift-emporium",
@@ -394,7 +442,10 @@ window.SMOKE_PROSPECTS={
         "https://www.loc8nearme.com/new-york/staten-island/tobacco-and-gift-emporium/5277141/",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-tobacco-gift-emporium/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-topia-newsstand-smoke-shop",
@@ -417,7 +468,10 @@ window.SMOKE_PROSPECTS={
         "https://maps.roadtrippers.com/us/new-york-ny/shopping/topia-newstand-smoke-shop",
         "https://brooklyn-ny.findstorenearme.us/smoke-vape-shop"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-topia-newsstand-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-404-vape-and-smoke-shop",
@@ -440,7 +494,10 @@ window.SMOKE_PROSPECTS={
         "https://sativauniversity.com/smoke-shop/new-jersey/hoboken/404-vape-and-smoke-shop-hoboken-nj/",
         "https://askvape.com/place/new-jersey/hoboken/404-vape-and-smoke-shop-hoboken"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-404-vape-and-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-city-smoke-shop",
@@ -464,7 +521,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/paterson/tobacco-shops/",
         "https://www.njoag.gov/ag-davenport-secures-100000-consumer-fraud-penalty-against-flavored-vape-distributor-and-its-network-of-retailers/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-city-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-excelente-smoke-shop",
@@ -488,7 +548,10 @@ window.SMOKE_PROSPECTS={
         "https://www.dnb.com/business-directory/company-profiles.excelente_smoke_shop_llc.a40495fc1b6ab559b2c426bc6443f322.html",
         "https://www.salary.com/research/company/excelente-smoke-shop-salary"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-excelente-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-fabricated-lifestyles-smoke-shop",
@@ -511,7 +574,10 @@ window.SMOKE_PROSPECTS={
         "https://flssmokeshop.com/",
         "https://www.waze.com/live-map/directions/us/nj/west-new-york/fabricated-lifestyles-smoke-shop?to=place.ChIJOwmRwxZZwokRhuTmCMmp4Ik"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-fabricated-lifestyles-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-h2o-smoke-shop",
@@ -534,7 +600,10 @@ window.SMOKE_PROSPECTS={
         "https://localitybiz.com/new-jersey/smoking-pipe-maintenance-in-elizabeth",
         "https://localitybiz.com/new-jersey/best-tobacco-shop-in-elizabeth"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-h2o-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-hoboken-smoke-shop",
@@ -558,7 +627,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/company/hoboken-smoke-shop-25098505.html",
         "https://magicpin.com/usa/Hoboken/Hoboken/Other/Hoboken-Smoke-Shop/store/2594714"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-hoboken-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-its-lit-smoke-shop-kearny",
@@ -580,7 +652,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://maps.roadtrippers.com/us/kearny-nj/shopping/its-lit-smoke-shop-kearny"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-its-lit-smoke-shop-kearny/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-puff-smoke-shop",
@@ -603,7 +678,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/elizabeth/tobacco-shops/",
         "https://localitybiz.com/new-jersey/smoking-pipe-maintenance-in-elizabeth"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-puff-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-stoney-bros-smoke-shop",
@@ -625,7 +703,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://stoneybrossmokeshop.com/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-stoney-bros-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-amazing-store-smoke-shop",
@@ -648,7 +729,10 @@ window.SMOKE_PROSPECTS={
         "https://www.yellowpages.com/new-york-ny/mip/amazing-store-smoke-shop-15380432",
         "https://www.columbusavenuebid.org/pdf/MapDirectory-16-17.pdf"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-amazing-store-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-cherry-s-smoke-shop",
@@ -671,7 +755,10 @@ window.SMOKE_PROSPECTS={
         "https://www.superpages.com/staten-island-ny/smoke-shops",
         "https://www.yellowpages.com/staten-island-ny/hy-tobacco"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-cherry-s-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-discount-smoke-shop",
@@ -694,7 +781,10 @@ window.SMOKE_PROSPECTS={
         "https://www.yellowpages.com/staten-island-ny/mip/discount-smoke-shop-4509445",
         "https://discountsmokeshop.com/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-discount-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-empire-smoke-shop",
@@ -716,7 +806,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://sativauniversity.com/smoke-shop/new-york/queens/empire-smoke-shop-queens-ny/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-empire-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-master-piece-smoke-shop",
@@ -739,7 +832,10 @@ window.SMOKE_PROSPECTS={
         "https://www.yellowpages.com/brooklyn-ny/mip/master-piece-smoke-shop-496300258",
         "https://brooklyn-ny.findstorenearme.us/smoke-vape-shop"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-master-piece-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-maxis-smoke-shop",
@@ -763,7 +859,10 @@ window.SMOKE_PROSPECTS={
         "https://www.merchantcircle.com/maxis-smoke-shop-glen-oaks-ny",
         "https://www.localsolution.com/c/great-neck-ny/smoke-shops-and-supplies"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-maxis-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-bob-smoke-shop",
@@ -785,7 +884,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://www.bobsmokeshopnj.com/contact-us"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-bob-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-exotic-smoke-scene",
@@ -807,7 +909,10 @@ window.SMOKE_PROSPECTS={
       "sources": [
         "https://cigarsjerseycity.com/"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-exotic-smoke-scene/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nj-h-i-convenience-n-smoke",
@@ -830,7 +935,10 @@ window.SMOKE_PROSPECTS={
         "https://www.smokeshopjerseycity.com/",
         "https://www.smokeshopjerseycity.com/contact"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nj-h-i-convenience-n-smoke/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-97-tobacco-shop",
@@ -853,7 +961,10 @@ window.SMOKE_PROSPECTS={
         "https://97tobaccoshop.wixsite.com/website",
         "https://www.yellowpages.com/new-york-ny/mip/97-tobacco-shop-inc-532148214"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-97-tobacco-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-bay-cigars-and-tobacco",
@@ -876,7 +987,10 @@ window.SMOKE_PROSPECTS={
         "https://www.baycigarsandtobacco.com/contact",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-bay-cigars-and-tobacco/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-big-apple-smoke-shop",
@@ -900,7 +1014,10 @@ window.SMOKE_PROSPECTS={
         "https://www.cylex.us.com/company/big-apple-smoke-shop-30288468.html",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-big-apple-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     },
     {
       "id": "nyc-smoke-park-convenience-smoke-shop",
@@ -924,7 +1041,10 @@ window.SMOKE_PROSPECTS={
         "https://www.waze.com/live-map/directions/us/ny/park-convenience-smoke-shop?to=place.ChIJZ5xNIyD1wokRr6_jGEtUX4A",
         "https://health.data.ny.gov/Health/Active-Retail-Tobacco-and-Vapor-Product-Vendors/9ma3-vsuk"
       ],
-      "demoReady": false
+      "demoReady": false,
+      "roundTwoUrl": "../round-two/nyc-smoke-park-convenience-smoke-shop/index.html",
+      "campaignRound": 2,
+      "assignmentStatus": "unassigned"
     }
   ],
   "official": [
