@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-11-03T02:37:29.828Z",
+  "preparedAt": "2026-11-03T03:24:43.380Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
-  "fileCount": 2858,
-  "totalBytes": 60695066,
+  "fileCount": 2861,
+  "totalBytes": 60783216,
   "files": [
     {
       "file": ".nojekyll",
@@ -1049,7 +1049,7 @@
     },
     {
       "file": "portfolio/assets/fonts/FRAUNCES-LICENSE.txt",
-      "bytes": 4391
+      "bytes": 4390
     },
     {
       "file": "portfolio/assets/fonts/switzer-400.woff2",
@@ -1062,6 +1062,18 @@
     {
       "file": "portfolio/assets/fonts/switzer-600.woff2",
       "bytes": 19640
+    },
+    {
+      "file": "portfolio/assets/neighborhood-desktop.webp",
+      "bytes": 41390
+    },
+    {
+      "file": "portfolio/assets/neighborhood-mobile.webp",
+      "bytes": 11576
+    },
+    {
+      "file": "portfolio/assets/neighborhood-tablet.webp",
+      "bytes": 16058
     },
     {
       "file": "portfolio/assets/rooms/before-coffee-desktop.jpg.webp",
@@ -1089,15 +1101,15 @@
     },
     {
       "file": "portfolio/index.html",
-      "bytes": 13882
+      "bytes": 14159
     },
     {
       "file": "portfolio/journey.css",
-      "bytes": 16925
+      "bytes": 26918
     },
     {
       "file": "portfolio/journey.js",
-      "bytes": 4891
+      "bytes": 5058
     },
     {
       "file": "portfolio/kron.css",
@@ -1125,7 +1137,7 @@
     },
     {
       "file": "portfolio/world.js",
-      "bytes": 24190
+      "bytes": 32880
     },
     {
       "file": "proposals/170th-auto-mechanic.html",
@@ -11443,11 +11455,11 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-11-03T02:37:29.829Z",
+  "optimizedAt": "2026-11-03T03:24:43.380Z",
   "optimization": {
     "codec": "WebP",
     "rasterCount": 591,
-    "referenceRewrites": 1510,
+    "referenceRewrites": 1509,
     "sourceAssetsUnchanged": true,
     "offlinePacks": "Available separately from manager"
   }

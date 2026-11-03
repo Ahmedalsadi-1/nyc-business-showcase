@@ -5,27 +5,68 @@ export async function createWorld(container, { onReady } = {}) {
   if (!container) throw new Error('The world needs a canvas container.');
   const scene = new THREE.Scene();
   scene.background = new THREE.Color('#f5eee7');
-  scene.fog = new THREE.Fog('#f5eee7', 40, 120);
+  scene.fog = new THREE.Fog('#f5eee7', 220, 480);
   const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: false, powerPreference: 'high-performance' });
   renderer.setPixelRatio(Math.min(devicePixelRatio || 1, innerWidth < 700 ? 1.25 : 1.5));
   renderer.outputColorSpace = THREE.SRGBColorSpace;
   renderer.toneMapping = THREE.ACESFilmicToneMapping;
-  renderer.toneMappingExposure = 1.12;
+  renderer.toneMappingExposure = .98;
   renderer.shadowMap.enabled = true;
   renderer.shadowMap.type = THREE.PCFSoftShadowMap;
   renderer.domElement.setAttribute('aria-hidden', 'true');
   renderer.domElement.style.cssText = 'display:block;width:100%;height:100%;';
   container.append(renderer.domElement);
-  const camera = new THREE.PerspectiveCamera(42, 1, 0.08, 220);
+  const camera = new THREE.PerspectiveCamera(42, 1, 0.08, 500);
   const resources = new Set();
   const materials = new Map();
   const geometries = new Map();
-  let progress = 0, raf = 0, destroyed = false;
+  let progress = 0, targetProgress = 0, raf = 0, destroyed = false;
+
+  const surfaceTexture = kind => {
+    const canvas = document.createElement('canvas'); canvas.width = canvas.height = 256;
+    const ctx = canvas.getContext('2d'); let seed = 217;
+    const random = () => { seed = (seed * 16807) % 2147483647; return seed / 2147483647; };
+    ctx.fillStyle = '#faf8f3'; ctx.fillRect(0, 0, 256, 256);
+    if (kind === 'brick') {
+      ctx.fillStyle = '#bdb7ac'; ctx.fillRect(0, 0, 256, 256);
+      for (let y = 0; y < 8; y++) for (let x = -1; x < 5; x++) {
+        const shade = 224 + Math.floor(random() * 25); ctx.fillStyle = `rgb(${shade},${shade},${shade})`;
+        ctx.fillRect(x * 64 + (y % 2 ? 32 : 0) + 2, y * 32 + 2, 60, 28);
+      }
+    } else if (kind === 'wood') {
+      for (let i = 0; i < 120; i++) {
+        ctx.strokeStyle = `rgba(108,88,64,${.025 + random() * .05})`; ctx.lineWidth = random() * 1.4 + .3;
+        const x = random() * 256; ctx.beginPath(); ctx.moveTo(x, 0); ctx.bezierCurveTo(x + 8, 80, x - 7, 170, x + 5, 256); ctx.stroke();
+      }
+    } else {
+      const image = ctx.getImageData(0, 0, 256, 256);
+      for (let i = 0; i < image.data.length; i += 4) {
+        const value = 238 + Math.floor(random() * 18); image.data[i] = image.data[i + 1] = image.data[i + 2] = value;
+      }
+      ctx.putImageData(image, 0, 0);
+    }
+    const texture = new THREE.CanvasTexture(canvas); texture.wrapS = texture.wrapT = THREE.RepeatWrapping;
+    texture.colorSpace = THREE.SRGBColorSpace; texture.anisotropy = 4; resources.add(texture); return texture;
+  };
+  const plaster = surfaceTexture('plaster'), woodGrain = surfaceTexture('wood'), brick = surfaceTexture('brick');
+  brick.repeat.set(6, 3);
+  const reflectionFaces = Array.from({ length: 6 }, (_, face) => {
+    const canvas = document.createElement('canvas'); canvas.width = canvas.height = 128;
+    const ctx = canvas.getContext('2d'); ctx.fillStyle = face === 2 ? '#f7f4e9' : face === 3 ? '#bcb6a4' : '#e8e9df'; ctx.fillRect(0, 0, 128, 128);
+    if (face !== 2 && face !== 3) {
+      ctx.fillStyle = '#cdcbbd'; ctx.fillRect(0, 78, 128, 50);
+      ctx.fillStyle = '#a9b1a6'; ctx.fillRect(10, 48, 24, 30); ctx.fillRect(78, 42, 36, 36);
+      ctx.fillStyle = '#edf0e7'; ctx.fillRect(16, 55, 5, 12); ctx.fillRect(25, 55, 5, 12); ctx.fillRect(86, 49, 8, 17);
+    }
+    return canvas;
+  });
+  const reflection = new THREE.CubeTexture(reflectionFaces); reflection.colorSpace = THREE.SRGBColorSpace; reflection.needsUpdate = true;
+  resources.add(reflection); scene.environment = reflection; scene.environmentIntensity = .35;
 
   const mat = (color, extras = {}) => {
-    const key = color + JSON.stringify(extras);
+    const key = color + JSON.stringify(Object.fromEntries(Object.entries(extras).map(([key, value]) => [key, value?.isTexture ? value.uuid : value])));
     if (!materials.has(key)) {
-      const material = new THREE.MeshStandardMaterial({ color, roughness: .83, metalness: 0, ...extras });
+      const material = new THREE.MeshStandardMaterial({ color, roughness: .8, metalness: 0, map: plaster, bumpMap: plaster, bumpScale: .012, ...extras });
       materials.set(key, material); resources.add(material);
     }
     return materials.get(key);
@@ -34,7 +75,7 @@ export async function createWorld(container, { onReady } = {}) {
   const roundedGeometry = (w, h, d) => {
     const key = [w, h, d].join(',');
     if (geometries.has(key)) return geometries.get(key);
-    const bevel = Math.min(.1, w / 8, h / 8, d / 4), corner = bevel * .8;
+    const bevel = Math.min(.035, w / 12, h / 12, d / 5), corner = bevel * .7;
     const a = w / 2 - bevel, b = h / 2 - bevel;
     const shape = new THREE.Shape();
     shape.moveTo(-a + corner, -b); shape.lineTo(a - corner, -b);
@@ -92,7 +133,7 @@ export async function createWorld(container, { onReady } = {}) {
       const leaf = sphere(group, .37, i % 2 ? '#91ab73' : '#5d8a67', Math.cos(angle) * .33, 1.55 + (i % 3) * .15, Math.sin(angle) * .33, [.35, 1, .65]);
       leaf.rotation.z = -Math.cos(angle) * .55;
     }
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 1; i++) {
       const x = (i - 1) * .26, y = 1.7 + (i % 2) * .24, z = .1 - (i % 2) * .3;
       for (let petal = 0; petal < 5; petal++) {
         const angle = petal / 5 * Math.PI * 2;
@@ -103,8 +144,8 @@ export async function createWorld(container, { onReady } = {}) {
   };
   const scallop = (parent, x, y, z, width, color) => {
     const shape = new THREE.Shape(); shape.moveTo(-width / 2, .12); shape.lineTo(width / 2, .12);
-    shape.lineTo(width / 2, -.1); shape.quadraticCurveTo(width / 2, -.42, 0, -.42);
-    shape.quadraticCurveTo(-width / 2, -.42, -width / 2, -.1); shape.closePath();
+    shape.lineTo(width / 2, -.08); shape.quadraticCurveTo(width / 2, -.24, 0, -.24);
+    shape.quadraticCurveTo(-width / 2, -.24, -width / 2, -.08); shape.closePath();
     const geometry = new THREE.ExtrudeGeometry(shape, { depth: .09, bevelEnabled: true, bevelThickness: .02, bevelSize: .02, bevelSegments: 2, curveSegments: 10 }); resources.add(geometry);
     const mesh = new THREE.Mesh(geometry, mat(color)); mesh.position.set(x, y, z); mesh.castShadow = true; parent.add(mesh);
   };
@@ -125,19 +166,26 @@ export async function createWorld(container, { onReady } = {}) {
     }
   };
 
-  scene.add(new THREE.HemisphereLight('#fff8ed', '#b8ad9e', 2.6));
-  const sunlight = new THREE.DirectionalLight('#fff1d9', 4.0);
-  sunlight.position.set(-15, 28, 18); sunlight.castShadow = true;
+  scene.add(new THREE.HemisphereLight('#fff8ed', '#a6aaa5', 1.9));
+  const sunlight = new THREE.DirectionalLight('#fff1d9', 3.4);
+  sunlight.position.set(-30, 55, 35); sunlight.castShadow = true;
   sunlight.shadow.mapSize.set(2048, 2048);
-  sunlight.shadow.camera.left = -28; sunlight.shadow.camera.right = 28;
-  sunlight.shadow.camera.top = 28; sunlight.shadow.camera.bottom = -28;
-  sunlight.shadow.camera.near = .5; sunlight.shadow.camera.far = 140;
+  sunlight.shadow.camera.left = -55; sunlight.shadow.camera.right = 55;
+  sunlight.shadow.camera.top = 55; sunlight.shadow.camera.bottom = -55;
+  sunlight.shadow.camera.near = .5; sunlight.shadow.camera.far = 180;
   sunlight.shadow.normalBias = .04; sunlight.shadow.bias = -.0001;
   scene.add(sunlight); scene.add(sunlight.target);
-  const fill = new THREE.DirectionalLight('#f5f7ff', 1.1); fill.position.set(20, 12, -20); scene.add(fill);
-  const ground = box(scene, 300, .2, 320, '#f5eee7', 0, -.75, -40);
+  const fill = new THREE.DirectionalLight('#f5f7ff', .7); fill.position.set(25, 20, -25); scene.add(fill);
+  const groundMaterial = new THREE.ShadowMaterial({ opacity: .13 }); resources.add(groundMaterial);
+  const ground = box(scene, 400, .2, 400, groundMaterial, 0, -.75, 5);
   ground.castShadow = false;
-  box(scene, 4.2, .14, 110, '#e4d5c8', 0, -.5, -35);
+  // One connected pavement and street replaces the original isolated gallery islands.
+  box(scene, 54, .3, 43, '#d8cfc1', 0, -.46, 18);
+  box(scene, 43.5, .13, 33.5, '#b4b5ae', 0, -.24, 19.5);
+  for (const x of [-22.3, 22.3]) box(scene, .22, .24, 34, '#eee5d6', x, -.1, 19.5);
+  box(scene, 44.6, .24, .22, '#eee5d6', 0, -.1, 2.6);
+  for (const z of [5.5, 34]) for (let i = 0; i < 7; i++) box(scene, 2.4, .012, .8, '#e9e4d8', -8.1 + i * 2.7, -.165, z);
+  for (const x of [-24.2, 24.2]) for (let z = 4; z < 39; z += 2.8) box(scene, 3.2, .035, .04, '#bcb3a5', x, -.285, z);
 
   const worlds = [], screens = [];
   const storefront = (name, z, palette) => {
@@ -152,6 +200,15 @@ export async function createWorld(container, { onReady } = {}) {
     box(group, 12.7, .48, .65, palette.trim, 0, 5.66, 7.2);
     box(group, .45, 5.65, .6, palette.trim, -6.1, 2.65, 7.2);
     box(group, .45, 5.65, .6, palette.trim, 6.1, 2.65, 7.2);
+    box(group, 13.05, .24, 1.1, palette.wall, 0, 6.35, 7.13);
+    box(group, 12.55, 2.15, .5, palette.wall, 0, 7.5, 7.12);
+    box(group, 13.1, .19, .85, palette.trim, 0, 8.65, 7.14);
+    for (const x of [-4.6, -2.3, 0, 2.3, 4.6]) {
+      box(group, 1.5, 1.3, .12, '#f1e9dc', x, 7.5, 7.46);
+      box(group, 1.3, 1.11, .08, mat('#9baca8', { metalness: .45, roughness: .2, bumpScale: 0 }), x, 7.5, 7.54);
+      box(group, .045, 1.11, .1, '#e7e1d3', x, 7.5, 7.6);
+      box(group, 1.3, .045, .1, '#e7e1d3', x, 7.52, 7.6);
+    }
     box(group, .3, 4.9, .45, palette.trim, -1.8, 2.3, 7.23);
     box(group, .3, 4.9, .45, palette.trim, 1.8, 2.3, 7.23);
     box(group, 3.8, .3, .45, palette.trim, 0, 4.85, 7.23);
@@ -199,7 +256,7 @@ export async function createWorld(container, { onReady } = {}) {
   for (const [a, b] of [[[ -.8, .55, 0 ], [0, .55, 0]], [[-.8, .55, 0], [-.2, 1.2, 0]], [[-.2, 1.2, 0], [0, .55, 0]], [[-.2, 1.2, 0], [.6, 1.2, 0]], [[.6, 1.2, 0], [0, .55, 0]], [[.6, 1.2, 0], [.8, .55, 0]], [[.6, 1.2, 0], [.55, 1.55, 0]]]) bicycleBar(a, b, '#cf8e77');
   box(bicycle, .45, .1, .22, '#80674f', -.2, 1.3, 0);
   box(bicycle, .4, .07, .07, '#71827a', .52, 1.55, 0);
-  box(coffee, 3.6, 1.8, 7.9, colors.oak, -3.95, .8, -1.5);
+  box(coffee, 3.6, 1.8, 7.9, mat(colors.oak, { map: woodGrain, bumpMap: woodGrain, bumpScale: .025 }), -3.95, .8, -1.5);
   box(coffee, 3.9, .2, 8.2, '#e5d9c2', -3.95, 1.8, -1.5);
   for (let i = 0; i < 14; i++) box(coffee, .08, 1.5, .06, '#9e7f58', -2.12, .85, -5.1 + i * .55);
   box(coffee, 1.2, .75, 1.2, '#42514c', -3.6, 2.28, -.9);
@@ -314,6 +371,70 @@ export async function createWorld(container, { onReady } = {}) {
     sphere(bakery, .065, '#b9566e', -3.1, 2.035, z);
   }
   for (const z of [-5.5, -1.5, 2.5]) box(bakery, .14, 4.2, .14, colors.blue, 5.85, 2, z);
+
+  // Three featured storefronts share the same north-side street frontage.
+  coffee.position.set(-15, 0, -7); barber.position.set(0, 0, -7); bakery.position.set(15, 0, -7);
+
+  const florist = storefront('Flowers', 0, { floor: '#d7ccba', wall: '#eee6d6', trim: '#708975', sign: '#fff4df', threshold: '#b4bd9d' });
+  florist.position.set(-29, 0, 11); florist.rotation.y = Math.PI / 3; florist.scale.set(.64, .78, .62);
+  for (const x of [-3.9, 3.9]) {
+    box(florist, 2.8, .85, 3.7, mat('#a7977d', { map: woodGrain, bumpMap: woodGrain, bumpScale: .02 }), x, .3, 4.8);
+    for (let i = 0; i < 3; i++) plant(florist, x + (i - 1) * .65, 4.5 + (i % 2) * 1.1, .6);
+  }
+  for (const x of [-3.9, 3.9]) {
+    box(florist, 3.1, 1.7, 6.6, '#c8c2aa', x, .6, -.7);
+    for (let i = 0; i < 4; i++) plant(florist, x, -3 + i * 1.45, .8);
+  }
+
+  const tailor = storefront('Tailor', 0, { floor: '#d7c8b0', wall: '#e9dfce', trim: '#65798a', sign: '#fff5e2', threshold: '#baa788' });
+  tailor.position.set(29, 0, 12); tailor.rotation.y = -Math.PI / 3; tailor.scale.set(.64, .78, .62);
+  box(tailor, 3.7, 1.7, 8, mat('#ac8b6b', { map: woodGrain, bumpMap: woodGrain, bumpScale: .015 }), -3.8, .7, -.5);
+  box(tailor, 4, .15, 8.2, '#ded4c0', -3.8, 1.65, -.5);
+  for (let i = 0; i < 5; i++) box(tailor, 1.55, .2, 1.35, ['#8a9b9e', '#b2ad8f', '#c2b1a1', '#7c8b7b', '#b99486'][i], -3.8, 1.85 + i * .19, 1.4);
+  const dressForm = new THREE.Group(); tailor.add(dressForm); dressForm.position.set(3.8, .2, 3.5);
+  cylinder(dressForm, .08, .08, 1.2, '#8e8678', 0, .65, 0);
+  sphere(dressForm, .7, '#d9c8a9', 0, 2.2, 0, [.7, 1.05, .45]);
+  cylinder(dressForm, .15, .18, .4, '#c2aa89', 0, 3.0, 0);
+  box(dressForm, 1.4, .1, .15, '#8e8678', 0, .1, 0);
+  box(dressForm, .15, .1, 1.4, '#8e8678', 0, .1, 0);
+
+  const garage = storefront('Garage', 0, { floor: '#b7b7aa', wall: mat('#b4937d', { map: brick, bumpMap: brick, bumpScale: .05 }), trim: '#69736a', sign: '#fff5e1', threshold: '#969f94' });
+  garage.position.set(-29, 0, 29); garage.rotation.y = Math.PI / 3; garage.scale.set(.64, .78, .62);
+  for (const x of [-4, 4]) {
+    box(garage, 3.3, 2.4, 2.3, '#8d9a91', x, 1, -4.4);
+    for (let i = 0; i < 4; i++) box(garage, 3.1, .025, .05, '#b9bfb4', x, .3 + i * .55, -3.22);
+  }
+  const makeCar = (parent, x, z, color) => {
+    const car = new THREE.Group(); parent.add(car); car.position.set(x, .1, z);
+    box(car, 1.85, .6, 3.8, color, 0, .65, 0);
+    box(car, 1.55, .65, 1.9, mat('#7b9397', { metalness: .3, roughness: .25, bumpScale: 0 }), 0, 1.2, -.2);
+    box(car, 1.6, .13, 2.15, color, 0, 1.58, -.2);
+    for (const dx of [-.96, .96]) for (const dz of [-1.15, 1.15]) {
+      const wheel = cylinder(car, .36, .36, .2, '#474d49', dx, .42, dz, 24); wheel.rotation.z = Math.PI / 2;
+      const hub = cylinder(car, .19, .19, .22, '#b7bab0', dx, .42, dz, 24); hub.rotation.z = Math.PI / 2;
+    }
+    for (const dx of [-.65, .65]) box(car, .4, .13, .08, '#f4e4b7', dx, .8, 1.93);
+    return car;
+  };
+  makeCar(garage, 0, -.4, '#aeb7a2');
+  const streetCar = makeCar(scene, 18.6, 27, '#9ca9a4'); streetCar.rotation.y = -.04;
+
+  const streetTree = (x, z) => {
+    box(scene, 2.2, .15, 2.2, '#adad99', x, -.1, z);
+    cylinder(scene, .11, .17, 3.9, mat('#9e8974', { map: woodGrain, bumpMap: woodGrain }), x, 1.85, z, 12);
+    sphere(scene, 1.65, '#91a181', x, 4.8, z, [1, 1.15, .92]);
+    sphere(scene, 1.05, '#a0ae8c', x + .9, 4.4, z + .2, [.8, 1, 1]);
+    sphere(scene, 1.1, '#849879', x - .75, 4.6, z - .2, [.9, 1, .9]);
+  };
+  const streetLamp = (x, z) => {
+    cylinder(scene, .07, .12, 5.6, '#646f66', x, 2.6, z, 12);
+    box(scene, 1.15, .09, .12, '#646f66', x + .42, 5.32, z);
+    box(scene, .54, .22, .7, '#657168', x + .9, 5.18, z);
+    box(scene, .43, .06, .6, mat('#fff2d2', { emissive: '#edd0a0', emissiveIntensity: .2 }), x + .9, 5.03, z);
+  };
+  for (const [x, z] of [[-24.5, 4.8], [24.5, 4.8], [-24.5, 37], [24.5, 32]]) streetTree(x, z);
+  for (const [x, z] of [[-22.8, 19], [22.8, 20], [-22.8, 34]]) streetLamp(x, z);
+  bench(scene, 24.4, 29, '#af9477');
   // The three framed screens are the real portfolio work, not imaginary UI.
   const loader = new THREE.TextureLoader();
   const screenDefinitions = [
@@ -331,61 +452,72 @@ export async function createWorld(container, { onReady } = {}) {
     const mesh = new THREE.Mesh(geo, screenMaterial); mesh.position.z = .09; proof.add(mesh);
     box(proof, .13, 1.3, .16, trim, -3.6, -3.1, -.05);
     box(proof, .13, 1.3, .16, trim, 3.6, -3.1, -.05);
-    screens.push({ proof, z: group.position.z - 5.6 });
+    screens.push({ proof, group });
   }));
 
   const poses = [
-    { p: 0, eye: [18, 12, 26], target: [-7.5, 2.0, 0] },
-    { p: .10, eye: [6.5, 6.0, 19], target: [0, 2.3, .8] },
-    { p: .18, eye: [.2, 3.1, 10.7], target: [0, 2.7, -4] },
-    { p: .28, eye: [0, 3.1, 1.0], target: [0, 3.2, -5.6] },
-    { p: .35, eye: [0, 3.1, -13], target: [0, 2.8, -29] },
-    { p: .43, eye: [.2, 3.1, -23.0], target: [0, 2.8, -38] },
-    { p: .55, eye: [0, 3.1, -33.1], target: [0, 3.2, -39.6] },
-    { p: .63, eye: [0, 3.1, -47], target: [0, 2.8, -63] },
-    { p: .71, eye: [.2, 3.1, -57.0], target: [0, 2.8, -72] },
-    { p: .84, eye: [0, 3.1, -67.1], target: [0, 3.2, -73.6] },
-    { p: .92, eye: [8, 10, -73], target: [0, 2.1, -68] },
-    { p: 1, eye: [8, 12, -46], target: [0, 1.5, -68] }
+    { p: 0, eye: [53, 41, 76], target: [-14, 1, 8] },
+    { p: .08, eye: [-5, 16, 31], target: [-15, 2.7, -4] },
+    { p: .14, eye: [-15, 5.2, 11], target: [-15, 3.1, -10] },
+    { p: .21, eye: [-15, 3.2, -5.4], target: [-15, 3.2, -12.6] },
+    { p: .28, eye: [-15, 4.5, 8], target: [-15, 3, -7] },
+    { p: .36, eye: [-5, 13, 23], target: [0, 2.5, -6] },
+    { p: .44, eye: [0, 4.5, 10], target: [0, 3.1, -10] },
+    { p: .52, eye: [0, 3.2, -5.4], target: [0, 3.2, -12.6] },
+    { p: .60, eye: [0, 4.5, 8], target: [0, 3, -7] },
+    { p: .68, eye: [9, 13, 23], target: [15, 2.5, -6] },
+    { p: .76, eye: [15, 4.5, 10], target: [15, 3.1, -10] },
+    { p: .83, eye: [15, 3.2, -5.4], target: [15, 3.2, -12.6] },
+    { p: .9, eye: [15, 6, 13], target: [15, 2.5, -7] },
+    { p: 1, eye: [45, 37, 65], target: [0, 1, 10] }
   ];
   const eye = new THREE.Vector3(), target = new THREE.Vector3();
   const smooth = t => t * t * (3 - 2 * t);
+  const portraitViewport = () => container.clientWidth < 700 || (container.clientWidth < 1000 && container.clientHeight > container.clientWidth);
   function draw() {
     raf = 0; if (destroyed) return;
+    progress = Math.abs(targetProgress - progress) < .00005 ? targetProgress : progress + (targetProgress - progress) * .24;
     let i = 0; while (i < poses.length - 2 && progress > poses[i + 1].p) i++;
     const a = poses[i], b = poses[i + 1], t = smooth(THREE.MathUtils.clamp((progress - a.p) / (b.p - a.p), 0, 1));
     eye.fromArray(a.eye).lerp(new THREE.Vector3(...b.eye), t);
     target.fromArray(a.target).lerp(new THREE.Vector3(...b.target), t);
+    let phoneOpening = 0;
     // Pull the phone camera back and center its subject; the desktop leaves room for the title.
-    if (container.clientWidth < 700 && progress < .16) {
-      const opening = 1 - smooth(progress / .16);
-      eye.x += opening * 7; eye.y += opening * 6; eye.z += opening * 8;
-      target.x *= 1 - opening;
-      eye.sub(target).multiplyScalar(1 + opening * .16).add(target);
+    if (portraitViewport() && progress < .13) {
+      const opening = 1 - smooth(progress / .13); phoneOpening = opening;
+      eye.lerp(new THREE.Vector3(13, 115, 110), opening);
+      target.lerp(new THREE.Vector3(0, 12, 13), opening);
     }
+    const viewFov = portraitViewport() ? 50 + phoneOpening * 10 : 42;
+    if (camera.fov !== viewFov) { camera.fov = viewFov; camera.updateProjectionMatrix(); }
     camera.position.copy(eye); camera.lookAt(target);
     steam.rotation.z = Math.sin(progress * 24) * .035;
-    sunlight.position.set(eye.x - 15, 28, eye.z + 18); sunlight.target.position.set(0, 0, eye.z - 4);
-    worlds.forEach((group, n) => {
-      group.visible = n === 0 ? progress < .37 : n === 1 ? progress > .16 && progress < .66 : progress > .43;
-    });
-    screens.forEach(({ proof, z }) => { proof.visible = eye.z - z > .65; });
+    screens.forEach(({ proof, group }) => { proof.visible = group.worldToLocal(eye.clone()).z > -5; });
     renderer.render(scene, camera);
+    container.dataset.cameraProgress = progress.toFixed(4);
+    if (Math.abs(targetProgress - progress) > .00005) requestDraw();
   }
   function requestDraw() { if (!raf && !destroyed) raf = requestAnimationFrame(draw); }
   function resize() {
     if (destroyed) return;
     const width = Math.max(1, container.clientWidth), height = Math.max(1, container.clientHeight);
-    renderer.setSize(width, height, false); camera.aspect = width / height; camera.fov = width < 700 ? 46 : 42; camera.updateProjectionMatrix(); requestDraw();
+    renderer.setSize(width, height, false); camera.aspect = width / height; camera.fov = portraitViewport() ? 50 : 42; camera.updateProjectionMatrix(); requestDraw();
   }
   const observer = new ResizeObserver(resize); observer.observe(container);
   function contextLost(event) {
     event.preventDefault(); container.dispatchEvent(new CustomEvent('worlderror', { detail: 'WebGL context lost' }));
   }
   renderer.domElement.addEventListener('webglcontextlost', contextLost);
+  sunlight.target.position.set(0, 0, 12);
+  renderer.shadowMap.autoUpdate = false; renderer.shadowMap.needsUpdate = true;
+  container.dataset.storeCount = String(worlds.length);
   resize(); draw(); onReady?.();
   return {
-    setProgress(value) { progress = THREE.MathUtils.clamp(Number(value) || 0, 0, 1); requestDraw(); },
+    setProgress(value) {
+      const next = THREE.MathUtils.clamp(Number(value) || 0, 0, 1);
+      if (Math.abs(next - targetProgress) < .000001 && Math.abs(next - progress) < .00005) return;
+      targetProgress = next; requestDraw();
+    },
     resize,
     destroy() {
       destroyed = true; if (raf) cancelAnimationFrame(raf); observer.disconnect();
