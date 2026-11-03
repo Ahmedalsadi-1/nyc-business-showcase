@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-11-03T03:24:43.380Z",
+  "preparedAt": "2026-11-03T03:35:31.557Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
-  "fileCount": 2861,
-  "totalBytes": 60783216,
+  "fileCount": 2864,
+  "totalBytes": 60797442,
   "files": [
     {
       "file": ".nojekyll",
@@ -1100,8 +1100,12 @@
       "bytes": 38528
     },
     {
+      "file": "portfolio/editorial.css",
+      "bytes": 9075
+    },
+    {
       "file": "portfolio/index.html",
-      "bytes": 14159
+      "bytes": 14498
     },
     {
       "file": "portfolio/journey.css",
@@ -1109,7 +1113,7 @@
     },
     {
       "file": "portfolio/journey.js",
-      "bytes": 5058
+      "bytes": 5052
     },
     {
       "file": "portfolio/kron.css",
@@ -1122,6 +1126,14 @@
     {
       "file": "portfolio/review.js",
       "bytes": 1467
+    },
+    {
+      "file": "portfolio/studio-shell.css",
+      "bytes": 3892
+    },
+    {
+      "file": "portfolio/studio-shell.js",
+      "bytes": 926
     },
     {
       "file": "portfolio/vendor/THREE-LICENSE.txt",
@@ -11455,7 +11467,7 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-11-03T03:24:43.380Z",
+  "optimizedAt": "2026-11-03T03:35:31.558Z",
   "optimization": {
     "codec": "WebP",
     "rasterCount": 591,
