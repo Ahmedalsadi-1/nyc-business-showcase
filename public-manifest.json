@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-11-03T02:33:55.550Z",
+  "preparedAt": "2026-11-03T02:37:29.828Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
   "fileCount": 2858,
-  "totalBytes": 60694970,
+  "totalBytes": 60695066,
   "files": [
     {
       "file": ".nojekyll",
@@ -1089,7 +1089,7 @@
     },
     {
       "file": "portfolio/index.html",
-      "bytes": 13802
+      "bytes": 13882
     },
     {
       "file": "portfolio/journey.css",
@@ -1097,7 +1097,7 @@
     },
     {
       "file": "portfolio/journey.js",
-      "bytes": 4875
+      "bytes": 4891
     },
     {
       "file": "portfolio/kron.css",
@@ -11443,7 +11443,7 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-11-03T02:33:55.550Z",
+  "optimizedAt": "2026-11-03T02:37:29.829Z",
   "optimization": {
     "codec": "WebP",
     "rasterCount": 591,
