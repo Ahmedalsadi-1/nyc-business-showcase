@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-10-26T03:46:41.410Z",
+  "preparedAt": "2026-11-03T00:00:27.911Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
-  "fileCount": 2833,
-  "totalBytes": 57892129,
+  "fileCount": 2849,
+  "totalBytes": 60421453,
   "files": [
     {
       "file": ".nojekyll",
@@ -1026,6 +1026,70 @@
     {
       "file": "pitch-kits/zion-auto-repair-and-tires.md",
       "bytes": 7849
+    },
+    {
+      "file": "portfolio/assets/fonts/switzer-400.woff2",
+      "bytes": 16728
+    },
+    {
+      "file": "portfolio/assets/fonts/switzer-500.woff2",
+      "bytes": 19564
+    },
+    {
+      "file": "portfolio/assets/fonts/switzer-600.woff2",
+      "bytes": 19640
+    },
+    {
+      "file": "portfolio/assets/rooms/before-coffee-desktop.jpg.webp",
+      "bytes": 47624
+    },
+    {
+      "file": "portfolio/assets/rooms/before-coffee-mobile.jpg.webp",
+      "bytes": 29450
+    },
+    {
+      "file": "portfolio/assets/rooms/judiths-bakery-desktop.jpg.webp",
+      "bytes": 81334
+    },
+    {
+      "file": "portfolio/assets/rooms/judiths-bakery-mobile.jpg.webp",
+      "bytes": 39720
+    },
+    {
+      "file": "portfolio/assets/rooms/luxury-cut-desktop.jpg.webp",
+      "bytes": 54934
+    },
+    {
+      "file": "portfolio/assets/rooms/luxury-cut-mobile.jpg.webp",
+      "bytes": 38528
+    },
+    {
+      "file": "portfolio/index.html",
+      "bytes": 9723
+    },
+    {
+      "file": "portfolio/journey.css",
+      "bytes": 15188
+    },
+    {
+      "file": "portfolio/journey.js",
+      "bytes": 4877
+    },
+    {
+      "file": "portfolio/vendor/THREE-LICENSE.txt",
+      "bytes": 1081
+    },
+    {
+      "file": "portfolio/vendor/three.core.js",
+      "bytes": 1474799
+    },
+    {
+      "file": "portfolio/vendor/three.module.js",
+      "bytes": 658900
+    },
+    {
+      "file": "portfolio/world.js",
+      "bytes": 17234
     },
     {
       "file": "proposals/170th-auto-mechanic.html",
@@ -11343,11 +11407,11 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-10-26T03:46:41.411Z",
+  "optimizedAt": "2026-11-03T00:00:27.911Z",
   "optimization": {
     "codec": "WebP",
-    "rasterCount": 581,
-    "referenceRewrites": 1496,
+    "rasterCount": 587,
+    "referenceRewrites": 1506,
     "sourceAssetsUnchanged": true,
     "offlinePacks": "Available separately from manager"
   }
