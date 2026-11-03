@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-11-03T00:00:27.911Z",
+  "preparedAt": "2026-11-03T02:33:55.550Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
-  "fileCount": 2849,
-  "totalBytes": 60421453,
+  "fileCount": 2858,
+  "totalBytes": 60694970,
   "files": [
     {
       "file": ".nojekyll",
@@ -1028,6 +1028,30 @@
       "bytes": 7849
     },
     {
+      "file": "portfolio/assets/170th-auto-mechanic-desktop.jpg.webp",
+      "bytes": 64162
+    },
+    {
+      "file": "portfolio/assets/170th-auto-mechanic-mobile.jpg.webp",
+      "bytes": 32252
+    },
+    {
+      "file": "portfolio/assets/2154-flower-for-all-occasions-desktop.jpg.webp",
+      "bytes": 83300
+    },
+    {
+      "file": "portfolio/assets/2154-flower-for-all-occasions-mobile.jpg.webp",
+      "bytes": 37766
+    },
+    {
+      "file": "portfolio/assets/fonts/fraunces-600.woff2",
+      "bytes": 35120
+    },
+    {
+      "file": "portfolio/assets/fonts/FRAUNCES-LICENSE.txt",
+      "bytes": 4391
+    },
+    {
       "file": "portfolio/assets/fonts/switzer-400.woff2",
       "bytes": 16728
     },
@@ -1065,15 +1089,27 @@
     },
     {
       "file": "portfolio/index.html",
-      "bytes": 9723
+      "bytes": 13802
     },
     {
       "file": "portfolio/journey.css",
-      "bytes": 15188
+      "bytes": 16925
     },
     {
       "file": "portfolio/journey.js",
-      "bytes": 4877
+      "bytes": 4875
+    },
+    {
+      "file": "portfolio/kron.css",
+      "bytes": 970
+    },
+    {
+      "file": "portfolio/review.css",
+      "bytes": 1319
+    },
+    {
+      "file": "portfolio/review.js",
+      "bytes": 1467
     },
     {
       "file": "portfolio/vendor/THREE-LICENSE.txt",
@@ -1089,7 +1125,7 @@
     },
     {
       "file": "portfolio/world.js",
-      "bytes": 17234
+      "bytes": 24190
     },
     {
       "file": "proposals/170th-auto-mechanic.html",
@@ -11407,11 +11443,11 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-11-03T00:00:27.911Z",
+  "optimizedAt": "2026-11-03T02:33:55.550Z",
   "optimization": {
     "codec": "WebP",
-    "rasterCount": 587,
-    "referenceRewrites": 1506,
+    "rasterCount": 591,
+    "referenceRewrites": 1510,
     "sourceAssetsUnchanged": true,
     "offlinePacks": "Available separately from manager"
   }
