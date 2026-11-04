@@ -1,11 +1,11 @@
 {
   "exporter": "nyc-public-showcase-v1",
-  "preparedAt": "2026-11-03T03:35:31.557Z",
+  "preparedAt": "2026-11-04T00:58:12.963Z",
   "businessCount": 125,
   "roundTwoCount": 40,
   "roundTwoStatus": "Preview only; excluded from active routes",
-  "fileCount": 2864,
-  "totalBytes": 60797442,
+  "fileCount": 2866,
+  "totalBytes": 60804295,
   "files": [
     {
       "file": ".nojekyll",
@@ -1105,7 +1105,7 @@
     },
     {
       "file": "portfolio/index.html",
-      "bytes": 14498
+      "bytes": 12803
     },
     {
       "file": "portfolio/journey.css",
@@ -1118,6 +1118,14 @@
     {
       "file": "portfolio/kron.css",
       "bytes": 970
+    },
+    {
+      "file": "portfolio/office.css",
+      "bytes": 5298
+    },
+    {
+      "file": "portfolio/office.js",
+      "bytes": 3250
     },
     {
       "file": "portfolio/review.css",
@@ -11467,11 +11475,11 @@
   "findings": [],
   "stockPublishing": "Static host serves inventory snapshots. Authenticated publishing requires the campaign server.",
   "sensitiveData": "Only named public folders copied; no work, private keys, source configuration or authentication files.",
-  "optimizedAt": "2026-11-03T03:35:31.558Z",
+  "optimizedAt": "2026-11-04T00:58:12.964Z",
   "optimization": {
     "codec": "WebP",
     "rasterCount": 591,
-    "referenceRewrites": 1509,
+    "referenceRewrites": 1510,
     "sourceAssetsUnchanged": true,
     "offlinePacks": "Available separately from manager"
   }
