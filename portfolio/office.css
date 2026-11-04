@@ -49,3 +49,10 @@ body:has(.office) .site-header nav{color:#283c42}
 .office:not(.office-motion) .office-display{opacity:1}
 .office-stage.is-showing .office-intro{visibility:hidden}
 .office :focus-visible{outline-color:#ffe3a7}
+.office-world{position:absolute;inset:0;opacity:0;pointer-events:none}
+.office-world canvas{display:block;width:100%;height:100%}
+.has-world .office-world{opacity:1}
+.has-world .office-set{opacity:0;pointer-events:none}
+.has-world .office-intro{text-shadow:0 2px 20px #1c1814}
+.has-world .office-stage{background:#24211c}
+.office-footer{background:linear-gradient(0deg,#161814c7,transparent);left:0;right:0;bottom:0;padding:0 var(--margin)}
